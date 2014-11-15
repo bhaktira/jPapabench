@@ -3,7 +3,6 @@
 *.classpath
 jpapabench-build/output
 jpapabench-build/exp-rtems.sh
-jpapabench-build/personal.build.properties
 jpapabench-core/bin
 pabench-core-flightplans/bin
 jpapabench-pj/bin
