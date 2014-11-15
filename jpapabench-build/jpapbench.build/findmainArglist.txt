@@ -1,0 +1,3 @@
+/home/korpy/development/paparazzi_in_java.git/jpapabench-build/output/jar/jpapabench-pj.jar
+/home/korpy/development/paparazzi_in_java.git/jpapabench-build/output/jar/jpapabench-core.jar
+/home/korpy/development/paparazzi_in_java.git/jpapabench-build/output/jar/jpapabench-core-flightplans.jar
