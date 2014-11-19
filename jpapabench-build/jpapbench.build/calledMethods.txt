@@ -1300,7 +1300,6 @@ Ljava/net/Socket;/getInputStream()Ljava/io/InputStream;
 Ljava/net/Socket;/isBound()Z
 Ljava/net/Socket;/isClosed()Z
 Ljava/net/Socket;/isConnected()Z
-Ljava/net/Socket;/setSoTimeout(I)V
 Ljava/net/Socket;/toString()Ljava/lang/String;
 Ljava/net/SocketAddress;/<init>()V
 Ljava/net/SocketException;/<init>()V
@@ -1318,7 +1317,6 @@ Ljava/net/SocketImpl;/getPort()I
 Ljava/net/SocketImpl;/listen(I)V
 Ljava/net/SocketImpl;/toString()Ljava/lang/String;
 Ljava/net/SocketOptions;/getOption(I)Ljava/lang/Object;
-Ljava/net/SocketOptions;/setOption(ILjava/lang/Object;)V
 Ljava/net/SocketTimeoutException;/<init>()V
 Ljava/net/SocketTimeoutException;/<init>(Ljava/lang/String;)V
 Ljava/net/UnknownHostException;/<init>()V
@@ -2557,7 +2555,6 @@ P/greaterThan(I)Z
 P/greaterThan(P)Z
 P/greaterThanOrEqual(P)Z
 P/lessThan(I)Z
-P/lessThanOrEqual(P)Z
 P/mul(I)P
 P/signedLessThan(I)Z
 P/sub(I)P

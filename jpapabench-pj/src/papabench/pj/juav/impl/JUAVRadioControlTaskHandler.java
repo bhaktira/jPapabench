@@ -32,10 +32,10 @@ import papabench.core.autopilot.modules.LinkToFBW;
 import papabench.core.commons.conf.RadioConf;
 import papabench.core.commons.data.InterMCUMsg;
 import papabench.core.utils.PPRZUtils;
-import papabench.pj.juav.CommChannel;
-import papabench.pj.juav.CommChannels;
-import papabench.pj.juav.MessageHelper;
-import papabench.pj.juav.OutputMsgInfo;
+import papabench.messaging.juav.CommChannel;
+import papabench.messaging.juav.CommChannels;
+import papabench.messaging.juav.MessageHelper;
+import papabench.messaging.juav.OutputMsgInfo;
 
 /**
  * Handler transfers commands to fly-by-wire unit.

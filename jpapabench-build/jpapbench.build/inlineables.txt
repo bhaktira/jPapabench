@@ -1708,7 +1708,6 @@ P/greaterThan(I)Z
 P/greaterThan(P)Z
 P/greaterThanOrEqual(P)Z
 P/lessThan(I)Z
-P/lessThanOrEqual(P)Z
 P/mul(I)P
 P/signedLessThan(I)Z
 P/sub(I)P

@@ -42,8 +42,8 @@ import papabench.core.simulator.devices.SimulatedDevice;
 import papabench.core.simulator.model.FlightModel;
 import papabench.core.utils.LogUtils;
 import papabench.core.utils.MathUtils;
-import papabench.pj.juav.InputMsgInfo;
-import papabench.pj.juav.Timing;
+import papabench.messaging.juav.InputMsgInfo;
+import papabench.messaging.juav.Timing;
 import papabench.pj.utility.GPSConversion;
 
 /**

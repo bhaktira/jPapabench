@@ -27,11 +27,11 @@ import javax.realtime.RealtimeThread;
 
 import papabench.core.autopilot.modules.AutopilotModule;
 import papabench.core.simulator.devices.SimulatedDevice;
-import papabench.pj.juav.CommChannel;
-import papabench.pj.juav.CommChannels;
-import papabench.pj.juav.InputMsgInfo;
-import papabench.pj.juav.MessageHelper;
-import papabench.pj.juav.OutputMsgInfo;
+import papabench.messaging.juav.CommChannel;
+import papabench.messaging.juav.CommChannels;
+import papabench.messaging.juav.InputMsgInfo;
+import papabench.messaging.juav.MessageHelper;
+import papabench.messaging.juav.OutputMsgInfo;
 
 /**
  * Reports airplane state to ground central.

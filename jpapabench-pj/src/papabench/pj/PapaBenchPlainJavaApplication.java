@@ -26,7 +26,7 @@ import javax.realtime.RealtimeThread;
 
 import papabench.core.commons.data.FlightPlan;
 import papabench.core.commons.data.impl.RoundTripFlightPlan;
-import papabench.pj.juav.JUAVRoundTripFlightPlan;
+import papabench.messaging.juav.JUAVRoundTripFlightPlan;
 
 /**
  * Launcher for the plain-Java PapaBench implementation.

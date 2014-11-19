@@ -161,7 +161,6 @@ Lcom/fiji/fivm/r1/libc;/inet_aton(PP)I
 Lcom/fiji/fivm/r1/libc;/memcpy(PPP)V
 Lcom/fiji/fivm/r1/libc;/memcpyOrMove(ZPPP)V
 Lcom/fiji/fivm/r1/libc;/memmove(PPP)V
-Lcom/fiji/fivm/r1/libc;/nanotimeToTimeval(PJ)V
 Lcom/fiji/fivm/r1/libc;/netEndianFlip(S)S
 Lcom/fiji/fivm/r1/libc;/newFdSet()P
 Lcom/fiji/fivm/r1/libc;/read(IPP)P
@@ -171,7 +170,6 @@ Lcom/fiji/fivm/r1/libc;/stderr_fd()I
 Lcom/fiji/fivm/r1/libc;/stdin_fd()I
 Lcom/fiji/fivm/r1/libc;/stdout_fd()I
 Lcom/fiji/fivm/r1/libc;/timevalSize()I
-Lcom/fiji/fivm/r1/libc;/timevalToNanotime(P)J
 Lcom/fiji/fivm/r1/libc;/write(IPP)P
 Lcom/fiji/fivm/r1/libc;/writeIgnoreEINTR(IPP)P
 Lcom/fiji/fivm/util/DisableEnableExit;/<clinit>()V
@@ -703,7 +701,6 @@ P/greaterThan(I)Z
 P/greaterThan(P)Z
 P/greaterThanOrEqual(P)Z
 P/lessThan(I)Z
-P/lessThanOrEqual(P)Z
 P/mul(I)P
 P/signedLessThan(I)Z
 P/sub(I)P

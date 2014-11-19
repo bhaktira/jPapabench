@@ -1,7 +1,7 @@
 CC=gcc
-CPPFLAGS= -DHAVE_CONFIG_H   -D_REENTRANT -D_GNU_SOURCE -I'/home/korpy/development/Fiji/fivm-rtdroid/runtimec/src' -I'/home/korpy/development/Fiji/fivm-rtdroid/lib/targets/POSIX-linux-gnu-x86_64-64' -I. -DFIVMBUILD_SPECIALIZING=1
-CFLAGS=  -m64 -march=nocona -m64    -Wno-unused-command-line-argument -O3 -fno-strict-aliasing -fno-optimize-sibling-calls -fomit-frame-pointer -falign-loops -fwrapv -momit-leaf-frame-pointer -msse2 -mfpmath=sse -fno-pic 
-LDFLAGS=   -m64 -march=nocona -m64
+CPPFLAGS= -DHAVE_CONFIG_H   -D_REENTRANT -D_GNU_SOURCE -I'/home/korpy/development/Fiji/fivm-rtdroid/runtimec/src' -I'/home/korpy/development/Fiji/fivm-rtdroid/lib/targets/POSIX-linux-gnu-x86_64-32' -I. -DFIVMBUILD_SPECIALIZING=1
+CFLAGS=  -m32    -Wno-unused-command-line-argument -O3 -fno-strict-aliasing -fno-optimize-sibling-calls -fomit-frame-pointer -falign-loops -fwrapv -momit-leaf-frame-pointer -msse2 -mfpmath=sse -fno-pic 
+LDFLAGS=   -m32
 LIBS=-lpthread -ldl -lm 
 HOMEDIR=/home/korpy/development/Fiji/fivm-rtdroid
 RTTARGS=

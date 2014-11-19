@@ -70,11 +70,18 @@
 		<pathelement location="${output.jpapabench.core.dir}" />
 	</path>
 
+	<path id="classpath.build.jpapabench.juav">
+			<path refid="classpath.build.base" />
+			<path refid="classpath.build.rtsj" />
+			<pathelement location="${output.jpapabench.core.dir}" />
+	</path>
+	
 	<path id="classpath.build.jpapabench.pj">
 		<path refid="classpath.build.base" />
 		<path refid="classpath.build.rtsj" />
         <pathelement location="${output.jpapabench.core.dir}" />
 		<pathelement location="${output.jpapabench.core.flightplans.dir}" />
+		<pathelement location="${output.jpapabench.juav.dir}" />
 	</path>
 
 	<path id="classpath.build.jpapabench.rtsj">
@@ -126,6 +133,7 @@
 		<mkdir dir="${output.jpapabench.pj.dir}" />
 		<mkdir dir="${output.jpapabench.rtsj.dir}" />
 		<mkdir dir="${output.jpapabench.scj.dir}" />
+		<mkdir dir="${output.jpapabench.juav.dir}" />
 		<mkdir dir="${log.dir}" />
 	</target>
 
@@ -144,6 +152,10 @@
 
 		<javac includeantruntime="false" srcdir="${src.jpapabench.core.flightplans.dir}" destdir="${output.jpapabench.core.flightplans.dir}" deprecation="on" debug="on">
 			<classpath refid="classpath.build.jpapabench.core.flightplans" />
+		</javac>
+		
+		<javac includeantruntime="false" srcdir="${src.jpapabench.juav.dir}" destdir="${output.jpapabench.juav.dir}" deprecation="on" debug="on">
+					<classpath refid="classpath.build.jpapabench.juav" />
 		</javac>
 	</target>
 

@@ -650,7 +650,6 @@ Ljava/net/Socket;/connect(Ljava/net/SocketAddress;I)V
 Ljava/net/Socket;/getChannel()Ljava/nio/channels/SocketChannel;
 Ljava/net/Socket;/getInputStream()Ljava/io/InputStream;
 Ljava/net/Socket;/isConnected()Z
-Ljava/net/Socket;/setSoTimeout(I)V
 Ljava/net/Socket;/toString()Ljava/lang/String;
 Ljava/net/SocketException;/<init>()V
 Ljava/net/SocketException;/<init>(Ljava/lang/String;)V
