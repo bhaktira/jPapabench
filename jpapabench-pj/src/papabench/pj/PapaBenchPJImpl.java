@@ -152,6 +152,7 @@ public class PapaBenchPJImpl implements PJPapaBench {
 
 		// Register simulator tasks
 		createSimulatorTasks(flightModel, autopilotModule, fbwModule);
+		
 		// init message helper
 		MessageHelper.getInstance().init(autopilotModule, fbwModule,
 				flightPlan, flightModel);

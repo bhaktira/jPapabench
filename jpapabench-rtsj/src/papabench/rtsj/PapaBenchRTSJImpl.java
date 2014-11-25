@@ -76,6 +76,8 @@ public class PapaBenchRTSJImpl implements RTSJPapaBench {
 	private static final int AUTOPILOT_TASKS_COUNT = 7;
 	private static final int FBW_TASKS_COUNT = 4;
 	private static final int SIMULATOR_TASKS_COUNT = 3;
+	private static final int TOTAL_TASKS_COUNT = AUTOPILOT_TASKS_COUNT
+			+ FBW_TASKS_COUNT + SIMULATOR_TASKS_COUNT;
 	
 	private RealtimePeriodicTask[] autopilotTasks;
 	private RealtimePeriodicTask[] fbwTasks;
@@ -130,7 +132,6 @@ public class PapaBenchRTSJImpl implements RTSJPapaBench {
 		
 		// Register simulator tasks
 		createSimulatorTasks(flightModel, autopilotModule, fbwModule);			
-
 	}
 	
 	protected void createAutopilotTasks(AutopilotModule autopilotModule) {

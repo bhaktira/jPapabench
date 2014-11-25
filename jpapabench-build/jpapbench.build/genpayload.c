@@ -5,11 +5,11 @@
 #include <fivmr.h>
 extern fivmr_Payload jpapbench_payload;
 extern uintptr_t jpapbench_stringIndex[];
-extern fivmr_TypeData jpapbench_TypeData_PapaBenchPlainJavaApplication_tNr3hl6O2NMiJlqJutkLC;
+extern fivmr_TypeData jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6;
 fivmr_StaticTypeContext jpapbench_contexts[2];
 extern fivmr_Configuration jpapbench_config;
-int64_t jpapbench_staticPrimFields[16];
-fivmr_Object jpapbench_staticRefFields[141];
+int64_t jpapbench_staticPrimFields[11];
+fivmr_Object jpapbench_staticRefFields[102];
 bool jpapbench_postThreadInitCback(fivmr_ThreadState *ts);
 extern uintptr_t jpapbench_typeList[];
 extern fivmr_TypeStub jpapbench_stubList[];
@@ -17,37 +17,37 @@ extern uintptr_t jpapbench_degugTable[];
 extern uintptr_t jpapbench_stringTable[];
 extern uintptr_t jpapbench_stringDataArray[];
 extern uintptr_t jpapbench_classTable[];
-extern fivmr_TypeData jpapbench_TypeData_float_jYAb064TTl5ULSaM45eom3;
-extern fivmr_TypeData jpapbench_TypeData_vm_FCPtr_RXJlkedCSLtbjp4C2SYZW2;
-extern fivmr_TypeData jpapbench_TypeData_top_bkcp4oGc4D8yEEH7nlTJj6;
-extern fivmr_TypeData jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5;
-extern fivmr_TypeData jpapbench_TypeData_shortArr_O9QqSxVPUYeTdeZkUTYxS2;
-extern fivmr_TypeData jpapbench_TypeData_char_GiXZWB9j4vBLRwx6WJyV86;
-extern fivmr_TypeData jpapbench_TypeData_double_9qhcjlYcEbW7W8Wvd29o68;
-extern fivmr_TypeData jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2;
-extern fivmr_TypeData jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8;
-extern fivmr_TypeData jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8;
 extern fivmr_TypeData jpapbench_TypeData_short_31w3AaWO7w89oLerGEZ9h3;
-extern fivmr_TypeData jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5;
-extern fivmr_TypeData jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5;
-extern fivmr_TypeData jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7;
+extern fivmr_TypeData jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ;
+extern fivmr_TypeData jpapbench_TypeData_char_GiXZWB9j4vBLRwx6WJyV86;
 extern fivmr_TypeData jpapbench_TypeData_void_au552JrSiVdXJTpoUumvq7;
-extern fivmr_TypeData jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76;
-extern fivmr_TypeData jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16;
-extern fivmr_TypeData jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35;
 extern fivmr_TypeData jpapbench_TypeData_byteArr_nhLAxLkni0PhWM81bwqQW7;
-extern fivmr_TypeData jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2;
 extern fivmr_TypeData jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6;
+extern fivmr_TypeData jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7;
+extern fivmr_TypeData jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2;
+extern fivmr_TypeData jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5;
+extern fivmr_TypeData jpapbench_TypeData_float_jYAb064TTl5ULSaM45eom3;
+extern fivmr_TypeData jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35;
+extern fivmr_TypeData jpapbench_TypeData_shortArr_O9QqSxVPUYeTdeZkUTYxS2;
+extern fivmr_TypeData jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76;
+extern fivmr_TypeData jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2;
+extern fivmr_TypeData jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5;
+extern fivmr_TypeData jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl;
+extern fivmr_TypeData jpapbench_TypeData_double_9qhcjlYcEbW7W8Wvd29o68;
+extern fivmr_TypeData jpapbench_TypeData_pointer_sEgXFRMZ4QGvR8UkdPirt7;
 extern fivmr_TypeData jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5;
+extern fivmr_TypeData jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8;
+extern fivmr_TypeData jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5;
+extern fivmr_TypeData jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7;
+extern fivmr_TypeData jpapbench_TypeData_top_bkcp4oGc4D8yEEH7nlTJj6;
+extern fivmr_TypeData jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16;
+extern fivmr_TypeData jpapbench_TypeData_byte_p0EiuVgIFBYQneSwHkWxN2;
+extern fivmr_TypeData jpapbench_TypeData_vm_FCPtr_RXJlkedCSLtbjp4C2SYZW2;
+extern fivmr_TypeData jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3;
+extern fivmr_TypeData jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7;
 extern fivmr_TypeData jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34;
 extern fivmr_TypeData jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5;
-extern fivmr_TypeData jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl;
-extern fivmr_TypeData jpapbench_TypeData_pointer_sEgXFRMZ4QGvR8UkdPirt7;
-extern fivmr_TypeData jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7;
-extern fivmr_TypeData jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7;
-extern fivmr_TypeData jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ;
-extern fivmr_TypeData jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3;
-extern fivmr_TypeData jpapbench_TypeData_byte_p0EiuVgIFBYQneSwHkWxN2;
+extern fivmr_TypeData jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8;
 void jpapbench_fivmRuntime_initSystemClassLoaders(uintptr_t arg0);
 void jpapbench_fivmRuntime_notifyInitialized(uintptr_t arg0);
 void jpapbench_returnBuffer(uintptr_t arg0,uintptr_t arg1);
@@ -130,11 +130,11 @@ uintptr_t jpapbench_VMThread_getThreadState(uintptr_t arg0,uintptr_t arg1);
 void jpapbench_VMThread_starting(uintptr_t arg0,uintptr_t arg1);
 void jpapbench_VMThread_run(uintptr_t arg0,uintptr_t arg1);
 int8_t jpapbench_VMThread_setUncaughtException(uintptr_t arg0,uintptr_t arg1,uintptr_t arg2);
+void jpapbench_runRunnable(uintptr_t arg0,uintptr_t arg1);
+void jpapbench_javaExit(uintptr_t arg0,int32_t arg1);
 void jpapbench_VMThread_die(uintptr_t arg0,uintptr_t arg1);
 int32_t jpapbench_VMThread_getPriority(uintptr_t arg0,uintptr_t arg1);
 int8_t jpapbench_VMThread_isDaemon(uintptr_t arg0,uintptr_t arg1);
-void jpapbench_runRunnable(uintptr_t arg0,uintptr_t arg1);
-void jpapbench_javaExit(uintptr_t arg0,int32_t arg1);
 uintptr_t jpapbench_String_getArrayPointer(uintptr_t arg0,uintptr_t arg1);
 int32_t jpapbench_String_getOffset(uintptr_t arg0,uintptr_t arg1);
 uintptr_t jpapbench_allocForNative(uintptr_t arg0,int32_t arg1,uintptr_t arg2);
@@ -146,49 +146,25 @@ uintptr_t jpapbench_MemoryArea_getBSID(uintptr_t arg0,uintptr_t arg1);
 uintptr_t jpapbench_BackingStoreID_create(uintptr_t arg0,uintptr_t arg1);
 void jpapbench_MemoryArea_doRun(uintptr_t arg0,uintptr_t arg1,uintptr_t arg2);
 uintptr_t jpapbench_DumpStackCback_cback(uintptr_t arg0,uintptr_t arg1,uintptr_t arg2,int32_t arg3);
-static uint32_t usedTids[120] = {
+static uint32_t usedTids[96] = {
    (uint32_t)INT32_C(2),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(8191),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(-2),
-   (uint32_t)INT32_C(-1),
-   (uint32_t)INT32_C(-1),
-   (uint32_t)INT32_C(-1),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(-2),
    (uint32_t)INT32_C(-1),
-   (uint32_t)INT32_C(1073741823),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(-2),
    (uint32_t)INT32_C(-1),
-   (uint32_t)INT32_C(32767),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(-2),
-   (uint32_t)INT32_C(16777215),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(15),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(-2),
-   (uint32_t)INT32_C(33554431),
+   (uint32_t)INT32_C(131071),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
@@ -196,14 +172,38 @@ static uint32_t usedTids[120] = {
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(-2),
-   (uint32_t)INT32_C(127),
+   (uint32_t)INT32_C(524287),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(16382),
+   (uint32_t)INT32_C(-2),
+   (uint32_t)INT32_C(31),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(-2),
+   (uint32_t)INT32_C(4095),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(134217726),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(0),
+   (uint32_t)INT32_C(1022),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
@@ -227,7 +227,7 @@ static uint32_t usedTids[120] = {
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(14),
+   (uint32_t)INT32_C(6),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
@@ -235,31 +235,7 @@ static uint32_t usedTids[120] = {
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(14),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(2),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(2),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(0),
-   (uint32_t)INT32_C(2),
+   (uint32_t)INT32_C(6),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
    (uint32_t)INT32_C(0),
@@ -269,15 +245,15 @@ static uint32_t usedTids[120] = {
    (uint32_t)INT32_C(0)
 };
 static int32_t itableOcc[5] = {
-   INT32_C(10),
-   INT32_C(7),
-   INT32_C(5),
+   INT32_C(6),
    INT32_C(3),
-   INT32_C(2)
+   INT32_C(4),
+   INT32_C(2),
+   INT32_C(1)
 };
 fivmr_Payload jpapbench_payload = {
    "v0.9.1-r05153139d720",
-   "/home/korpy/development/Fiji/fivm-rtdroid",
+   "/home/abhinav/Juav/Fiji/fivm-rtdroid",
    {
       {
          UINT32_C(1364795540)
@@ -287,17 +263,17 @@ fivmr_Payload jpapbench_payload = {
    &jpapbench_config,
    FIVMR_PL_IMMORTAL_ONESHOT,
    NULL,
-   (int32_t)16,
-   (int32_t)141,
+   (int32_t)11,
+   (int32_t)102,
    jpapbench_staticPrimFields,
    jpapbench_staticRefFields,
-   (int32_t)21672,
-   (int32_t)532,
+   (int32_t)12448,
+   (int32_t)358,
    (uintptr_t)0,
-   (int32_t)503,
+   (int32_t)336,
    (int32_t)0,
    (int32_t)2,
-   (int32_t)1371,
+   (int32_t)1349,
    (fivmr_TypeData**)jpapbench_typeList,
    (fivmr_TypeStub*)(&jpapbench_stubList),
    jpapbench_contexts,
@@ -310,9 +286,9 @@ fivmr_Payload jpapbench_payload = {
    (uintptr_t)(intptr_t)-4,
    (uintptr_t)(intptr_t)-4,
    "jpapbench",
-   (&jpapbench_TypeData_PapaBenchPlainJavaApplication_tNr3hl6O2NMiJlqJutkLC),
+   (&jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6),
    usedTids,
-   (uintptr_t)15,
+   (uintptr_t)12,
    itableOcc,
    (uintptr_t)5,
    NULL,
@@ -462,6 +438,6 @@ fivmr_Payload jpapbench_payload = {
 ,  jpapbench_javaExit
 };
 fivmr_StaticTypeContext jpapbench_contexts[2] = {
-   { 0, 387, 0, 0, &jpapbench_payload },
-   { 387, 116, 0, 0, &jpapbench_payload }
+   { 0, 330, 0, 0, &jpapbench_payload },
+   { 330, 6, 0, 0, &jpapbench_payload }
 };

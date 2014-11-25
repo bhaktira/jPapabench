@@ -27,7 +27,12 @@ import papabench.core.AbstractPapaBenchApplication;
 import papabench.core.commons.data.FlightPlan;
 import papabench.core.commons.data.impl.*;
 import papabench.rtsj.utils.ParametersFactory;
+import javax.realtime.PriorityParameters;
+import javax.realtime.RealtimeThread;
 
+import papabench.core.commons.data.FlightPlan;
+import papabench.core.commons.data.impl.RoundTripFlightPlan;
+import papabench.messaging.juav.JUAVRoundTripFlightPlan;
 /**
  * PapaBench RTSJ application launcher class.
  * 
@@ -35,13 +40,25 @@ import papabench.rtsj.utils.ParametersFactory;
  *
  */
 public class PapaBenchRTSJApplication extends AbstractPapaBenchApplication {
+	private static final int TARGET_RT = 0;
 	
 	public static void main(String[] args) {
+	
+		if (TARGET_RT == 0) {
+			RTSJPapaBench RTSJPapaBench = new PapaBenchRTSJImpl();
+			FlightPlan plan = new JUAVRoundTripFlightPlan();
+			RTSJPapaBench.setFlightPlan(plan);
+			RTSJPapaBench.init();
+			RTSJPapaBench.start();
+		}
+		else{
 		RealtimeThread launchThread = new RealtimeThread() {
 			public void run() {
+				
+				
 				RTSJPapaBench papaBench = new PapaBenchRTSJImpl();						
-				FlightPlan plan = new RoundTripFlightPlan();
-				System.out.println("Flight plan: " + plan.getName());
+				FlightPlan plan = new JUAVRoundTripFlightPlan();
+				//System.out.println("Flight plan: " + plan.getName());
 				
 				papaBench.setFlightPlan(plan);
 				papaBench.init();
@@ -62,7 +79,8 @@ public class PapaBenchRTSJApplication extends AbstractPapaBenchApplication {
 //						
 //						papaBench.start();
 //					}
-//				});				
+//				});	
+				
 			};
 		};
 		//launchThread.
@@ -73,6 +91,7 @@ public class PapaBenchRTSJApplication extends AbstractPapaBenchApplication {
 			launchThread.join();
 		} catch (InterruptedException e) {			
 			e.printStackTrace();
+		}
 		}
 	}
 }

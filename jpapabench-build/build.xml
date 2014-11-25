@@ -89,6 +89,7 @@
 		<path refid="classpath.build.rtsj" />
 		<pathelement location="${output.jpapabench.core.dir}" />
 		<pathelement location="${output.jpapabench.core.flightplans.dir}" />
+<pathelement location="${output.jpapabench.juav.dir}" />
 	</path>
 
 	<path id="classpath.build.jpapabench.scj">
@@ -215,3 +216,4 @@
 		</jar>
 	</target>
 </project>
+
