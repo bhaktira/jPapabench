@@ -123,6 +123,8 @@ void jpapbench_makeJNIFuncName(uintptr_t arg0,uintptr_t arg1,int32_t arg2,uintpt
 uintptr_t jpapbench_processArgs(uintptr_t arg0,int32_t arg1,uintptr_t arg2);
 void jpapbench_getStringRegion(uintptr_t arg0,uintptr_t arg1,int32_t arg2,int32_t arg3,uintptr_t arg4);
 void jpapbench_getStringUTFRegion(uintptr_t arg0,uintptr_t arg1,int32_t arg2,int32_t arg3,uintptr_t arg4);
+void jpapbench_runRunnable(uintptr_t arg0,uintptr_t arg1);
+void jpapbench_javaExit(uintptr_t arg0,int32_t arg1);
 uintptr_t jpapbench_VMThread_create(uintptr_t arg0,int32_t arg1,int8_t arg2);
 uintptr_t jpapbench_VMThread_createRT(uintptr_t arg0,int32_t arg1,int8_t arg2);
 void jpapbench_VMThread_setThreadState(uintptr_t arg0,uintptr_t arg1,uintptr_t arg2);
@@ -130,15 +132,13 @@ uintptr_t jpapbench_VMThread_getThreadState(uintptr_t arg0,uintptr_t arg1);
 void jpapbench_VMThread_starting(uintptr_t arg0,uintptr_t arg1);
 void jpapbench_VMThread_run(uintptr_t arg0,uintptr_t arg1);
 int8_t jpapbench_VMThread_setUncaughtException(uintptr_t arg0,uintptr_t arg1,uintptr_t arg2);
-void jpapbench_runRunnable(uintptr_t arg0,uintptr_t arg1);
-void jpapbench_javaExit(uintptr_t arg0,int32_t arg1);
 void jpapbench_VMThread_die(uintptr_t arg0,uintptr_t arg1);
 int32_t jpapbench_VMThread_getPriority(uintptr_t arg0,uintptr_t arg1);
 int8_t jpapbench_VMThread_isDaemon(uintptr_t arg0,uintptr_t arg1);
-uintptr_t jpapbench_String_getArrayPointer(uintptr_t arg0,uintptr_t arg1);
-int32_t jpapbench_String_getOffset(uintptr_t arg0,uintptr_t arg1);
 uintptr_t jpapbench_allocForNative(uintptr_t arg0,int32_t arg1,uintptr_t arg2);
 uintptr_t jpapbench_allocArrayForNative(uintptr_t arg0,int32_t arg1,uintptr_t arg2,int32_t arg3);
+uintptr_t jpapbench_String_getArrayPointer(uintptr_t arg0,uintptr_t arg1);
+int32_t jpapbench_String_getOffset(uintptr_t arg0,uintptr_t arg1);
 uintptr_t jpapbench_DirectByteBuffer_wrap(uintptr_t arg0,uintptr_t arg1,int32_t arg2,int32_t arg3,int32_t arg4);
 uintptr_t jpapbench_DirectByteBuffer_address(uintptr_t arg0,uintptr_t arg1);
 int32_t jpapbench_DirectByteBuffer_capacity(uintptr_t arg0,uintptr_t arg1);
@@ -267,7 +267,7 @@ fivmr_Payload jpapbench_payload = {
    (int32_t)102,
    jpapbench_staticPrimFields,
    jpapbench_staticRefFields,
-   (int32_t)12448,
+   (int32_t)12422,
    (int32_t)358,
    (uintptr_t)0,
    (int32_t)336,

@@ -36,7 +36,7 @@ public class CommChannelPJ implements CommChannel {
 			while (inputConn.size() < numInput) {
 				System.out.println("Waiting for client request");
 				Socket socket = serverSocket.accept();
-				socket.setSoTimeout(100000);
+				socket.setSoTimeout(10);
 				System.out.println("Get connection...");
 				BufferedReader reader = new BufferedReader(
 						new InputStreamReader(socket.getInputStream()));

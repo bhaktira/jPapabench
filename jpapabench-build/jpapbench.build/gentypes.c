@@ -3103,7 +3103,7 @@ jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl_type jpapbench_TypeData_long_ODGjC
 jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43_type jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43;
 static int8_t jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43_buckets[12] = {
    INT8_C(1),
-   INT8_C(68),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3139,14 +3139,14 @@ jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43_type jpapbench_TypeData_FCMagi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43_buckets,
-         (int8_t)68,
+         (int8_t)9,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCMagic_iKUfp5lMoBsMM21AODZO43_buckets,
-         (int8_t)68,
+         (int8_t)9,
          (uint16_t)1,
       }
    },
@@ -3244,9 +3244,9 @@ jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ_type jpapbench_TypeData_Object_Q
 jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2_type jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2;
 static int8_t jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2_buckets[12] = {
    INT8_C(1),
-   INT8_C(5),
+   INT8_C(22),
    INT8_C(0),
-   INT8_C(2),
+   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3290,14 +3290,14 @@ jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2_type jpapbench_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2_buckets,
-         (int8_t)5,
+         (int8_t)22,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharArrayAppendAdapter_tsIEogiHmL8y4QDhmeEDe2_buckets,
-         (int8_t)5,
+         (int8_t)22,
          (uint16_t)1,
       }
    },
@@ -3324,7 +3324,7 @@ static int8_t jpapbench_TypeData_Appendable_QDvaDCJtzkab52Dawi4WY4_buckets[12] =
    INT8_C(1),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(2),
+   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3358,14 +3358,14 @@ jpapbench_TypeData_Appendable_QDvaDCJtzkab52Dawi4WY4_type jpapbench_TypeData_App
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Appendable_QDvaDCJtzkab52Dawi4WY4_buckets,
-         (int8_t)2,
+         (int8_t)1,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Appendable_QDvaDCJtzkab52Dawi4WY4_buckets,
-         (int8_t)2,
+         (int8_t)1,
          (uint16_t)3,
       }
    },
@@ -3389,8 +3389,8 @@ jpapbench_TypeData_Appendable_QDvaDCJtzkab52Dawi4WY4_type jpapbench_TypeData_App
 jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5_type jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5;
 static int8_t jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(48),
    INT8_C(0),
    INT8_C(0),
@@ -3461,7 +3461,7 @@ jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5_type jpapbench_TypeData_charAr
 jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3_type jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3;
 static int8_t jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3_buckets[12] = {
    INT8_C(1),
-   INT8_C(77),
+   INT8_C(4),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3500,14 +3500,14 @@ jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3_type jpapbench_TypeData_Detec
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3_buckets,
-         (int8_t)77,
+         (int8_t)4,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Detector_36POUs94nPqjf9rVxnMRj3_buckets,
-         (int8_t)77,
+         (int8_t)4,
          (uint16_t)1,
       }
    },
@@ -3585,7 +3585,7 @@ jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35_type jpapbench_TypeData_boolea
 jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6_type jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6;
 static int8_t jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6_buckets[12] = {
    INT8_C(1),
-   INT8_C(82),
+   INT8_C(54),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3624,14 +3624,14 @@ jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6_type jpapbench_TypeData_JNIUt
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6_buckets,
-         (int8_t)82,
+         (int8_t)54,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_JNIUtils_LVpIAKxIq4XrsB7jluuyS6_buckets,
-         (int8_t)82,
+         (int8_t)54,
          (uint16_t)1,
       }
    },
@@ -3717,10 +3717,10 @@ jpapbench_TypeData_void_au552JrSiVdXJTpoUumvq7_type jpapbench_TypeData_void_au55
 jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_type jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7;
 static int8_t jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(6),
-   INT8_C(17),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(5),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3740,13 +3740,13 @@ static fivmr_TypeData *jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_ilist[3]
 ,  (fivmr_TypeData*)&jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6
 };
 static fivmr_FieldRec jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_fields[7] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "upperExpand", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(16)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "upperSpecial", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(20)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "upperExpand", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(80)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "upperSpecial", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(84)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "value", 10, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)0 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "count", 202, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)4 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "cachedHashCode", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)8 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "offset", 202, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)12 }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "CASE_INSENSITIVE_ORDER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Comparator_T58pd7pfkr724dMLidDJT), (uintptr_t)(UINT32_C(24)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7, "CASE_INSENSITIVE_ORDER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Comparator_T58pd7pfkr724dMLidDJT), (uintptr_t)(UINT32_C(88)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_methods[19] = {
    &jpapbench_MethodRec_String__clinit__hkjZKcPDr8967UTIpNVtX6
@@ -3796,14 +3796,14 @@ jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_type jpapbench_TypeData_String_
          (uint16_t)1,
          jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_itable-0,
          jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_buckets,
-         (int8_t)6,
+         (int8_t)5,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_itable-0,
          jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_buckets,
-         (int8_t)6,
+         (int8_t)5,
          (uint16_t)3,
       }
    },
@@ -3828,7 +3828,7 @@ jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7_type jpapbench_TypeData_String_
 jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_type jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8;
 static int8_t jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_buckets[12] = {
    INT8_C(1),
-   INT8_C(95),
+   INT8_C(63),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -3957,14 +3957,14 @@ jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_type jpapbench_TypeData_Setti
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_buckets,
-         (int8_t)95,
+         (int8_t)63,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_buckets,
-         (int8_t)95,
+         (int8_t)63,
          (uint16_t)1,
       }
    },
@@ -3988,7 +3988,7 @@ jpapbench_TypeData_Settings_79qaF0q5k8eRMxhjoDhFI8_type jpapbench_TypeData_Setti
 jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c_type jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c;
 static int8_t jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c_buckets[12] = {
    INT8_C(1),
-   INT8_C(81),
+   INT8_C(56),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4024,14 +4024,14 @@ jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c_type jpapbench_TypeData_Time_btIxx
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c_buckets,
-         (int8_t)81,
+         (int8_t)56,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Time_btIxxwWRGmC9PWZKqAB2c_buckets,
-         (int8_t)81,
+         (int8_t)56,
          (uint16_t)1,
       }
    },
@@ -4056,7 +4056,7 @@ jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_type jpapbench_TypeData_OMC
 static int8_t jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(44),
+   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4091,14 +4091,14 @@ jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_type jpapbench_TypeData_OMC
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_buckets,
-         (int8_t)44,
+         (int8_t)43,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_buckets,
-         (int8_t)44,
+         (int8_t)43,
          (uint16_t)2,
       }
    },
@@ -4122,7 +4122,7 @@ jpapbench_TypeData_OMConstant_XkwCrL5KSa7LXiDqzOWda2_type jpapbench_TypeData_OMC
 jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_type jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3;
 static int8_t jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_buckets[12] = {
    INT8_C(1),
-   INT8_C(70),
+   INT8_C(30),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4158,14 +4158,14 @@ jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_type jpapbench_TypeData_OMData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_buckets,
-         (int8_t)70,
+         (int8_t)30,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_buckets,
-         (int8_t)70,
+         (int8_t)30,
          (uint16_t)1,
       }
    },
@@ -4189,8 +4189,8 @@ jpapbench_TypeData_OMData_8qQdrq1I50SIPxLSMNL1S3_type jpapbench_TypeData_OMData_
 jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_type jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C;
 static int8_t jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_buckets[12] = {
    INT8_C(1),
-   INT8_C(89),
-   INT8_C(46),
+   INT8_C(88),
+   INT8_C(45),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4202,7 +4202,7 @@ static int8_t jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_buckets[12
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C, "instance", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C), (uintptr_t)(UINT32_C(12)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C, "instance", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C), (uintptr_t)(UINT32_C(16)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_methods[1] = {
    &jpapbench_MethodRec_AppClassLoader__clinit__ipLmIc8wtAsqFDLdROql07
@@ -4231,14 +4231,14 @@ jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_buckets,
-         (int8_t)46,
+         (int8_t)45,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_buckets,
-         (int8_t)46,
+         (int8_t)45,
          (uint16_t)2,
       }
    },
@@ -4263,7 +4263,7 @@ jpapbench_TypeData_AppClassLoader_kpazQdZFlcXROXvEHLM9C_type jpapbench_TypeData_
 jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6_type jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6;
 static int8_t jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6_buckets[12] = {
    INT8_C(1),
-   INT8_C(89),
+   INT8_C(88),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4304,14 +4304,14 @@ jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6_type jpapbench_TypeData_Cl
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6_buckets,
-         (int8_t)89,
+         (int8_t)88,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ClassLoader_QoRo2waKYIBKKEbkKSAmd6_buckets,
-         (int8_t)89,
+         (int8_t)88,
          (uint16_t)1,
       }
    },
@@ -4432,9 +4432,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_callSlowSafeObjectArrayCopy_Wu8O
 jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5_type jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5;
 static int8_t jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4472,14 +4472,14 @@ jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5_type jpapbench_TypeData_Obje
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5_buckets,
-         (int8_t)10,
+         (int8_t)7,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ObjectArr_v26WGLx6a25VP6bXhOLzB5_buckets,
-         (int8_t)10,
+         (int8_t)7,
          (uint16_t)3,
       }
    },
@@ -4572,9 +4572,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_nxs4uco9abk
 jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6_type jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6;
 static int8_t jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
    INT8_C(5),
+   INT8_C(4),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4612,14 +4612,14 @@ jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6_type jpapbench_TypeData_boo
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6_buckets,
-         (int8_t)5,
+         (int8_t)4,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_booleanArr_gfzXZt9jGBwenAc28FEfS6_buckets,
-         (int8_t)5,
+         (int8_t)4,
          (uint16_t)3,
       }
    },
@@ -4649,8 +4649,8 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_imiaXyR0A6v
 jpapbench_TypeData_byteArr_nhLAxLkni0PhWM81bwqQW7_type jpapbench_TypeData_byteArr_nhLAxLkni0PhWM81bwqQW7;
 static int8_t jpapbench_TypeData_byteArr_nhLAxLkni0PhWM81bwqQW7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(33),
    INT8_C(0),
    INT8_C(0),
@@ -4731,8 +4731,8 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_F2cS44M6LnT
 jpapbench_TypeData_shortArr_O9QqSxVPUYeTdeZkUTYxS2_type jpapbench_TypeData_shortArr_O9QqSxVPUYeTdeZkUTYxS2;
 static int8_t jpapbench_TypeData_shortArr_O9QqSxVPUYeTdeZkUTYxS2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(30),
    INT8_C(0),
    INT8_C(0),
@@ -4808,9 +4808,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_gVW1hjOz9DJ
 jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76_type jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76;
 static int8_t jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(18),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(13),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4848,14 +4848,14 @@ jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76_type jpapbench_TypeData_intArr_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76_buckets,
-         (int8_t)18,
+         (int8_t)13,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76_buckets,
-         (int8_t)18,
+         (int8_t)13,
          (uint16_t)3,
       }
    },
@@ -4885,9 +4885,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_dICKlGeaTEb
 jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5_type jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5;
 static int8_t jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(20),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(16),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -4925,14 +4925,14 @@ jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5_type jpapbench_TypeData_longAr
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5_buckets,
-         (int8_t)20,
+         (int8_t)16,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_longArr_IyYJgAzIvmrHWyFYSA0Nh5_buckets,
-         (int8_t)20,
+         (int8_t)16,
          (uint16_t)3,
       }
    },
@@ -4962,8 +4962,8 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_SdS2vu1fqWU
 jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5_type jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5;
 static int8_t jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(45),
    INT8_C(0),
    INT8_C(0),
@@ -5039,9 +5039,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_UtvnXE8YFJv
 jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3_type jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3;
 static int8_t jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(12),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(10),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5079,14 +5079,14 @@ jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3_type jpapbench_TypeData_doub
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3_buckets,
-         (int8_t)12,
+         (int8_t)10,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3_buckets,
-         (int8_t)12,
+         (int8_t)10,
          (uint16_t)3,
       }
    },
@@ -5116,9 +5116,9 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_fastUnsafeArrayClone_Lb7xSXo16qq
 jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34_type jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34;
 static int8_t jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(13),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(11),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5156,14 +5156,14 @@ jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34_type jpapbench_TypeData_poi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34_buckets,
-         (int8_t)13,
+         (int8_t)11,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_pointerArr_mPM8X1CMEIVbdR2ahlrD34_buckets,
-         (int8_t)13,
+         (int8_t)11,
          (uint16_t)3,
       }
    },
@@ -5202,7 +5202,7 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayHelper_arraycopy_R7400PsoKixBfFQVpKbgl 
 jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3_type jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3;
 static int8_t jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3_buckets[12] = {
    INT8_C(1),
-   INT8_C(22),
+   INT8_C(95),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5241,14 +5241,14 @@ jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3_buckets,
-         (int8_t)22,
+         (int8_t)95,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_DebugAndProfile_FUCx46erxLGOYmNbG9GKs3_buckets,
-         (int8_t)22,
+         (int8_t)95,
          (uint16_t)1,
       }
    },
@@ -5277,10 +5277,10 @@ static int8_t jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7_buckets[12] = {
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(5),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5322,14 +5322,14 @@ jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7_type jpapbench_TypeData_List_2SPJ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7_buckets,
-         (int8_t)5,
+         (int8_t)6,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7_buckets,
-         (int8_t)5,
+         (int8_t)6,
          (uint16_t)7,
       }
    },
@@ -5353,7 +5353,7 @@ jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7_type jpapbench_TypeData_List_2SPJ
 jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56_type jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56;
 static int8_t jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56_buckets[12] = {
    INT8_C(1),
-   INT8_C(66),
+   INT8_C(87),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5396,14 +5396,14 @@ jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56_buckets,
-         (int8_t)66,
+         (int8_t)87,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FinalizerProcessor_Otleo2mQYmGbYCAbCC1P56_buckets,
-         (int8_t)66,
+         (int8_t)87,
          (uint16_t)1,
       }
    },
@@ -5437,8 +5437,8 @@ jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_type jpapbench_TypeDat
 static int8_t jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_buckets[12] = {
    INT8_C(1),
    INT8_C(1),
-   INT8_C(12),
-   INT8_C(9),
+   INT8_C(14),
+   INT8_C(27),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5478,14 +5478,14 @@ jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_type jpapbench_TypeDat
          (uint16_t)1,
          jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_itable-0,
          jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_buckets,
-         (int8_t)9,
+         (int8_t)27,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_itable-0,
          jpapbench_TypeData_FinalizerThread_CDEjIYEIfey6wJGy6lmlK3_buckets,
-         (int8_t)9,
+         (int8_t)27,
          (uint16_t)3,
       }
    },
@@ -5511,7 +5511,7 @@ jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8_type jpapbench_TypeData_Thread_
 static int8_t jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8_buckets[12] = {
    INT8_C(1),
    INT8_C(1),
-   INT8_C(12),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5537,7 +5537,7 @@ static fivmr_FieldRec jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8_fields[12
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "stacksize", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)32 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "contextClassLoaderIsSystemClassLoader", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)40 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "threadId", 200, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)48 }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "numAnonymousThreadsCreated", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(40)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "numAnonymousThreadsCreated", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(56)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "totalThreadsCreated", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)(UINT32_C(64)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "locals", 2, (fivmr_TypeStub*)(&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6), (uintptr_t)12 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8, "fiji_runtimeField", 6, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)16 }
@@ -5611,7 +5611,7 @@ fivmr_MethodRec jpapbench_MethodRec_FinalizerThread_run_ZST62UDhAz7lA8tay5OPc = 
 jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5_type jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5;
 static int8_t jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5_buckets[12] = {
    INT8_C(1),
-   INT8_C(39),
+   INT8_C(40),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5665,14 +5665,14 @@ jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5_type jpapbench_TypeData_MM_E5oW4UaF
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5_buckets,
-         (int8_t)39,
+         (int8_t)40,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MM_E5oW4UaFUn0ItYOEmaTCe5_buckets,
-         (int8_t)39,
+         (int8_t)40,
          (uint16_t)1,
       }
    },
@@ -5798,7 +5798,7 @@ fivmr_MethodRec jpapbench_MethodRec_MM_allocArrayForNative_FdxvIqbdm8YEAv9oH7R0g
 jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_type jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h;
 static int8_t jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_buckets[12] = {
    INT8_C(1),
-   INT8_C(63),
+   INT8_C(80),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5834,14 +5834,14 @@ jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_type jpapbench_TypeData_Magic_TtK
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_buckets,
-         (int8_t)63,
+         (int8_t)80,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_buckets,
-         (int8_t)63,
+         (int8_t)80,
          (uint16_t)1,
       }
    },
@@ -5865,7 +5865,7 @@ jpapbench_TypeData_Magic_TtKL1K9r86eNjs8ee5j7h_type jpapbench_TypeData_Magic_TtK
 jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7_type jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7;
 static int8_t jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7_buckets[12] = {
    INT8_C(1),
-   INT8_C(94),
+   INT8_C(60),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5905,14 +5905,14 @@ jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7_type jpapbench_TypeData_Me
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7_buckets,
-         (int8_t)94,
+         (int8_t)60,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MemoryAreas_svPXsIeLJU7OMSU0uKVtk7_buckets,
-         (int8_t)94,
+         (int8_t)60,
          (uint16_t)1,
       }
    },
@@ -5945,7 +5945,7 @@ jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_type jpapbench_TypeData_Runna
 static int8_t jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(12),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -5983,14 +5983,14 @@ jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_type jpapbench_TypeData_Runna
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_buckets,
-         (int8_t)12,
+         (int8_t)14,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_buckets,
-         (int8_t)12,
+         (int8_t)14,
          (uint16_t)2,
       }
    },
@@ -6014,7 +6014,7 @@ jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4_type jpapbench_TypeData_Runna
 jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3_type jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3;
 static int8_t jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3_buckets[12] = {
    INT8_C(1),
-   INT8_C(90),
+   INT8_C(28),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6056,14 +6056,14 @@ jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3_type jpapbench_TypeData_Monit
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3_buckets,
-         (int8_t)90,
+         (int8_t)28,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Monitors_TFZOOixW1cyoq8N11ri7j3_buckets,
-         (int8_t)90,
+         (int8_t)28,
          (uint16_t)1,
       }
    },
@@ -6107,8 +6107,8 @@ fivmr_MethodRec jpapbench_MethodRec_Monitors_unlock_uaHXMhw42oLFrKJtqgfnh2 = { 1
 jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_type jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4;
 static int8_t jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_buckets[12] = {
    INT8_C(1),
-   INT8_C(36),
-   INT8_C(37),
+   INT8_C(45),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6161,14 +6161,14 @@ jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_type jpapbench_TypeData_Mut
          (uint16_t)1,
          jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_itable-0,
          jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_buckets,
-         (int8_t)36,
+         (int8_t)45,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_itable-0,
          jpapbench_TypeData_MutableInt_NQLo7Q2XXQ0SXrjcRpl1Y4_buckets,
-         (int8_t)36,
+         (int8_t)45,
          (uint16_t)1,
       }
    },
@@ -6194,7 +6194,7 @@ jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2_type jpapbench_TypeData_Com
 static int8_t jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(37),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6232,14 +6232,14 @@ jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2_type jpapbench_TypeData_Com
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2_buckets,
-         (int8_t)37,
+         (int8_t)34,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2_buckets,
-         (int8_t)37,
+         (int8_t)34,
          (uint16_t)2,
       }
    },
@@ -6273,8 +6273,8 @@ fivmr_MethodRec jpapbench_MethodRec_MutableInt_compareTo_GbMa2GGNGBSAE2Ebs6w2M6 
 jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7_type jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7;
 static int8_t jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7_buckets[12] = {
    INT8_C(1),
-   INT8_C(80),
-   INT8_C(44),
+   INT8_C(85),
+   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6323,14 +6323,14 @@ jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7_type jpapbench_TypeData_Poi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7_buckets,
-         (int8_t)80,
+         (int8_t)85,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PointerBox_JfrRotAjbDz3R3Meq59gc7_buckets,
-         (int8_t)80,
+         (int8_t)85,
          (uint16_t)1,
       }
    },
@@ -6361,7 +6361,7 @@ fivmr_MethodRec jpapbench_MethodRec_PointerBox_toString_9f8LEDSXgnpENoqoKb6rW2 =
 jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy_type jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy;
 static int8_t jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy_buckets[12] = {
    INT8_C(1),
-   INT8_C(29),
+   INT8_C(58),
    INT8_C(42),
    INT8_C(0),
    INT8_C(0),
@@ -6403,14 +6403,14 @@ jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy_buckets,
-         (int8_t)29,
+         (int8_t)58,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ProfilerThread_1_umX59kgfs3oLBk7n0o3vy_buckets,
-         (int8_t)29,
+         (int8_t)58,
          (uint16_t)1,
       }
    },
@@ -6503,8 +6503,8 @@ jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_type jpapbench_TypeDa
 static int8_t jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_buckets[12] = {
    INT8_C(1),
    INT8_C(1),
-   INT8_C(12),
-   INT8_C(46),
+   INT8_C(14),
+   INT8_C(19),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6547,14 +6547,14 @@ jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_type jpapbench_TypeDa
          (uint16_t)1,
          jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_itable-0,
          jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_buckets,
-         (int8_t)46,
+         (int8_t)19,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_itable-0,
          jpapbench_TypeData_ProfilerThread_2_E8dbB9aKQcK9j3WZtxfC32_buckets,
-         (int8_t)46,
+         (int8_t)19,
          (uint16_t)3,
       }
    },
@@ -6580,7 +6580,7 @@ jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8_type jpapbench_TypeData
 static int8_t jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8_buckets[12] = {
    INT8_C(1),
    INT8_C(1),
-   INT8_C(12),
+   INT8_C(14),
    INT8_C(31),
    INT8_C(0),
    INT8_C(0),
@@ -6592,7 +6592,7 @@ static int8_t jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8_buckets[1
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8_fields[6] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8, "running", 195, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(37)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8, "running", 195, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(38)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8, "lock", 2, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)56 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8, "lineCounts", 2, (fivmr_TypeStub*)(&jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6), (uintptr_t)60 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ProfilerThread_7zBOeDxUXGMSovRITXYyw8, "methodCounts", 2, (fivmr_TypeStub*)(&jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6), (uintptr_t)64 }
@@ -6664,11 +6664,11 @@ fivmr_MethodRec jpapbench_MethodRec_ProfilerThread_2_run_VkMQ11SJR95RYAVdKfMVE3 
 jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_type jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6;
 static int8_t jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(32),
-   INT8_C(19),
-   INT8_C(32),
+   INT8_C(23),
+   INT8_C(33),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6735,14 +6735,14 @@ jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_type jpapbench_TypeData_HashMa
          (uint16_t)4,
          jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_itable-0,
          jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_buckets,
-         (int8_t)32,
+         (int8_t)33,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_itable-0,
          jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6_buckets,
-         (int8_t)32,
+         (int8_t)33,
          (uint16_t)5,
       }
    },
@@ -6771,11 +6771,11 @@ fivmr_MethodRec jpapbench_MethodRec_ProfilerThread_run_zgkNYziCZBcxWgTEoL8Og5 = 
 jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_type jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5;
 static int8_t jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(26),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6810,14 +6810,14 @@ jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_buckets,
-         (int8_t)26,
+         (int8_t)7,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_buckets,
-         (int8_t)26,
+         (int8_t)7,
          (uint16_t)5,
       }
    },
@@ -6842,10 +6842,10 @@ jpapbench_TypeData_ReflectiveException_yRejmhuMV7OJikKkj48el5_type jpapbench_Typ
 jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2_type jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2;
 static int8_t jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -6883,14 +6883,14 @@ jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2_buckets,
-         (int8_t)6,
+         (int8_t)9,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RuntimeException_ORD8tsmbgvv9GEVCnsHzN2_buckets,
-         (int8_t)6,
+         (int8_t)9,
          (uint16_t)4,
       }
    },
@@ -6919,7 +6919,7 @@ fivmr_MethodRec jpapbench_MethodRec_ReflectiveException__init__HZmhRSSio8bDdOw4C
 jpapbench_TypeData_Throwable_YF8Plzn14m4St0zXKwpUf8_type jpapbench_TypeData_Throwable_YF8Plzn14m4St0zXKwpUf8;
 static int8_t jpapbench_TypeData_Throwable_YF8Plzn14m4St0zXKwpUf8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(0),
    INT8_C(0),
@@ -7016,7 +7016,7 @@ jpapbench_TypeData_Throwable_YF8Plzn14m4St0zXKwpUf8_type jpapbench_TypeData_Thro
 jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5_type jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5;
 static int8_t jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5_buckets[12] = {
    INT8_C(1),
-   INT8_C(98),
+   INT8_C(78),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7061,14 +7061,14 @@ jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5_buckets,
-         (int8_t)98,
+         (int8_t)78,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackTraceFrame_Jkt341YEkhBCSRDiCk5vh5_buckets,
-         (int8_t)98,
+         (int8_t)78,
          (uint16_t)1,
       }
    },
@@ -7099,7 +7099,7 @@ fivmr_MethodRec jpapbench_MethodRec_StackTraceFrame_equals_YBk7tI2NWaz0cnjyP5apk
 jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_type jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7;
 static int8_t jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_buckets[12] = {
    INT8_C(1),
-   INT8_C(84),
+   INT8_C(59),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7141,14 +7141,14 @@ jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_buckets,
-         (int8_t)84,
+         (int8_t)59,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_buckets,
-         (int8_t)84,
+         (int8_t)59,
          (uint16_t)1,
       }
    },
@@ -7173,8 +7173,8 @@ jpapbench_TypeData_ThreadStackTrace_QlY4b21wEMRSMJA7WIpKU7_type jpapbench_TypeDa
 jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_type jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2;
 static int8_t jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_buckets[12] = {
    INT8_C(1),
-   INT8_C(54),
    INT8_C(0),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7209,15 +7209,15 @@ jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_buckets,
-         (int8_t)54,
-         (uint16_t)1,
+         (int8_t)22,
+         (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_buckets,
-         (int8_t)54,
-         (uint16_t)1,
+         (int8_t)22,
+         (uint16_t)2,
       }
    },
    NULL,
@@ -7240,12 +7240,12 @@ jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2_type jpapbench_TypeDat
 jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_type jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7;
 static int8_t jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(27),
-   INT8_C(12),
-   INT8_C(7),
+   INT8_C(26),
+   INT8_C(9),
+   INT8_C(8),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7280,14 +7280,14 @@ jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_type jpapbench_TypeData_fivm
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_buckets,
-         (int8_t)12,
+         (int8_t)9,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_buckets,
-         (int8_t)12,
+         (int8_t)9,
          (uint16_t)5,
       }
    },
@@ -7312,12 +7312,12 @@ jpapbench_TypeData_fivmError_JNvR5PZYazdP8L5P2PVMu7_type jpapbench_TypeData_fivm
 jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4_type jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4;
 static int8_t jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(27),
+   INT8_C(26),
    INT8_C(0),
-   INT8_C(7),
+   INT8_C(8),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7352,14 +7352,14 @@ jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4_buckets,
-         (int8_t)7,
+         (int8_t)8,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InternalError_TrY8eFy3THl2QTuc3Suhq4_buckets,
-         (int8_t)7,
+         (int8_t)8,
          (uint16_t)6,
       }
    },
@@ -7392,7 +7392,7 @@ fivmr_MethodRec jpapbench_MethodRec_fivmError__init__AMPKGREiE2px9RQyE5n6S7 = { 
 jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_type jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63;
 static int8_t jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_buckets[12] = {
    INT8_C(1),
-   INT8_C(21),
+   INT8_C(62),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7428,14 +7428,14 @@ jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_type jpapbench_TypeData_fi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_buckets,
-         (int8_t)21,
+         (int8_t)62,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_buckets,
-         (int8_t)21,
+         (int8_t)62,
          (uint16_t)1,
       }
    },
@@ -7459,8 +7459,8 @@ jpapbench_TypeData_fivmOptions_0lSTPZaVbU8NTY4EqUAH63_type jpapbench_TypeData_fi
 jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2_type jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2;
 static int8_t jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2_buckets[12] = {
    INT8_C(1),
+   INT8_C(51),
    INT8_C(0),
-   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7498,15 +7498,15 @@ jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2_buckets,
-         (int8_t)17,
-         (uint16_t)2,
+         (int8_t)51,
+         (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmRuntime_DumpStackCback_65eJJg0AwcDxSrWe4VRiQ2_buckets,
-         (int8_t)17,
-         (uint16_t)2,
+         (int8_t)51,
+         (uint16_t)1,
       }
    },
    NULL,
@@ -7535,7 +7535,7 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_DumpStackCback_DumpStackCback_cb
 jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_type jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3;
 static int8_t jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_buckets[12] = {
    INT8_C(1),
-   INT8_C(38),
+   INT8_C(41),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7548,10 +7548,10 @@ static int8_t jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_buckets[12] 
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_fields[4] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "initialized", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(56)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "logLevel", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(32)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "oome", 7, (fivmr_TypeStub*)(&jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6), (uintptr_t)(UINT32_C(184)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "alreadySawAnOOME", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(57)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "initialized", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(60)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "logLevel", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(4)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "oome", 7, (fivmr_TypeStub*)(&jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6), (uintptr_t)(UINT32_C(192)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3, "alreadySawAnOOME", 199, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(61)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_methods[156] = {
    &jpapbench_MethodRec_fivmRuntime_fivmRuntime_initSystemClassLoaders_C5GMdqFzHB7WhZNyno1sT
@@ -7735,14 +7735,14 @@ jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_type jpapbench_TypeData_fi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_buckets,
-         (int8_t)38,
+         (int8_t)41,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_buckets,
-         (int8_t)38,
+         (int8_t)41,
          (uint16_t)1,
       }
    },
@@ -7766,11 +7766,11 @@ jpapbench_TypeData_fivmRuntime_HYfITl8jP473XTFGCGtlR3_type jpapbench_TypeData_fi
 jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6_type jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6;
 static int8_t jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(27),
-   INT8_C(39),
+   INT8_C(26),
+   INT8_C(41),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7806,14 +7806,14 @@ jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6_buckets,
-         (int8_t)39,
+         (int8_t)41,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OutOfMemoryError_oPMS77KE6RKz1FYel6zLp6_buckets,
-         (int8_t)39,
+         (int8_t)41,
          (uint16_t)5,
       }
    },
@@ -7899,8 +7899,8 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_log_Uackem6BR8GshtX3M0yqC6 = { 1
 jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2_type jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2;
 static int8_t jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(27),
+   INT8_C(46),
+   INT8_C(25),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -7947,14 +7947,14 @@ jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2_type jpapbench_TypeData_Class_GP
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2_buckets,
-         (int8_t)27,
+         (int8_t)25,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2_buckets,
-         (int8_t)27,
+         (int8_t)25,
          (uint16_t)2,
       }
    },
@@ -7995,7 +7995,7 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_abort_7zEyoNpejchmv6LvgGPPO8 = {
 jpapbench_TypeData_Error_xKIUFkUH73rDNWwSCIKV25_type jpapbench_TypeData_Error_xKIUFkUH73rDNWwSCIKV25;
 static int8_t jpapbench_TypeData_Error_xKIUFkUH73rDNWwSCIKV25_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
    INT8_C(0),
@@ -8882,12 +8882,12 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_processArgs_xOQmF9wPEKYtW51EqiJH
 jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5_type jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5;
 static int8_t jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
+   INT8_C(32),
    INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
-   INT8_C(24),
    INT8_C(8),
    INT8_C(0),
    INT8_C(0),
@@ -8923,15 +8923,15 @@ jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5_type jpapbench_TypeData_Stri
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5_buckets,
-         (int8_t)24,
-         (uint16_t)6,
+         (int8_t)8,
+         (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5_buckets,
-         (int8_t)24,
-         (uint16_t)6,
+         (int8_t)8,
+         (uint16_t)7,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7,
@@ -9005,12 +9005,12 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_setVMProperties_N0rSFhwM3jB3vZy5
 jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_type jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5;
 static int8_t jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(32),
-   INT8_C(10),
-   INT8_C(14),
-   INT8_C(13),
+   INT8_C(12),
+   INT8_C(24),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9047,14 +9047,14 @@ jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_type jpapbench_TypeData_Pro
          (uint16_t)4,
          jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_itable-0,
          jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_buckets,
-         (int8_t)10,
+         (int8_t)12,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_itable-0,
          jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5_buckets,
-         (int8_t)10,
+         (int8_t)12,
          (uint16_t)4,
       }
    },
@@ -9084,7 +9084,7 @@ fivmr_MethodRec jpapbench_MethodRec_fivmRuntime_setArgumentProperties_6fvcxcGaIg
 jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_type jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3;
 static int8_t jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_buckets[12] = {
    INT8_C(1),
-   INT8_C(85),
+   INT8_C(36),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9120,14 +9120,14 @@ jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_type jpapbench_TypeData_libc
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_buckets,
-         (int8_t)85,
+         (int8_t)36,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_buckets,
-         (int8_t)85,
+         (int8_t)36,
          (uint16_t)1,
       }
    },
@@ -9145,13 +9145,13 @@ jpapbench_TypeData_libc_Fast_O7icZtXtFqc5xPnvzKHRG3_type jpapbench_TypeData_libc
    NULL,
    NULL,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1196,
+   (int32_t)1198,
    (int32_t)0,
 };
 jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_type jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6;
 static int8_t jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_buckets[12] = {
    INT8_C(1),
-   INT8_C(57),
+   INT8_C(16),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9192,14 +9192,14 @@ jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_type jpapbench_TypeData_libc
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_buckets,
-         (int8_t)57,
+         (int8_t)16,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_buckets,
-         (int8_t)57,
+         (int8_t)16,
          (uint16_t)1,
       }
    },
@@ -9217,7 +9217,7 @@ jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_type jpapbench_TypeData_libc
    jpapbench_TypeData_libc_Safe_W6mrcaJWZBEgd7rmMoazg6_methods,
    NULL,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1197,
+   (int32_t)1199,
    (int32_t)0,
 };
 static fivmr_TypeData *jpapbench_libc_Safe_memcpy_dATFv1P2BOmhK445aXgY3_params[3] = {
@@ -9243,7 +9243,7 @@ fivmr_MethodRec jpapbench_MethodRec_libc_Safe_bzero_at4Zla9jfriCaoXX1MwtT4 = { 1
 jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5_type jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5;
 static int8_t jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5_buckets[12] = {
    INT8_C(1),
-   INT8_C(3),
+   INT8_C(50),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9286,14 +9286,14 @@ jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5_type jpapbench_TypeData_libc_GQ0j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5_buckets,
-         (int8_t)3,
+         (int8_t)50,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_libc_GQ0jT7ohfiTaPOYsSdfES5_buckets,
-         (int8_t)3,
+         (int8_t)50,
          (uint16_t)1,
       }
    },
@@ -9339,7 +9339,7 @@ fivmr_MethodRec jpapbench_MethodRec_libc_getcwd_DUonKhorurtQPYDfaIo9X5 = { 10737
 jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_type jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8;
 static int8_t jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_buckets[12] = {
    INT8_C(1),
-   INT8_C(24),
+   INT8_C(65),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9352,7 +9352,7 @@ static int8_t jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_bucket
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8, "canExit", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(58)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8, "canExit", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(52)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_methods[1] = {
    &jpapbench_MethodRec_DisableEnableExit__clinit__Ycm2XBTH3OGlIFGm4VLvD4
@@ -9381,14 +9381,14 @@ jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_buckets,
-         (int8_t)24,
+         (int8_t)65,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_DisableEnableExit_AINHeWUMqVWzC4cEKidjY8_buckets,
-         (int8_t)24,
+         (int8_t)65,
          (uint16_t)1,
       }
    },
@@ -9414,7 +9414,7 @@ fivmr_MethodRec jpapbench_MethodRec_DisableEnableExit__clinit__Ycm2XBTH3OGlIFGm4
 jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8_type jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8;
 static int8_t jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8_buckets[12] = {
    INT8_C(1),
-   INT8_C(56),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9464,14 +9464,14 @@ jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8_type jpapbench_TypeData_UTF8_43Si
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8_buckets,
-         (int8_t)56,
+         (int8_t)7,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8_43SiU1kHdR5XeNAHAORJx8_buckets,
-         (int8_t)56,
+         (int8_t)7,
          (uint16_t)1,
       }
    },
@@ -9501,7 +9501,7 @@ fivmr_MethodRec jpapbench_MethodRec_UTF8_decodeLoop_4wp1NPfZZVY1Y1ywRjR2M3 = { 1
 jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_type jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8;
 static int8_t jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_buckets[12] = {
    INT8_C(1),
-   INT8_C(18),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9514,11 +9514,11 @@ static int8_t jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_buckets[12] 
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_fields[7] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "OVERFLOW", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8), (uintptr_t)(UINT32_C(188)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "UNDERFLOW", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8), (uintptr_t)(UINT32_C(192)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "names", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(196)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "malformedCache", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5), (uintptr_t)(UINT32_C(200)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "unmappableCache", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5), (uintptr_t)(UINT32_C(204)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "OVERFLOW", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8), (uintptr_t)(UINT32_C(196)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "UNDERFLOW", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8), (uintptr_t)(UINT32_C(200)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "names", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(204)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "malformedCache", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5), (uintptr_t)(UINT32_C(208)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "unmappableCache", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5), (uintptr_t)(UINT32_C(212)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "type", 200, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)0 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8, "length", 200, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)4 }
 };
@@ -9551,14 +9551,14 @@ jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_type jpapbench_TypeData_Co
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_buckets,
-         (int8_t)18,
+         (int8_t)24,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_buckets,
-         (int8_t)18,
+         (int8_t)24,
          (uint16_t)1,
       }
    },
@@ -9583,10 +9583,10 @@ jpapbench_TypeData_CoderResult_7LKuNRnfWm2zHYIzHlIcl8_type jpapbench_TypeData_Co
 jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_type jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8;
 static int8_t jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_buckets[12] = {
    INT8_C(1),
-   INT8_C(91),
-   INT8_C(37),
+   INT8_C(90),
+   INT8_C(34),
+   INT8_C(26),
    INT8_C(0),
-   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9642,15 +9642,15 @@ jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_type jpapbench_TypeData_Byt
          (uint16_t)1,
          jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_itable-0,
          jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_buckets,
-         (int8_t)22,
-         (uint16_t)4,
+         (int8_t)26,
+         (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_itable-0,
          jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_buckets,
-         (int8_t)22,
-         (uint16_t)4,
+         (int8_t)26,
+         (uint16_t)3,
       }
    },
    NULL,
@@ -9674,12 +9674,12 @@ jpapbench_TypeData_ByteBuffer_8QdywpzLWxs9V8djqFshf8_type jpapbench_TypeData_Byt
 jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_type jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7;
 static int8_t jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_buckets[12] = {
    INT8_C(1),
-   INT8_C(91),
-   INT8_C(37),
-   INT8_C(2),
-   INT8_C(17),
-   INT8_C(7),
-   INT8_C(16),
+   INT8_C(90),
+   INT8_C(34),
+   INT8_C(1),
+   INT8_C(21),
+   INT8_C(5),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9737,14 +9737,14 @@ jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_type jpapbench_TypeData_Cha
          (uint16_t)1,
          jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_itable-0,
          jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_buckets,
-         (int8_t)16,
+         (int8_t)21,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_itable-0,
          jpapbench_TypeData_CharBuffer_IuKWgVUC0h17Ge2Sah2vv7_buckets,
-         (int8_t)16,
+         (int8_t)21,
          (uint16_t)6,
       }
    },
@@ -9840,7 +9840,7 @@ fivmr_MethodRec jpapbench_MethodRec_UTF8_encodeCompletely_4gKMa6oo9R15LO2JjKcyh 
 jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_type jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7;
 static int8_t jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_buckets[12] = {
    INT8_C(1),
-   INT8_C(71),
+   INT8_C(94),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9876,14 +9876,14 @@ jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_type jpapbench_TypeData_UTF
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_buckets,
-         (int8_t)71,
+         (int8_t)94,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_buckets,
-         (int8_t)71,
+         (int8_t)94,
          (uint16_t)1,
       }
    },
@@ -9907,7 +9907,7 @@ jpapbench_TypeData_UTF8String_chppJNqySO001xuNU5E0r7_type jpapbench_TypeData_UTF
 jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6_type jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6;
 static int8_t jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6_buckets[12] = {
    INT8_C(1),
-   INT8_C(20),
+   INT8_C(12),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -9943,14 +9943,14 @@ jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6_type jpapbench_TypeData_UT
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6_buckets,
-         (int8_t)20,
+         (int8_t)12,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF8Support_XX8VTe427Zt7eG9OG8jbL6_buckets,
-         (int8_t)20,
+         (int8_t)12,
          (uint16_t)1,
       }
    },
@@ -10055,7 +10055,7 @@ fivmr_MethodRec jpapbench_MethodRec_BackingStoreID_BackingStoreID_create_jb9JxOs
 jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5_type jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5;
 static int8_t jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5_buckets[12] = {
    INT8_C(1),
-   INT8_C(67),
+   INT8_C(98),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10100,14 +10100,14 @@ jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5_type jpapbench_TypeData_VMSu
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5_buckets,
-         (int8_t)67,
+         (int8_t)98,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VMSupport_lIDs5jtXz7VGuRgJXqu9V5_buckets,
-         (int8_t)67,
+         (int8_t)98,
          (uint16_t)1,
       }
    },
@@ -10216,7 +10216,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCSystemProperties_preInit_DqEFucxPCKZ2y1SVS
 jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_type jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78;
 static int8_t jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_buckets[12] = {
    INT8_C(1),
-   INT8_C(19),
+   INT8_C(75),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10229,7 +10229,7 @@ static int8_t jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_buckets
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_fields[2] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78, "properties", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5), (uintptr_t)(UINT32_C(92)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78, "properties", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5), (uintptr_t)(UINT32_C(96)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78, "defaultProperties", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_Properties_6ZQ8zFfZzPwtm9fzVoFQW5), (uintptr_t)(UINT32_C(172)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_methods[3] = {
@@ -10261,14 +10261,14 @@ jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_buckets,
-         (int8_t)19,
+         (int8_t)75,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SystemProperties_ZgEF5VVyiXxGsiZahqci78_buckets,
-         (int8_t)19,
+         (int8_t)75,
          (uint16_t)1,
       }
    },
@@ -10305,7 +10305,7 @@ fivmr_MethodRec jpapbench_MethodRec_SystemProperties_getProperty_RXLb2pkv1vCmMXu
 jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_type jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp;
 static int8_t jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_buckets[12] = {
    INT8_C(1),
-   INT8_C(47),
+   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10318,14 +10318,14 @@ static int8_t jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_buckets[12] = {
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_fields[8] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "SHIFT", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76), (uintptr_t)(UINT32_C(104)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "BLOCKS", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(36)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "SHIFT", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76), (uintptr_t)(UINT32_C(108)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "BLOCKS", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(24)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "LARGENUMS", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76), (uintptr_t)(UINT32_C(120)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "DATA", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(48)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "NUM_VALUE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(56)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "UPPER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(64)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "LOWER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(72)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "DIRECTION", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(80)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "DATA", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(36)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "NUM_VALUE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(44)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "UPPER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(52)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "LOWER", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(60)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "DIRECTION", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_StringArr_847AxcZu9gWRJWNEN8DQu5), (uintptr_t)(UINT32_C(68)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_methods[1] = {
    &jpapbench_MethodRec_CharData__clinit__3ZevoQ8oIXtfYbqPgL0sh6
@@ -10354,14 +10354,14 @@ jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_type jpapbench_TypeData_CharDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_buckets,
-         (int8_t)47,
+         (int8_t)3,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_buckets,
-         (int8_t)47,
+         (int8_t)3,
          (uint16_t)1,
       }
    },
@@ -10379,7 +10379,7 @@ jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_type jpapbench_TypeData_CharDa
    jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_methods,
    jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp_fields,
    (uintptr_t)(UINT32_C(0)),
-   (int32_t)1189,
+   (int32_t)1190,
    (int32_t)0,
 };
 fivmr_MethodRec jpapbench_MethodRec_CharData__clinit__3ZevoQ8oIXtfYbqPgL0sh6 = { 1073746507, (fivmr_TypeData*)&jpapbench_TypeData_CharData_9rexRUw6MPPM5gXoCPlvp, "<clinit>", (fivmr_TypeStub*)(&jpapbench_TypeData_void_au552JrSiVdXJTpoUumvq7), 0, NULL, (uint16_t)4, (uint16_t)0, (int32_t)244, &jpapbench_upcall_OZQt3gbwDfmqg0PrA9CSr7, (uintptr_t)(intptr_t)-1
@@ -10387,7 +10387,7 @@ fivmr_MethodRec jpapbench_MethodRec_CharData__clinit__3ZevoQ8oIXtfYbqPgL0sh6 = {
 jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4_type jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4;
 static int8_t jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4_buckets[12] = {
    INT8_C(1),
-   INT8_C(96),
+   INT8_C(97),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10432,14 +10432,14 @@ jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4_buckets,
-         (int8_t)96,
+         (int8_t)97,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCChannel_Kind_W9FSqNAncuWuFRYvxHweZ4_buckets,
-         (int8_t)96,
+         (int8_t)97,
          (uint16_t)1,
       }
    },
@@ -10466,7 +10466,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCChannel_Kind__clinit__Kk7nlHrYAyi4vsZ7Pb6K
 jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v_type jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v;
 static int8_t jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v_buckets[12] = {
    INT8_C(1),
-   INT8_C(50),
+   INT8_C(52),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10513,14 +10513,14 @@ jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v_buckets,
-         (int8_t)50,
+         (int8_t)52,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCChannel_State_RhhOVL0oBvkvazcmuec6v_buckets,
-         (int8_t)50,
+         (int8_t)52,
          (uint16_t)1,
       }
    },
@@ -10631,7 +10631,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCChannel_getStderr_8joZClxuI21usIOI2YztY8 =
 jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_type jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18;
 static int8_t jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_buckets[12] = {
    INT8_C(1),
-   INT8_C(44),
+   INT8_C(61),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -10644,9 +10644,9 @@ static int8_t jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_buckets[
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_fields[3] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "EOF", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(44)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "INCOMPLETE", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(48)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "COMPLETE", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(52)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "EOF", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(40)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "INCOMPLETE", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(44)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18, "COMPLETE", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(48)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_methods[2] = {
    &jpapbench_MethodRec_FCNativeChannel__clinit__jVWRVdp4AnPNTTeuSWG9y8
@@ -10676,14 +10676,14 @@ jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_buckets,
-         (int8_t)44,
+         (int8_t)61,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCNativeChannel_p3GHCDQAOXa10GKL59zk18_buckets,
-         (int8_t)44,
+         (int8_t)61,
          (uint16_t)1,
       }
    },
@@ -10715,12 +10715,12 @@ fivmr_MethodRec jpapbench_MethodRec_FCNativeChannel_writeImpl_pjPBqo9UWmhF7nIstJ
 jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_type jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23;
 static int8_t jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(1),
+   INT8_C(39),
    INT8_C(1),
    INT8_C(2),
-   INT8_C(5),
-   INT8_C(5),
+   INT8_C(4),
+   INT8_C(6),
+   INT8_C(9),
    INT8_C(1),
    INT8_C(2),
    INT8_C(3),
@@ -10765,15 +10765,15 @@ jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_buckets,
-         (int8_t)5,
-         (uint16_t)6,
+         (int8_t)4,
+         (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_buckets,
-         (int8_t)5,
-         (uint16_t)6,
+         (int8_t)4,
+         (uint16_t)4,
       }
    },
    NULL,
@@ -10797,12 +10797,12 @@ jpapbench_TypeData_FileChannelImpl_gcOtHGBCtpQOiLQFRpaS23_type jpapbench_TypeDat
 jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8_type jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8;
 static int8_t jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(1),
+   INT8_C(39),
    INT8_C(1),
    INT8_C(2),
-   INT8_C(5),
    INT8_C(0),
+   INT8_C(6),
+   INT8_C(9),
    INT8_C(1),
    INT8_C(2),
    INT8_C(3),
@@ -10846,14 +10846,14 @@ jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8_type jpapbench_TypeData_Fi
          NULL,
          jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8_buckets,
          (int8_t)1,
-         (uint16_t)3,
+         (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileChannel_v0jRgLFwPpM5TCnEFD2Ee8_buckets,
          (int8_t)1,
-         (uint16_t)3,
+         (uint16_t)2,
       }
    },
    NULL,
@@ -10979,7 +10979,7 @@ jpapbench_TypeData_ISO_8859_1_Encoder_1_HZhx0YATJR2vGgtl8hNm32_type jpapbench_Ty
 static int8_t jpapbench_TypeData_ISO_8859_1_Encoder_1_HZhx0YATJR2vGgtl8hNm32_buckets[12] = {
    INT8_C(1),
    INT8_C(99),
-   INT8_C(18),
+   INT8_C(38),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11018,14 +11018,14 @@ jpapbench_TypeData_ISO_8859_1_Encoder_1_HZhx0YATJR2vGgtl8hNm32_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ISO_8859_1_Encoder_1_HZhx0YATJR2vGgtl8hNm32_buckets,
-         (int8_t)18,
+         (int8_t)38,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ISO_8859_1_Encoder_1_HZhx0YATJR2vGgtl8hNm32_buckets,
-         (int8_t)18,
+         (int8_t)38,
          (uint16_t)2,
       }
    },
@@ -11058,8 +11058,8 @@ fivmr_MethodRec jpapbench_MethodRec_ISO_8859_1_Encoder_1_mapToByte_Skvna7E9fEUOZ
 jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_type jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2;
 static int8_t jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_buckets[12] = {
    INT8_C(1),
-   INT8_C(32),
-   INT8_C(29),
+   INT8_C(33),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11101,14 +11101,14 @@ jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_buckets,
-         (int8_t)29,
+         (int8_t)39,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_buckets,
-         (int8_t)29,
+         (int8_t)39,
          (uint16_t)2,
       }
    },
@@ -11133,7 +11133,7 @@ jpapbench_TypeData_ISO_8859_1_Encoder_B6hGvZTNzqhskdKujIPPp2_type jpapbench_Type
 jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955_type jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955;
 static int8_t jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955_buckets[12] = {
    INT8_C(1),
-   INT8_C(32),
+   INT8_C(33),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11186,14 +11186,14 @@ jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955_buckets,
-         (int8_t)32,
+         (int8_t)33,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharsetEncoder_p5zmCCQtTXAKFrTjAzf955_buckets,
-         (int8_t)32,
+         (int8_t)33,
          (uint16_t)1,
       }
    },
@@ -11225,9 +11225,9 @@ fivmr_MethodRec jpapbench_MethodRec_ISO_8859_1_Encoder_encodeLoop_Y0aVDhMn3IeOC7
 jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_type jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06;
 static int8_t jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(64),
+   INT8_C(34),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11268,14 +11268,14 @@ jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_type jpapbench_TypeData_ISO
          (uint16_t)1,
          jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_itable-0,
          jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_buckets,
-         (int8_t)4,
+         (int8_t)18,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_itable-0,
          jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_buckets,
-         (int8_t)4,
+         (int8_t)18,
          (uint16_t)3,
       }
    },
@@ -11300,8 +11300,8 @@ jpapbench_TypeData_ISO_8859_1_heMXHB9k45hhyMUxffni06_type jpapbench_TypeData_ISO
 jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_type jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7;
 static int8_t jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
+   INT8_C(64),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11357,14 +11357,14 @@ jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_type jpapbench_TypeData_Charse
          (uint16_t)1,
          jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_itable-0,
          jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_buckets,
-         (int8_t)55,
+         (int8_t)64,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_itable-0,
          jpapbench_TypeData_Charset_XVxcBPsoYFMeBy2KoRZfV7_buckets,
-         (int8_t)55,
+         (int8_t)64,
          (uint16_t)1,
       }
    },
@@ -11391,8 +11391,8 @@ fivmr_MethodRec jpapbench_MethodRec_ISO_8859_1_newEncoder_QQtNJZAFkqkHjmipfE4wW4
 jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_type jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7;
 static int8_t jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_buckets[12] = {
    INT8_C(1),
-   INT8_C(61),
-   INT8_C(39),
+   INT8_C(70),
+   INT8_C(40),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11404,7 +11404,7 @@ static int8_t jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_buckets[12] = {
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_fields[4] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7, "singleton", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7), (uintptr_t)(UINT32_C(96)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7, "singleton", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7), (uintptr_t)(UINT32_C(100)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7, "canonicalNames", 8, (fivmr_TypeStub*)(&jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6), (uintptr_t)0 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7, "charsets", 8, (fivmr_TypeStub*)(&jpapbench_TypeData_HashMap_DsydZu1zdIOSedAC2A8JV6), (uintptr_t)4 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7, "extendedLoaded", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)8 }
@@ -11437,14 +11437,14 @@ jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_type jpapbench_TypeData_Provid
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_buckets,
-         (int8_t)39,
+         (int8_t)40,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_buckets,
-         (int8_t)39,
+         (int8_t)40,
          (uint16_t)2,
       }
    },
@@ -11469,7 +11469,7 @@ jpapbench_TypeData_Provider_HIVpkKkRYkaBLFs2zXbd7_type jpapbench_TypeData_Provid
 jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3_type jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3;
 static int8_t jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3_buckets[12] = {
    INT8_C(1),
-   INT8_C(61),
+   INT8_C(70),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11505,14 +11505,14 @@ jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3_buckets,
-         (int8_t)61,
+         (int8_t)70,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharsetProvider_PUskhUPfd0yfOOFeSWgNt3_buckets,
-         (int8_t)61,
+         (int8_t)70,
          (uint16_t)1,
       }
    },
@@ -11543,7 +11543,7 @@ jpapbench_TypeData_US_ASCII_Encoder_1_SCqvrCqSlKaZWyCaJj1k78_type jpapbench_Type
 static int8_t jpapbench_TypeData_US_ASCII_Encoder_1_SCqvrCqSlKaZWyCaJj1k78_buckets[12] = {
    INT8_C(1),
    INT8_C(99),
-   INT8_C(21),
+   INT8_C(35),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11582,14 +11582,14 @@ jpapbench_TypeData_US_ASCII_Encoder_1_SCqvrCqSlKaZWyCaJj1k78_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_US_ASCII_Encoder_1_SCqvrCqSlKaZWyCaJj1k78_buckets,
-         (int8_t)21,
+         (int8_t)35,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_US_ASCII_Encoder_1_SCqvrCqSlKaZWyCaJj1k78_buckets,
-         (int8_t)21,
+         (int8_t)35,
          (uint16_t)2,
       }
    },
@@ -11622,8 +11622,8 @@ fivmr_MethodRec jpapbench_MethodRec_US_ASCII_Encoder_1_mapToByte_DPjmeUS2uEeppBf
 jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93_type jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93;
 static int8_t jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93_buckets[12] = {
    INT8_C(1),
-   INT8_C(32),
-   INT8_C(22),
+   INT8_C(33),
+   INT8_C(13),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11665,14 +11665,14 @@ jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93_buckets,
-         (int8_t)22,
+         (int8_t)13,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_US_ASCII_Encoder_rhIpIcCMCYGCIzfZnNAG93_buckets,
-         (int8_t)22,
+         (int8_t)13,
          (uint16_t)2,
       }
    },
@@ -11704,8 +11704,8 @@ fivmr_MethodRec jpapbench_MethodRec_US_ASCII_Encoder_encodeLoop_JOmBmHtgmKWPVjsZ
 jpapbench_TypeData_US_ASCII_w3TtLb2HfxsCcHx1iLR6d7_type jpapbench_TypeData_US_ASCII_w3TtLb2HfxsCcHx1iLR6d7;
 static int8_t jpapbench_TypeData_US_ASCII_w3TtLb2HfxsCcHx1iLR6d7_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
+   INT8_C(64),
+   INT8_C(34),
    INT8_C(41),
    INT8_C(0),
    INT8_C(0),
@@ -11781,9 +11781,9 @@ fivmr_MethodRec jpapbench_MethodRec_US_ASCII_newEncoder_drVBC1gEliQpFbRQija104 =
 jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_type jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8;
 static int8_t jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
+   INT8_C(64),
    INT8_C(34),
+   INT8_C(15),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11823,14 +11823,14 @@ jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_type jpapbench_TypeData_UTF_16_
          (uint16_t)1,
          jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_itable-0,
          jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_buckets,
-         (int8_t)34,
+         (int8_t)15,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_itable-0,
          jpapbench_TypeData_UTF_16_DM7v2GxiSK0NOXCwxkwRT8_buckets,
-         (int8_t)34,
+         (int8_t)15,
          (uint16_t)3,
       }
    },
@@ -11856,9 +11856,9 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_16_newEncoder_gKqzAIr2H2YUk7995mcXZ3 = {
 jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_type jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4;
 static int8_t jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
-   INT8_C(8),
+   INT8_C(64),
+   INT8_C(34),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11899,14 +11899,14 @@ jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_type jpapbench_TypeData_UTF_1
          (uint16_t)1,
          jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_itable-0,
          jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_buckets,
-         (int8_t)8,
+         (int8_t)9,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_itable-0,
          jpapbench_TypeData_UTF_16BE_i7j7UgoNQpjuowVHrlVyR4_buckets,
-         (int8_t)8,
+         (int8_t)9,
          (uint16_t)3,
       }
    },
@@ -11933,8 +11933,8 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_16BE_newEncoder_ZaNx8LV0N8ecUyLW7ehV78 =
 jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_type jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4;
 static int8_t jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_buckets[12] = {
    INT8_C(1),
-   INT8_C(32),
-   INT8_C(20),
+   INT8_C(33),
+   INT8_C(33),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -11978,14 +11978,14 @@ jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_buckets,
-         (int8_t)20,
+         (int8_t)33,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_buckets,
-         (int8_t)20,
+         (int8_t)33,
          (uint16_t)2,
       }
    },
@@ -12010,7 +12010,7 @@ jpapbench_TypeData_UTF_16Encoder_lVyK69FykRjvJzmwgZEsf4_type jpapbench_TypeData_
 jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2_type jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2;
 static int8_t jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2_buckets[12] = {
    INT8_C(1),
-   INT8_C(76),
+   INT8_C(79),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12054,14 +12054,14 @@ jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2_type jpapbench_TypeData_Byte
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2_buckets,
-         (int8_t)76,
+         (int8_t)79,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteOrder_HEbTQNiIkrZCkRkLr8swk2_buckets,
-         (int8_t)76,
+         (int8_t)79,
          (uint16_t)1,
       }
    },
@@ -12097,9 +12097,9 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_16Encoder_encodeLoop_GwQtw6LCXEhO7ro4QIi
 jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_type jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3;
 static int8_t jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
-   INT8_C(17),
+   INT8_C(64),
+   INT8_C(34),
+   INT8_C(40),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12140,14 +12140,14 @@ jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_type jpapbench_TypeData_UTF_1
          (uint16_t)1,
          jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_itable-0,
          jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_buckets,
-         (int8_t)17,
+         (int8_t)40,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_itable-0,
          jpapbench_TypeData_UTF_16LE_p2E77EntslUFt1xdnoIsc3_buckets,
-         (int8_t)17,
+         (int8_t)40,
          (uint16_t)3,
       }
    },
@@ -12174,8 +12174,8 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_16LE_newEncoder_yLvUiK7IQEFA9shpInvdX4 =
 jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53_type jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53;
 static int8_t jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53_buckets[12] = {
    INT8_C(1),
-   INT8_C(32),
-   INT8_C(24),
+   INT8_C(33),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12213,14 +12213,14 @@ jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53_buckets,
-         (int8_t)24,
+         (int8_t)9,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UTF_8_Encoder_Iupi3Nkhn2W7ewVSOjZJ53_buckets,
-         (int8_t)24,
+         (int8_t)9,
          (uint16_t)2,
       }
    },
@@ -12250,9 +12250,9 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_8_Encoder_encodeLoop_iDsr61OYcgQ9ZDaGtIe
 jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_type jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7;
 static int8_t jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
-   INT8_C(43),
+   INT8_C(64),
+   INT8_C(34),
+   INT8_C(44),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12293,14 +12293,14 @@ jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_type jpapbench_TypeData_UTF_8_2j
          (uint16_t)1,
          jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_itable-0,
          jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_buckets,
-         (int8_t)43,
+         (int8_t)44,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_itable-0,
          jpapbench_TypeData_UTF_8_2jlCaquZ56JFdwTKzyiiP7_buckets,
-         (int8_t)43,
+         (int8_t)44,
          (uint16_t)3,
       }
    },
@@ -12327,9 +12327,9 @@ fivmr_MethodRec jpapbench_MethodRec_UTF_8_newEncoder_DzgzBb0M9cm7UFDPtr7Co8 = { 
 jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_type jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6;
 static int8_t jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_buckets[12] = {
    INT8_C(1),
-   INT8_C(55),
-   INT8_C(37),
-   INT8_C(28),
+   INT8_C(64),
+   INT8_C(34),
+   INT8_C(35),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12369,14 +12369,14 @@ jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_type jpapbench_TypeData_
          (uint16_t)1,
          jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_itable-0,
          jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_buckets,
-         (int8_t)28,
+         (int8_t)35,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_itable-0,
          jpapbench_TypeData_UnicodeLittle_dKhNo1TRGZFaG7zn233dQ6_buckets,
-         (int8_t)28,
+         (int8_t)35,
          (uint16_t)3,
       }
    },
@@ -12402,8 +12402,8 @@ fivmr_MethodRec jpapbench_MethodRec_UnicodeLittle_newEncoder_z0RkiThLTM411gzXlUe
 jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_type jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2;
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_buckets[12] = {
    INT8_C(1),
-   INT8_C(62),
-   INT8_C(15),
+   INT8_C(71),
+   INT8_C(19),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12460,14 +12460,14 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZe
          (uint16_t)3,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_buckets,
-         (int8_t)15,
+         (int8_t)19,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZeU2_buckets,
-         (int8_t)15,
+         (int8_t)19,
          (uint16_t)2,
       }
    },
@@ -12492,7 +12492,7 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_WeakEntry_XJ4fkmtXzsaZnIGmoeZe
 jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_type jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7;
 static int8_t jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_buckets[12] = {
    INT8_C(1),
-   INT8_C(62),
+   INT8_C(71),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12533,14 +12533,14 @@ jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_type jpapbench_TypeData_Map_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_buckets,
-         (int8_t)62,
+         (int8_t)71,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_buckets,
-         (int8_t)62,
+         (int8_t)71,
          (uint16_t)1,
       }
    },
@@ -12564,9 +12564,9 @@ jpapbench_TypeData_Map_Entry_QEe9DfxNn2x756fG8qlRV7_type jpapbench_TypeData_Map_
 jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2_type jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2;
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2_buckets[12] = {
    INT8_C(1),
-   INT8_C(7),
-   INT8_C(28),
-   INT8_C(24),
+   INT8_C(6),
+   INT8_C(26),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12609,14 +12609,14 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2_type jp
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2_buckets,
-         (int8_t)24,
+         (int8_t)23,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2_buckets,
-         (int8_t)24,
+         (int8_t)23,
          (uint16_t)3,
       }
    },
@@ -12649,8 +12649,8 @@ fivmr_MethodRec jpapbench_MethodRec_WeakIdentityHashMap_WeakBucket_WeakEntry_toS
 jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2_type jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2;
 static int8_t jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2_buckets[12] = {
    INT8_C(1),
-   INT8_C(7),
-   INT8_C(28),
+   INT8_C(6),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12685,14 +12685,14 @@ jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2_buckets,
-         (int8_t)7,
+         (int8_t)6,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2_buckets,
-         (int8_t)7,
+         (int8_t)6,
          (uint16_t)1,
       }
    },
@@ -12724,7 +12724,7 @@ fivmr_MethodRec jpapbench_MethodRec_WeakIdentityHashMap_WeakBucket__init__eySYOd
 jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7_type jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7;
 static int8_t jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7_buckets[12] = {
    INT8_C(1),
-   INT8_C(65),
+   INT8_C(72),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12766,14 +12766,14 @@ jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7_buckets,
-         (int8_t)65,
+         (int8_t)72,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7_buckets,
-         (int8_t)65,
+         (int8_t)72,
          (uint16_t)1,
       }
    },
@@ -12800,7 +12800,7 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_typ
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(19),
+   INT8_C(11),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -12859,14 +12859,14 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_typ
          (uint16_t)3,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_buckets,
-         (int8_t)19,
+         (int8_t)11,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_1_HJhPDA37YLRWvdze13fLs7_buckets,
-         (int8_t)19,
+         (int8_t)11,
          (uint16_t)2,
       }
    },
@@ -12963,13 +12963,13 @@ jpapbench_TypeData_Iterator_bBYHGH8OKi8jtxPFf07JT8_type jpapbench_TypeData_Itera
 jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_type jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6;
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_buckets[12] = {
    INT8_C(1),
-   INT8_C(16),
+   INT8_C(20),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13013,14 +13013,14 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_type 
          (uint16_t)5,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_buckets,
-         (int8_t)16,
+         (int8_t)20,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_WeakEntrySet_f3cobmtVWI3ZbQYgnOLWd6_buckets,
-         (int8_t)16,
+         (int8_t)20,
          (uint16_t)1,
       }
    },
@@ -13056,10 +13056,10 @@ static int8_t jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_buckets[12] 
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13106,14 +13106,14 @@ jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_type jpapbench_TypeData_Ab
          (uint16_t)5,
          jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_itable-0,
          jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_buckets,
-         (int8_t)7,
+         (int8_t)2,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_itable-0,
          jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_buckets,
-         (int8_t)7,
+         (int8_t)2,
          (uint16_t)7,
       }
    },
@@ -13138,10 +13138,10 @@ jpapbench_TypeData_AbstractSet_L1m9pYIJEYA5VFGqoKsgO4_type jpapbench_TypeData_Ab
 jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_type jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6;
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_buckets[12] = {
    INT8_C(1),
-   INT8_C(52),
+   INT8_C(55),
    INT8_C(0),
    INT8_C(32),
-   INT8_C(19),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13154,7 +13154,7 @@ static fivmr_TypeData *jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4M
    (fivmr_TypeData*)&jpapbench_TypeData_Map_lnVnV8oTRQCRkabqzBjIn
 };
 static fivmr_FieldRec jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_fields[8] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6, "NULL_KEY", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(284)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6, "NULL_KEY", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(272)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6, "queue", 8, (fivmr_TypeStub*)(&jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7), (uintptr_t)4 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6, "size", 194, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)16 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6, "loadFactor", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_float_jYAb064TTl5ULSaM45eom3), (uintptr_t)20 }
@@ -13205,14 +13205,14 @@ jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_type jpapbench_Typ
          (uint16_t)4,
          jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_buckets,
-         (int8_t)52,
+         (int8_t)55,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_itable-0,
          jpapbench_TypeData_WeakIdentityHashMap_Uys0mnjmInu23Q7b4Mi7b6_buckets,
-         (int8_t)52,
+         (int8_t)55,
          (uint16_t)1,
       }
    },
@@ -13242,7 +13242,7 @@ static int8_t jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_buckets[12] =
    INT8_C(0),
    INT8_C(0),
    INT8_C(32),
-   INT8_C(19),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13298,14 +13298,14 @@ jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_type jpapbench_TypeData_Abs
          (uint16_t)3,
          jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_itable-0,
          jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_buckets,
-         (int8_t)19,
+         (int8_t)23,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_itable-0,
          jpapbench_TypeData_AbstractMap_7auguh1xtRVms3cy6njnO_buckets,
-         (int8_t)19,
+         (int8_t)23,
          (uint16_t)4,
       }
    },
@@ -13403,12 +13403,12 @@ jpapbench_TypeData_Map_lnVnV8oTRQCRkabqzBjIn_type jpapbench_TypeData_Map_lnVnV8o
 jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6_type jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6;
 static int8_t jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(1),
-   INT8_C(4),
-   INT8_C(8),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(2),
+   INT8_C(17),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13439,15 +13439,15 @@ jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6_type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6_buckets,
-         (int8_t)8,
-         (uint16_t)6,
+         (int8_t)17,
+         (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakIdentityHashMap_WeakBucketArr_UxkoDhyA8s8TvNGPDRMIN6_buckets,
-         (int8_t)8,
-         (uint16_t)6,
+         (int8_t)17,
+         (uint16_t)5,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_WeakIdentityHashMap_WeakBucket_YW2EKDGjzsuxioDcXEUsR2,
@@ -13501,9 +13501,9 @@ static int8_t jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4_buckets[12] = {
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
+   INT8_C(32),
    INT8_C(0),
-   INT8_C(17),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13545,14 +13545,14 @@ jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4_type jpapbench_TypeData_Set_YMBKYQ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4_buckets,
-         (int8_t)17,
+         (int8_t)23,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4_buckets,
-         (int8_t)17,
+         (int8_t)23,
          (uint16_t)6,
       }
    },
@@ -13576,10 +13576,10 @@ jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4_type jpapbench_TypeData_Set_YMBKYQ
 jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_type jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z;
 static int8_t jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(8),
-   INT8_C(22),
-   INT8_C(24),
+   INT8_C(20),
+   INT8_C(30),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13619,15 +13619,15 @@ jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_buckets,
-         (int8_t)22,
-         (uint16_t)3,
+         (int8_t)30,
+         (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_buckets,
-         (int8_t)22,
-         (uint16_t)3,
+         (int8_t)30,
+         (uint16_t)4,
       }
    },
    NULL,
@@ -13651,10 +13651,10 @@ jpapbench_TypeData_BufferedInputStream_zEEfkLn1otxSpHgsHD14Z_type jpapbench_Type
 jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_type jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4;
 static int8_t jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(8),
+   INT8_C(20),
    INT8_C(0),
-   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13690,15 +13690,15 @@ jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_buckets,
-         (int8_t)24,
-         (uint16_t)4,
+         (int8_t)20,
+         (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_buckets,
-         (int8_t)24,
-         (uint16_t)4,
+         (int8_t)20,
+         (uint16_t)3,
       }
    },
    NULL,
@@ -13722,11 +13722,11 @@ jpapbench_TypeData_FilterInputStream_Vw5uhHG0Fdo5hc0vy1FJU4_type jpapbench_TypeD
 jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_type jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2;
 static int8_t jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(7),
-   INT8_C(3),
-   INT8_C(34),
-   INT8_C(27),
+   INT8_C(39),
+   INT8_C(4),
+   INT8_C(6),
+   INT8_C(35),
+   INT8_C(40),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13766,14 +13766,14 @@ jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_buckets,
-         (int8_t)3,
+         (int8_t)6,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_buckets,
-         (int8_t)3,
+         (int8_t)6,
          (uint16_t)3,
       }
    },
@@ -13798,11 +13798,11 @@ jpapbench_TypeData_BufferedOutputStream_E4Eh0xSj8xesDsyAQhhdk2_type jpapbench_Ty
 jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_type jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7;
 static int8_t jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(7),
+   INT8_C(39),
+   INT8_C(4),
    INT8_C(0),
-   INT8_C(34),
-   INT8_C(27),
+   INT8_C(35),
+   INT8_C(40),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13837,14 +13837,14 @@ jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_buckets,
-         (int8_t)27,
+         (int8_t)40,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_buckets,
-         (int8_t)27,
+         (int8_t)40,
          (uint16_t)5,
       }
    },
@@ -13862,7 +13862,7 @@ jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_type jpapbench_Type
    NULL,
    jpapbench_TypeData_FilterOutputStream_mpzNFAPRogwd8xoona9uF7_fields,
    (uintptr_t)(UINT32_C(3)),
-   (int32_t)1203,
+   (int32_t)1206,
    (int32_t)6,
    { &jpapbench_Object_equals_1RFRuzN2AWE7PsH8oRnKz8, &jpapbench_Object_finalize_kim33uLtbHvAxoSuhu37U2, &jpapbench_Object_hashCode_Sdnm3iTZgbtq0j3l6xWJ88, &jpapbench_Object_toString_b4R4MeGtFD2TacNEWZYo14, NULL, &jpapbench_OutputStream_flush_fhQy9g7qMPI4NbLsV0Tbx }
 };
@@ -13876,7 +13876,7 @@ fivmr_MethodRec jpapbench_MethodRec_BufferedOutputStream_write_59SeM3vGgYcTuvD22
 jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_type jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3;
 static int8_t jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13912,14 +13912,14 @@ jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_type jpapbench_TypeData_Clos
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_buckets,
-         (int8_t)64,
+         (int8_t)39,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_buckets,
-         (int8_t)64,
+         (int8_t)39,
          (uint16_t)1,
       }
    },
@@ -13943,7 +13943,7 @@ jpapbench_TypeData_Closeable_IYZWIBx6iazeBScWdaWTo3_type jpapbench_TypeData_Clos
 jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_type jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48;
 static int8_t jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_buckets[12] = {
    INT8_C(1),
-   INT8_C(17),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -13988,14 +13988,14 @@ jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_buckets,
-         (int8_t)17,
+         (int8_t)21,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_buckets,
-         (int8_t)17,
+         (int8_t)21,
          (uint16_t)1,
       }
    },
@@ -14020,15 +14020,15 @@ jpapbench_TypeData_FileDescriptor_BV7IVsWPUGFzIza3uOTS48_type jpapbench_TypeData
 jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE_type jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE;
 static int8_t jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(0),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(2),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(1),
-   INT8_C(2),
+   INT8_C(9),
    INT8_C(0),
+   INT8_C(0),
+   INT8_C(3),
    INT8_C(1),
    INT8_C(0)
 };
@@ -14066,15 +14066,15 @@ jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE_type jpapbench_TypeData_Byt
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE_buckets,
-         (int8_t)2,
-         (uint16_t)8,
+         (int8_t)3,
+         (uint16_t)9,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteChannel_u5M4zfRh5givHyT9IeBuE_buckets,
-         (int8_t)2,
-         (uint16_t)8,
+         (int8_t)3,
+         (uint16_t)9,
       }
    },
    NULL,
@@ -14099,7 +14099,7 @@ fivmr_MethodRec jpapbench_MethodRec_FileDescriptor__clinit__a2AI9sSWnqz9yPOWAvJK
 jpapbench_TypeData_FileInputStream_g2l7XEm75UBNJcDLzMWGp8_type jpapbench_TypeData_FileInputStream_g2l7XEm75UBNJcDLzMWGp8;
 static int8_t jpapbench_TypeData_FileInputStream_g2l7XEm75UBNJcDLzMWGp8_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(8),
    INT8_C(38),
    INT8_C(0),
@@ -14174,7 +14174,7 @@ jpapbench_TypeData_FileInputStream_g2l7XEm75UBNJcDLzMWGp8_type jpapbench_TypeDat
 jpapbench_TypeData_InputStream_DW6hQtvZ3493zyT7VlijF6_type jpapbench_TypeData_InputStream_DW6hQtvZ3493zyT7VlijF6;
 static int8_t jpapbench_TypeData_InputStream_DW6hQtvZ3493zyT7VlijF6_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(8),
    INT8_C(0),
    INT8_C(0),
@@ -14249,10 +14249,10 @@ fivmr_MethodRec jpapbench_MethodRec_FileInputStream_finalize_L1mKThaPZdNhBDyCFmD
 jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_type jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7;
 static int8_t jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(7),
-   INT8_C(40),
-   INT8_C(34),
+   INT8_C(39),
+   INT8_C(4),
+   INT8_C(42),
+   INT8_C(35),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14293,14 +14293,14 @@ jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_buckets,
-         (int8_t)40,
+         (int8_t)42,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_buckets,
-         (int8_t)40,
+         (int8_t)42,
          (uint16_t)3,
       }
    },
@@ -14325,10 +14325,10 @@ jpapbench_TypeData_FileOutputStream_2bf5ss5ac7nK5sQthRvHL7_type jpapbench_TypeDa
 jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6_type jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6;
 static int8_t jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(7),
+   INT8_C(39),
+   INT8_C(4),
    INT8_C(0),
-   INT8_C(34),
+   INT8_C(35),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14373,14 +14373,14 @@ jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6_type jpapbench_TypeData_O
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6_buckets,
-         (int8_t)34,
+         (int8_t)35,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_OutputStream_vuwHUmCFZJBjn7VCYaT8Y6_buckets,
-         (int8_t)34,
+         (int8_t)35,
          (uint16_t)4,
       }
    },
@@ -14413,7 +14413,7 @@ jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_type jpapbench_TypeData_Flus
 static int8_t jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(7),
+   INT8_C(4),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14448,14 +14448,14 @@ jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_type jpapbench_TypeData_Flus
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_buckets,
-         (int8_t)7,
+         (int8_t)4,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_buckets,
-         (int8_t)7,
+         (int8_t)4,
          (uint16_t)2,
       }
    },
@@ -14479,9 +14479,9 @@ jpapbench_TypeData_Flushable_Vam6kIVyVXssZJQP4xuO37_type jpapbench_TypeData_Flus
 jpapbench_TypeData_IOException_YDFw35pzhrIWET3hWTNNW6_type jpapbench_TypeData_IOException_YDFw35pzhrIWET3hWTNNW6;
 static int8_t jpapbench_TypeData_IOException_YDFw35pzhrIWET3hWTNNW6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(36),
    INT8_C(0),
    INT8_C(0),
@@ -14551,9 +14551,9 @@ jpapbench_TypeData_IOException_YDFw35pzhrIWET3hWTNNW6_type jpapbench_TypeData_IO
 jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54_type jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54;
 static int8_t jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14592,14 +14592,14 @@ jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54_type jpapbench_TypeData_Exce
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54_buckets,
-         (int8_t)19,
+         (int8_t)14,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Exception_mGUyEyT0J3gEkw4xh2QI54_buckets,
-         (int8_t)19,
+         (int8_t)14,
          (uint16_t)3,
       }
    },
@@ -14636,12 +14636,12 @@ fivmr_MethodRec jpapbench_MethodRec_OutputStream_flush_fhQy9g7qMPI4NbLsV0Tbx = {
 jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5_type jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5;
 static int8_t jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(7),
-   INT8_C(2),
-   INT8_C(34),
-   INT8_C(27),
-   INT8_C(12),
+   INT8_C(39),
+   INT8_C(4),
+   INT8_C(1),
+   INT8_C(35),
+   INT8_C(40),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14691,14 +14691,14 @@ jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5_type jpapbench_TypeData_Pr
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5_buckets,
-         (int8_t)12,
+         (int8_t)18,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PrintStream_prs0RVVg2QIK1Eq6wmsKG5_buckets,
-         (int8_t)12,
+         (int8_t)18,
          (uint16_t)6,
       }
    },
@@ -14742,7 +14742,7 @@ fivmr_MethodRec jpapbench_MethodRec_PrintStream_write_2tWj59nkmcXkSRpf1ld9B2 = {
 jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_type jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7;
 static int8_t jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14778,14 +14778,14 @@ jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_type jpapbench_TypeData_S
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_buckets,
-         (int8_t)37,
+         (int8_t)46,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_buckets,
-         (int8_t)37,
+         (int8_t)46,
          (uint16_t)1,
       }
    },
@@ -14809,11 +14809,11 @@ jpapbench_TypeData_Serializable_w2dIMIasUW2jzZi7BO5Wu7_type jpapbench_TypeData_S
 jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2_type jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2;
 static int8_t jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(36),
-   INT8_C(10),
+   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14848,14 +14848,14 @@ jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2_type jpap
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2_buckets,
-         (int8_t)10,
+         (int8_t)3,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedEncodingException_p2PuUr5bBqfElpV19mshJ2_buckets,
-         (int8_t)10,
+         (int8_t)3,
          (uint16_t)5,
       }
    },
@@ -14884,12 +14884,12 @@ fivmr_MethodRec jpapbench_MethodRec_UnsupportedEncodingException__init__FlplcKOO
 jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_type jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4;
 static int8_t jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(20),
-   INT8_C(6),
+   INT8_C(33),
+   INT8_C(27),
+   INT8_C(15),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14923,14 +14923,14 @@ jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_buckets,
-         (int8_t)6,
+         (int8_t)15,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_buckets,
-         (int8_t)6,
+         (int8_t)15,
          (uint16_t)6,
       }
    },
@@ -14955,11 +14955,11 @@ jpapbench_TypeData_AbstractMethodError_x9fU7PUNon72hB1pF1SvD4_type jpapbench_Typ
 jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7_type jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7;
 static int8_t jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(20),
+   INT8_C(33),
+   INT8_C(27),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -14995,14 +14995,14 @@ jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7_type jpap
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7_buckets,
-         (int8_t)20,
+         (int8_t)27,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IncompatibleClassChangeError_JKpfPTReYmswyZzpP65Pc7_buckets,
-         (int8_t)20,
+         (int8_t)27,
          (uint16_t)5,
       }
    },
@@ -15028,11 +15028,11 @@ fivmr_MethodRec jpapbench_MethodRec_AbstractMethodError__init__RsuPNzCuEmr1O3IIw
 jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6_type jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6;
 static int8_t jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(3),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15067,14 +15067,14 @@ jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6_buckets,
-         (int8_t)3,
+         (int8_t)18,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArithmeticException_UWQmB4TL5UOVKGGS0dZkM6_buckets,
-         (int8_t)3,
+         (int8_t)18,
          (uint16_t)5,
       }
    },
@@ -15100,12 +15100,12 @@ fivmr_MethodRec jpapbench_MethodRec_ArithmeticException__init__osxAEjDTUyKiCjmUf
 jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_type jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb;
 static int8_t jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(42),
-   INT8_C(4),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(21),
+   INT8_C(20),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15140,14 +15140,14 @@ jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_type jpa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_buckets,
-         (int8_t)4,
+         (int8_t)20,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_buckets,
-         (int8_t)4,
+         (int8_t)20,
          (uint16_t)6,
       }
    },
@@ -15172,11 +15172,11 @@ jpapbench_TypeData_ArrayIndexOutOfBoundsException_PQBBQnUCbywpaCnIi62Lb_type jpa
 jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8_type jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8;
 static int8_t jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(42),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15212,14 +15212,14 @@ jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8_type jpapben
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8_buckets,
-         (int8_t)42,
+         (int8_t)21,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IndexOutOfBoundsException_yG5cjnkfTlAYEjlZnQHFu8_buckets,
-         (int8_t)42,
+         (int8_t)21,
          (uint16_t)5,
       }
    },
@@ -15249,11 +15249,11 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayIndexOutOfBoundsException__init__iqAply
 jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5_type jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5;
 static int8_t jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(37),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(4),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15289,14 +15289,14 @@ jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5_buckets,
-         (int8_t)37,
+         (int8_t)4,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ArrayStoreException_rVPLK2NS726eyVh9lRN8X5_buckets,
-         (int8_t)37,
+         (int8_t)4,
          (uint16_t)5,
       }
    },
@@ -15326,10 +15326,10 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayStoreException__init__ImVBCq3XSrqEeNehG
 jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6_type jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6;
 static int8_t jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(4),
+   INT8_C(20),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15367,14 +15367,14 @@ jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6_buckets,
-         (int8_t)4,
+         (int8_t)20,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AssertionError_MtbzIinl98Z7IvmzDXVYY6_buckets,
-         (int8_t)4,
+         (int8_t)20,
          (uint16_t)4,
       }
    },
@@ -15408,9 +15408,9 @@ fivmr_MethodRec jpapbench_MethodRec_AssertionError__init__ewZYQCfntTlTb7tJ3yNys8
 jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_type jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38;
 static int8_t jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(25),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15467,14 +15467,14 @@ jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_type jpapbench_TypeData_Boolea
          (uint16_t)1,
          jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_itable-0,
          jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_buckets,
-         (int8_t)25,
+         (int8_t)24,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_itable-0,
          jpapbench_TypeData_Boolean_xnLaZNbCK5lboj17PzCp38_buckets,
-         (int8_t)25,
+         (int8_t)24,
          (uint16_t)3,
       }
    },
@@ -15511,10 +15511,10 @@ fivmr_MethodRec jpapbench_MethodRec_Boolean_compareTo_BeahYjEmYhg2C3DYrIQjL5 = {
 jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_type jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7;
 static int8_t jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(9),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(11),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15556,14 +15556,14 @@ jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_type jpapbench_TypeData_Byte_iRy0
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_buckets,
-         (int8_t)9,
+         (int8_t)11,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_buckets,
-         (int8_t)9,
+         (int8_t)11,
          (uint16_t)4,
       }
    },
@@ -15587,9 +15587,9 @@ jpapbench_TypeData_Byte_iRy07vRpZD2f2AxEMfr0X7_type jpapbench_TypeData_Byte_iRy0
 jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF_type jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF;
 static int8_t jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(0),
-   INT8_C(44),
+   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15629,14 +15629,14 @@ jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF_type jpapbench_TypeData_Number_k
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF_buckets,
-         (int8_t)44,
+         (int8_t)3,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Number_kyJN11wnDRGrwLEKePgcF_buckets,
-         (int8_t)44,
+         (int8_t)3,
          (uint16_t)3,
       }
    },
@@ -15664,7 +15664,7 @@ static int8_t jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6_buckets[12]
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(17),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15697,14 +15697,14 @@ jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6_type jpapbench_TypeData_C
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6_buckets,
-         (int8_t)17,
+         (int8_t)21,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6_buckets,
-         (int8_t)17,
+         (int8_t)21,
          (uint16_t)4,
       }
    },
@@ -15728,9 +15728,9 @@ jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6_type jpapbench_TypeData_C
 jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_type jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2;
 static int8_t jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(47),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(46),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15749,15 +15749,15 @@ static fivmr_TypeData *jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_ilist
 ,  (fivmr_TypeData*)&jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2
 };
 static fivmr_FieldRec jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_fields[9] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(32)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "charCache", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs), (uintptr_t)(UINT32_C(40)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "blocks", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(44)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "data", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(52)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "numValue", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(60)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "upper", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(68)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "lower", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(76)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "direction", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(84)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "title", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(88)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(20)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "charCache", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs), (uintptr_t)(UINT32_C(28)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "blocks", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(32)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "data", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(40)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "numValue", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(48)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "upper", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(56)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "lower", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(64)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "direction", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh), (uintptr_t)(UINT32_C(72)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2, "title", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(76)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_methods[1] = {
    &jpapbench_MethodRec_Character__clinit__wG1szf5CdEaXzEcFeVicW2
@@ -15786,14 +15786,14 @@ jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_type jpapbench_TypeData_Char
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_buckets,
-         (int8_t)47,
+         (int8_t)46,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_buckets,
-         (int8_t)47,
+         (int8_t)46,
          (uint16_t)3,
       }
    },
@@ -15817,12 +15817,12 @@ jpapbench_TypeData_Character_UVSvBfB5AlzeFp1lVz4Yf2_type jpapbench_TypeData_Char
 jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_type jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs;
 static int8_t jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
+   INT8_C(32),
+   INT8_C(16),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15857,14 +15857,14 @@ jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_type jpapbench_TypeData_Ch
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_buckets,
-         (int8_t)11,
+         (int8_t)16,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_buckets,
-         (int8_t)11,
+         (int8_t)16,
          (uint16_t)6,
       }
    },
@@ -15889,12 +15889,12 @@ jpapbench_TypeData_CharacterArr_kECX4AAojmCM0zJ2MccYs_type jpapbench_TypeData_Ch
 jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh_type jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh;
 static int8_t jpapbench_TypeData_charArrArr_uzd7GSFbE9A2cwnN0GQDh_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
    INT8_C(16),
-   INT8_C(23),
+   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -15964,11 +15964,11 @@ fivmr_MethodRec jpapbench_MethodRec_Class_toString_clMvn6C5Rgi3g6ILJ2j4H = { 107
 jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2_type jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2;
 static int8_t jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(38),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16003,14 +16003,14 @@ jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2_buckets,
-         (int8_t)38,
+         (int8_t)39,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ClassCastException_8ezJXGqPZxXBAmbr9n4SH2_buckets,
-         (int8_t)38,
+         (int8_t)39,
          (uint16_t)5,
       }
    },
@@ -16036,10 +16036,10 @@ fivmr_MethodRec jpapbench_MethodRec_ClassCastException__init__7cprJbVPISgt8At52k
 jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83_type jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83;
 static int8_t jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(13),
+   INT8_C(14),
+   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16075,14 +16075,14 @@ jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83_buckets,
-         (int8_t)13,
+         (int8_t)1,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CloneNotSupportedException_uX1hfda7gT1T1tNGtvMm83_buckets,
-         (int8_t)13,
+         (int8_t)1,
          (uint16_t)4,
       }
    },
@@ -16109,7 +16109,7 @@ jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8_type jpapbench_TypeData_Clon
 static int8_t jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(4),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16144,14 +16144,14 @@ jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8_type jpapbench_TypeData_Clon
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8_buckets,
-         (int8_t)4,
+         (int8_t)5,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Cloneable_e2xIx7PUe02GksGcFKFkr8_buckets,
-         (int8_t)4,
+         (int8_t)5,
          (uint16_t)2,
       }
    },
@@ -16179,10 +16179,10 @@ fivmr_MethodRec jpapbench_MethodRec_Comparable_compareTo_bQsAyVgV1jp2X4xfkxIQQ2 
 jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3_type jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3;
 static int8_t jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(7),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(10),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16227,14 +16227,14 @@ jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3_type jpapbench_TypeData_Double_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3_buckets,
-         (int8_t)7,
+         (int8_t)10,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Double_tbgRth86Ymfzcle0EpZKL3_buckets,
-         (int8_t)7,
+         (int8_t)10,
          (uint16_t)4,
       }
    },
@@ -16260,8 +16260,8 @@ fivmr_MethodRec jpapbench_MethodRec_Double__clinit__RLFjap6nvoXlyaRWjl8GG6 = { 1
 jpapbench_TypeData_Enum_rloxVLxxAaiGRCOeQqDUU6_type jpapbench_TypeData_Enum_rloxVLxxAaiGRCOeQqDUU6;
 static int8_t jpapbench_TypeData_Enum_rloxVLxxAaiGRCOeQqDUU6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(34),
    INT8_C(50),
    INT8_C(0),
    INT8_C(0),
@@ -16379,11 +16379,11 @@ fivmr_MethodRec jpapbench_MethodRec_Exception__init__9seeECZ9e7Ark28gy4SIK3 = { 
 jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_type jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K;
 static int8_t jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(8),
+   INT8_C(33),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16423,14 +16423,14 @@ jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_buckets,
-         (int8_t)8,
+         (int8_t)14,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_buckets,
-         (int8_t)8,
+         (int8_t)14,
          (uint16_t)5,
       }
    },
@@ -16455,10 +16455,10 @@ jpapbench_TypeData_ExceptionInInitializerError_1cQVwstvnxfZZuAxsyV7K_type jpapbe
 jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8_type jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8;
 static int8_t jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
+   INT8_C(33),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16495,14 +16495,14 @@ jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8_type jpapbench_TypeData_L
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8_buckets,
-         (int8_t)21,
+         (int8_t)33,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_LinkageError_kqKF9uWbhjZ6XhgtC5RHc8_buckets,
-         (int8_t)21,
+         (int8_t)33,
          (uint16_t)4,
       }
    },
@@ -16533,7 +16533,7 @@ fivmr_MethodRec jpapbench_MethodRec_ExceptionInInitializerError_getCause_8JcfBHA
 jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_type jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8;
 static int8_t jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_buckets[12] = {
    INT8_C(1),
-   INT8_C(13),
+   INT8_C(42),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16546,8 +16546,8 @@ static int8_t jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_buckets[12] = {
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_fields[2] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8, "emptyInterfaces", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16), (uintptr_t)(UINT32_C(208)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8, "arrayInterfaces", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16), (uintptr_t)(UINT32_C(212)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8, "emptyInterfaces", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16), (uintptr_t)(UINT32_C(184)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8, "arrayInterfaces", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16), (uintptr_t)(UINT32_C(188)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_methods[3] = {
    &jpapbench_MethodRec_FCClass__clinit__AJAZR3lKPK1q9DKN164Zg4
@@ -16578,14 +16578,14 @@ jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_type jpapbench_TypeData_FCClas
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_buckets,
-         (int8_t)13,
+         (int8_t)42,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_buckets,
-         (int8_t)13,
+         (int8_t)42,
          (uint16_t)1,
       }
    },
@@ -16609,10 +16609,10 @@ jpapbench_TypeData_FCClass_8Cvqy3CcLvFtGdO6qfgBT8_type jpapbench_TypeData_FCClas
 jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16_type jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16;
 static int8_t jpapbench_TypeData_ClassArr_lBldaXgGN9Gu5f4Ma9ms16_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
    INT8_C(35),
    INT8_C(0),
    INT8_C(0),
@@ -16692,7 +16692,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCClass_getSuperclass_I5h9rOMpkC7zG6sOTVxCT2
 jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3_type jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3;
 static int8_t jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3_buckets[12] = {
    INT8_C(1),
-   INT8_C(9),
+   INT8_C(57),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16731,14 +16731,14 @@ jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3_buckets,
-         (int8_t)9,
+         (int8_t)57,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCClassLoader_6o9p4KFzXZkj2jwSzghft3_buckets,
-         (int8_t)9,
+         (int8_t)57,
          (uint16_t)1,
       }
    },
@@ -16767,7 +16767,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCClassLoader_getPrimitiveClass_msiOVeikIYVi
 jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_type jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3;
 static int8_t jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_buckets[12] = {
    INT8_C(1),
-   INT8_C(53),
+   INT8_C(74),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16803,14 +16803,14 @@ jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_type jpapbench_TypeData_FCDou
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_buckets,
-         (int8_t)53,
+         (int8_t)74,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_buckets,
-         (int8_t)53,
+         (int8_t)74,
          (uint16_t)1,
       }
    },
@@ -16834,7 +16834,7 @@ jpapbench_TypeData_FCDouble_x6m6xAQkEDczft5VwdhTM3_type jpapbench_TypeData_FCDou
 jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_type jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB;
 static int8_t jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_buckets[12] = {
    INT8_C(1),
-   INT8_C(48),
+   INT8_C(81),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16870,14 +16870,14 @@ jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_type jpapbench_TypeData_FCFloat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_buckets,
-         (int8_t)48,
+         (int8_t)81,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_buckets,
-         (int8_t)48,
+         (int8_t)81,
          (uint16_t)1,
       }
    },
@@ -16895,13 +16895,13 @@ jpapbench_TypeData_FCFloat_s0uy1kGBgdk7lQ94yYROB_type jpapbench_TypeData_FCFloat
    NULL,
    NULL,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1192,
+   (int32_t)1194,
    (int32_t)0,
 };
 jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_type jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47;
 static int8_t jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_buckets[12] = {
    INT8_C(1),
-   INT8_C(49),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -16937,14 +16937,14 @@ jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_type jpapbench_TypeData_FCMath_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_buckets,
-         (int8_t)49,
+         (int8_t)34,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_buckets,
-         (int8_t)49,
+         (int8_t)34,
          (uint16_t)1,
       }
    },
@@ -16962,13 +16962,13 @@ jpapbench_TypeData_FCMath_WJn27FDVgvOq3J3pmRvP47_type jpapbench_TypeData_FCMath_
    NULL,
    NULL,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1205,
+   (int32_t)1208,
    (int32_t)0,
 };
 jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6_type jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6;
 static int8_t jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6_buckets[12] = {
    INT8_C(1),
-   INT8_C(97),
+   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17007,14 +17007,14 @@ jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6_type jpapbench_TypeData_FCObj
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6_buckets,
-         (int8_t)97,
+         (int8_t)43,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCObject_8CFpph6E1SZyhBT93MwCN6_buckets,
-         (int8_t)97,
+         (int8_t)43,
          (uint16_t)1,
       }
    },
@@ -17043,7 +17043,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCObject_fivmr_TypeData_asClass_VMORY4RXBlOO
 jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_type jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76;
 static int8_t jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_buckets[12] = {
    INT8_C(1),
-   INT8_C(23),
+   INT8_C(31),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17056,8 +17056,8 @@ static int8_t jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_buckets[12] = 
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_fields[2] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76, "libPrefix", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(264)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76, "libSuffix", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(268)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76, "libPrefix", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(260)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76, "libSuffix", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(264)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_methods[4] = {
    &jpapbench_MethodRec_FCRuntime__clinit__QSPQBzJBVWYibGvd4ajHQ2
@@ -17089,14 +17089,14 @@ jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_type jpapbench_TypeData_FCRu
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_buckets,
-         (int8_t)23,
+         (int8_t)31,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCRuntime_jBhldkIj3x2qNxPfSAyB76_buckets,
-         (int8_t)23,
+         (int8_t)31,
          (uint16_t)1,
       }
    },
@@ -17132,7 +17132,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCRuntime_fivmr_VM_exit_eYmXj1uC82MjFiJBwpP6
 jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5_type jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5;
 static int8_t jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5_buckets[12] = {
    INT8_C(1),
-   INT8_C(93),
+   INT8_C(86),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17173,14 +17173,14 @@ jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5_type jpapbench_TypeData_FCSys
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5_buckets,
-         (int8_t)93,
+         (int8_t)86,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCSystem_Tj3kSM5Y3gwYexXRy1uxq5_buckets,
-         (int8_t)93,
+         (int8_t)86,
          (uint16_t)1,
       }
    },
@@ -17210,8 +17210,8 @@ fivmr_MethodRec jpapbench_MethodRec_FCSystem_makeStandardErrorStream_A72232NDdnD
 jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_type jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8;
 static int8_t jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_buckets[12] = {
    INT8_C(1),
+   INT8_C(51),
    INT8_C(28),
-   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17250,14 +17250,14 @@ jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_type jpapbench_TypeData_
          NULL,
          jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_buckets,
          (int8_t)28,
-         (uint16_t)1,
+         (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_buckets,
          (int8_t)28,
-         (uint16_t)1,
+         (uint16_t)2,
       }
    },
    NULL,
@@ -17281,7 +17281,7 @@ jpapbench_TypeData_FCThrowable_1_h2g7BqraOrvykc6ApvZKa8_type jpapbench_TypeData_
 jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_type jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4;
 static int8_t jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_buckets[12] = {
    INT8_C(1),
-   INT8_C(51),
+   INT8_C(53),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17325,14 +17325,14 @@ jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_type jpapbench_TypeData_FC
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_buckets,
-         (int8_t)51,
+         (int8_t)53,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_buckets,
-         (int8_t)51,
+         (int8_t)53,
          (uint16_t)1,
       }
    },
@@ -17357,7 +17357,7 @@ jpapbench_TypeData_FCThrowable_kDQvyixm8j4LrP2mPcUKJ4_type jpapbench_TypeData_FC
 jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_type jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4;
 static int8_t jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_buckets[12] = {
    INT8_C(1),
-   INT8_C(79),
+   INT8_C(84),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17398,14 +17398,14 @@ jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_buckets,
-         (int8_t)79,
+         (int8_t)84,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_buckets,
-         (int8_t)79,
+         (int8_t)84,
          (uint16_t)1,
       }
    },
@@ -17430,10 +17430,10 @@ jpapbench_TypeData_FCThrowable_CompactElement_f7wch1AVI8jWZUwFOmwzE4_type jpapbe
 jpapbench_TypeData_StackTraceElementArr_f25OWfFTZqP1RK58TKpnS6_type jpapbench_TypeData_StackTraceElementArr_f25OWfFTZqP1RK58TKpnS6;
 static int8_t jpapbench_TypeData_StackTraceElementArr_f25OWfFTZqP1RK58TKpnS6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
    INT8_C(15),
    INT8_C(0),
    INT8_C(0),
@@ -17510,10 +17510,10 @@ fivmr_MethodRec jpapbench_MethodRec_FCThrowable_getStackTrace_977XJiO0cqa7LO14gh
 jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_type jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3;
 static int8_t jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(25),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(28),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17529,7 +17529,7 @@ static fivmr_TypeData *jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_ilist[1] 
    (fivmr_TypeData*)&jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2
 };
 static fivmr_FieldRec jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(260)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(252)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_methods[1] = {
    &jpapbench_MethodRec_Float__clinit__T14jNzcqRsAXQbiX2bvwJ6
@@ -17558,14 +17558,14 @@ jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_type jpapbench_TypeData_Float_VB
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_buckets,
-         (int8_t)25,
+         (int8_t)28,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Float_VBLPvJ6TWe9JG9v3J64RX3_buckets,
-         (int8_t)25,
+         (int8_t)28,
          (uint16_t)4,
       }
    },
@@ -17591,10 +17591,10 @@ fivmr_MethodRec jpapbench_MethodRec_Float__clinit__T14jNzcqRsAXQbiX2bvwJ6 = { 10
 jpapbench_TypeData_IllegalArgumentException_ZlJ1jDTfVzC80RXiG1A9S4_type jpapbench_TypeData_IllegalArgumentException_ZlJ1jDTfVzC80RXiG1A9S4;
 static int8_t jpapbench_TypeData_IllegalArgumentException_ZlJ1jDTfVzC80RXiG1A9S4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(36),
    INT8_C(0),
    INT8_C(0),
@@ -17668,11 +17668,11 @@ fivmr_MethodRec jpapbench_MethodRec_IllegalArgumentException__init__55nAqqaexj4l
 jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV_type jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV;
 static int8_t jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(25),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17708,14 +17708,14 @@ jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV_type jpapb
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV_buckets,
-         (int8_t)25,
+         (int8_t)26,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalMonitorStateException_TeYTcDNhJCtrrDzCJLyEV_buckets,
-         (int8_t)25,
+         (int8_t)26,
          (uint16_t)5,
       }
    },
@@ -17745,11 +17745,11 @@ fivmr_MethodRec jpapbench_MethodRec_IllegalMonitorStateException__init__DOxGYKhj
 jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3_type jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3;
 static int8_t jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
    INT8_C(9),
+   INT8_C(38),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17785,14 +17785,14 @@ jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3_type jpapbench_T
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3_buckets,
-         (int8_t)9,
+         (int8_t)38,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalStateException_ZvoCoBhJDQcXmX9QE59fA3_buckets,
-         (int8_t)9,
+         (int8_t)38,
          (uint16_t)5,
       }
    },
@@ -17822,12 +17822,12 @@ fivmr_MethodRec jpapbench_MethodRec_IllegalStateException__init__FYFpEXa8rF7nCSI
 jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5_type jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5;
 static int8_t jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(36),
-   INT8_C(10),
+   INT8_C(13),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17862,14 +17862,14 @@ jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5_type jpapb
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5_buckets,
-         (int8_t)10,
+         (int8_t)13,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalThreadStateException_N03qNI9AjvkBarC2rBNBy5_buckets,
-         (int8_t)10,
+         (int8_t)13,
          (uint16_t)6,
       }
    },
@@ -17909,8 +17909,8 @@ fivmr_MethodRec jpapbench_MethodRec_IndexOutOfBoundsException__init__Xp0Db4KAhmk
 jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_type jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u;
 static int8_t jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_buckets[12] = {
    INT8_C(1),
-   INT8_C(60),
-   INT8_C(2),
+   INT8_C(69),
+   INT8_C(29),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17948,14 +17948,14 @@ jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_type jpapbench_T
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_buckets,
-         (int8_t)2,
+         (int8_t)29,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_buckets,
-         (int8_t)2,
+         (int8_t)29,
          (uint16_t)2,
       }
    },
@@ -17979,7 +17979,7 @@ jpapbench_TypeData_InheritableThreadLocal_A5rX58MEwUAezRzp9tU0u_type jpapbench_T
 jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_type jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13;
 static int8_t jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_buckets[12] = {
    INT8_C(1),
-   INT8_C(60),
+   INT8_C(69),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -17992,7 +17992,7 @@ static int8_t jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_buckets[12] 
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13, "sentinel", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(316)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13, "sentinel", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(320)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_methods[2] = {
    &jpapbench_MethodRec_ThreadLocal__clinit__ogKxcHRb3WyNE8Mwmjat76
@@ -18022,14 +18022,14 @@ jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_type jpapbench_TypeData_Th
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_buckets,
-         (int8_t)60,
+         (int8_t)69,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13_buckets,
-         (int8_t)60,
+         (int8_t)69,
          (uint16_t)1,
       }
    },
@@ -18059,7 +18059,7 @@ fivmr_MethodRec jpapbench_MethodRec_InheritableThreadLocal_newChildThread_E25yzG
 jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_type jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12;
 static int8_t jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_buckets[12] = {
    INT8_C(1),
-   INT8_C(88),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18073,7 +18073,7 @@ static int8_t jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_buc
 };
 static fivmr_FieldRec jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_fields[2] = {
    { (fivmr_TypeData*)&jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12, "high", 203, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(72)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12, "cache", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37), (uintptr_t)(UINT32_C(272)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12, "cache", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37), (uintptr_t)(UINT32_C(268)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_methods[1] = {
    &jpapbench_MethodRec_Integer_IntegerCache__clinit__xXkx5Hz6Zgkp5Bqu3otIB7
@@ -18102,14 +18102,14 @@ jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_buckets,
-         (int8_t)88,
+         (int8_t)2,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_buckets,
-         (int8_t)88,
+         (int8_t)2,
          (uint16_t)1,
       }
    },
@@ -18127,19 +18127,19 @@ jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_type jpapbench_Ty
    jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_methods,
    jpapbench_TypeData_Integer_IntegerCache_FS1tmYeN4nxGnwxcL8Li12_fields,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1190,
+   (int32_t)1189,
    (int32_t)0,
 };
 jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37_type jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37;
 static int8_t jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(15),
-   INT8_C(4),
+   INT8_C(32),
+   INT8_C(7),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18172,14 +18172,14 @@ jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37_type jpapbench_TypeData_Int
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37_buckets,
-         (int8_t)4,
+         (int8_t)5,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IntegerArr_4TEQwj3CdvN1mNtdXQIK37_buckets,
-         (int8_t)4,
+         (int8_t)5,
          (uint16_t)7,
       }
    },
@@ -18206,10 +18206,10 @@ fivmr_MethodRec jpapbench_MethodRec_Integer_IntegerCache__clinit__xXkx5Hz6Zgkp5B
 jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_type jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6;
 static int8_t jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(12),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(16),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18226,12 +18226,12 @@ static fivmr_TypeData *jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_ilist[1
 };
 static fivmr_FieldRec jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_fields[7] = {
    { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(124)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "digits", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(28)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "digits", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(12)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "DigitTens", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(128)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "DigitOnes", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_charArr_l3vFjwWeWLchNa4tr5HoK5), (uintptr_t)(UINT32_C(132)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "sizeTable", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_intArr_wA4JCC2DA3AFo22aSDOZ76), (uintptr_t)(UINT32_C(136)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "value", 200, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)0 }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "$assertionsDisabled", 203, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(36)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6, "$assertionsDisabled", 203, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(37)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_methods[8] = {
    &jpapbench_MethodRec_Integer__clinit__B0bQf9m0yQljMAptTRbSh8
@@ -18270,14 +18270,14 @@ jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_type jpapbench_TypeData_Intege
          (uint16_t)1,
          jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_itable-0,
          jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_buckets,
-         (int8_t)12,
+         (int8_t)16,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_itable-0,
          jpapbench_TypeData_Integer_fIXmQKWLNFFjcXN8svSqK6_buckets,
-         (int8_t)12,
+         (int8_t)16,
          (uint16_t)4,
       }
    },
@@ -18332,10 +18332,10 @@ fivmr_MethodRec jpapbench_MethodRec_Integer_compareTo_DU9Df5rpzh6m3X2Cb7lAz = { 
 jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6_type jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6;
 static int8_t jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(27),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18372,14 +18372,14 @@ jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6_buckets,
-         (int8_t)27,
+         (int8_t)26,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VirtualMachineError_RfuWSVOMUwLdpJsczK07p6_buckets,
-         (int8_t)27,
+         (int8_t)26,
          (uint16_t)4,
       }
    },
@@ -18409,9 +18409,9 @@ fivmr_MethodRec jpapbench_MethodRec_InternalError__init__NYWRXiqwVNQ1RIWK4qnFK4 
 jpapbench_TypeData_InterruptedException_O0q5IYpx6IWx0zOEnqfdh_type jpapbench_TypeData_InterruptedException_O0q5IYpx6IWx0zOEnqfdh;
 static int8_t jpapbench_TypeData_InterruptedException_O0q5IYpx6IWx0zOEnqfdh_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(8),
    INT8_C(0),
    INT8_C(0),
@@ -18553,10 +18553,10 @@ fivmr_MethodRec jpapbench_MethodRec_LinkageError__init__EFCQXFUDRY4IIiHZofhvE7 =
 jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_type jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4;
 static int8_t jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(14),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18572,7 +18572,7 @@ static fivmr_TypeData *jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_ilist[1] =
    (fivmr_TypeData*)&jpapbench_TypeData_Comparable_OpYKGPNGePABRBSnXk9Ev2
 };
 static fivmr_FieldRec jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(248)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4, "TYPE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Class_GPw2KraYNcgDw88XQsM0a2), (uintptr_t)(UINT32_C(244)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_methods[4] = {
    &jpapbench_MethodRec_Long__clinit__fSHhHoBSmpRxqEezXpLXg5
@@ -18604,14 +18604,14 @@ jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_type jpapbench_TypeData_Long_xsOe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_buckets,
-         (int8_t)14,
+         (int8_t)18,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Long_xsOedn870rrBlDiH6dP4j4_buckets,
-         (int8_t)14,
+         (int8_t)18,
          (uint16_t)4,
       }
    },
@@ -18655,7 +18655,7 @@ fivmr_MethodRec jpapbench_MethodRec_Long_getChars_Ig7KXQv2fRMWy0BXzHXCL5 = { 107
 jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_type jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa;
 static int8_t jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_buckets[12] = {
    INT8_C(1),
-   INT8_C(34),
+   INT8_C(44),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18691,14 +18691,14 @@ jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_type jpapbench_TypeData_Math_KrBN8
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_buckets,
-         (int8_t)34,
+         (int8_t)44,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_buckets,
-         (int8_t)34,
+         (int8_t)44,
          (uint16_t)1,
       }
    },
@@ -18722,11 +18722,11 @@ jpapbench_TypeData_Math_KrBN8ELTs8foNBAjUuFPa_type jpapbench_TypeData_Math_KrBN8
 jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3_type jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3;
 static int8_t jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(21),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(37),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18761,14 +18761,14 @@ jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3_buckets,
-         (int8_t)21,
+         (int8_t)37,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NegativeArraySizeException_DKgcj4MSLXa5nqamHCG8p3_buckets,
-         (int8_t)21,
+         (int8_t)37,
          (uint16_t)5,
       }
    },
@@ -18794,11 +18794,11 @@ fivmr_MethodRec jpapbench_MethodRec_NegativeArraySizeException__init__kTBYbrYvWb
 jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M_type jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M;
 static int8_t jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(2),
+   INT8_C(33),
+   INT8_C(11),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18834,14 +18834,14 @@ jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M_type jpapbench_Typ
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M_buckets,
-         (int8_t)2,
+         (int8_t)11,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoClassDefFoundError_eHt1ZlHji8V1ed6Ci1X8M_buckets,
-         (int8_t)2,
+         (int8_t)11,
          (uint16_t)5,
       }
    },
@@ -18871,12 +18871,12 @@ fivmr_MethodRec jpapbench_MethodRec_NoClassDefFoundError__init__zuUpMkpdVffc9bA0
 jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3_type jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3;
 static int8_t jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(20),
-   INT8_C(22),
+   INT8_C(33),
+   INT8_C(27),
+   INT8_C(10),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18910,14 +18910,14 @@ jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3_buckets,
-         (int8_t)22,
+         (int8_t)10,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchFieldError_WkgKiGaDeWpYyMeBFQVLP3_buckets,
-         (int8_t)22,
+         (int8_t)10,
          (uint16_t)6,
       }
    },
@@ -18946,12 +18946,12 @@ fivmr_MethodRec jpapbench_MethodRec_NoSuchFieldError__init__NRDndLNaHkNugomSCEfj
 jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33_type jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33;
 static int8_t jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(20),
-   INT8_C(21),
+   INT8_C(33),
+   INT8_C(27),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -18985,14 +18985,14 @@ jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33_buckets,
-         (int8_t)21,
+         (int8_t)6,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchMethodError_lxgfSkGc4JyUtxF3WxUX33_buckets,
-         (int8_t)21,
+         (int8_t)6,
          (uint16_t)6,
       }
    },
@@ -19021,11 +19021,11 @@ fivmr_MethodRec jpapbench_MethodRec_NoSuchMethodError__init__Hac41pp0umtzNyKPWwv
 jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8_type jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8;
 static int8_t jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(1),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(13),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19060,14 +19060,14 @@ jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8_buckets,
-         (int8_t)1,
+         (int8_t)13,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NullPointerException_LmJjTxQO0KdgpsnMGnKAI8_buckets,
-         (int8_t)1,
+         (int8_t)13,
          (uint16_t)5,
       }
    },
@@ -19093,10 +19093,10 @@ fivmr_MethodRec jpapbench_MethodRec_NullPointerException__init__mFF7fQYpzqtN6TBX
 jpapbench_TypeData_NumberFormatException_wdmvO9lCHr7AWj0ae9tYG6_type jpapbench_TypeData_NumberFormatException_wdmvO9lCHr7AWj0ae9tYG6;
 static int8_t jpapbench_TypeData_NumberFormatException_wdmvO9lCHr7AWj0ae9tYG6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(36),
    INT8_C(2),
    INT8_C(0),
@@ -19177,7 +19177,7 @@ static int8_t jpapbench_TypeData_Readable_0bD4qnPkCzEKWm5kweaqh5_buckets[12] = {
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(7),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19209,14 +19209,14 @@ jpapbench_TypeData_Readable_0bD4qnPkCzEKWm5kweaqh5_type jpapbench_TypeData_Reada
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Readable_0bD4qnPkCzEKWm5kweaqh5_buckets,
-         (int8_t)7,
+         (int8_t)5,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Readable_0bD4qnPkCzEKWm5kweaqh5_buckets,
-         (int8_t)7,
+         (int8_t)5,
          (uint16_t)5,
       }
    },
@@ -19241,7 +19241,7 @@ fivmr_MethodRec jpapbench_MethodRec_Runnable_run_V5Qvr8UsZAMfHrQZdqeDn6 = { 1073
 jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d_type jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d;
 static int8_t jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d_buckets[12] = {
    INT8_C(1),
-   INT8_C(73),
+   INT8_C(77),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19290,14 +19290,14 @@ jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d_type jpapbench_TypeData_Runtime
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d_buckets,
-         (int8_t)73,
+         (int8_t)77,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Runtime_Y8tawOT0Sc34v8iOpHE6d_buckets,
-         (int8_t)73,
+         (int8_t)77,
          (uint16_t)1,
       }
    },
@@ -19343,10 +19343,10 @@ fivmr_MethodRec jpapbench_MethodRec_RuntimeException__init__NzswNrUbpWK2VVjc4IeS
 jpapbench_TypeData_SecurityException_pk7MVuzeoUnHnv8h1t6Di7_type jpapbench_TypeData_SecurityException_pk7MVuzeoUnHnv8h1t6Di7;
 static int8_t jpapbench_TypeData_SecurityException_pk7MVuzeoUnHnv8h1t6Di7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(23),
    INT8_C(0),
    INT8_C(0),
@@ -19418,10 +19418,10 @@ fivmr_MethodRec jpapbench_MethodRec_SecurityException__init__QkodmiJWBtsdtFaHGZi
 jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_type jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2;
 static int8_t jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
-   INT8_C(44),
-   INT8_C(16),
+   INT8_C(46),
+   INT8_C(34),
+   INT8_C(3),
+   INT8_C(19),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19463,14 +19463,14 @@ jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_type jpapbench_TypeData_Short_c7
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_buckets,
-         (int8_t)16,
+         (int8_t)19,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_buckets,
-         (int8_t)16,
+         (int8_t)19,
          (uint16_t)4,
       }
    },
@@ -19494,11 +19494,11 @@ jpapbench_TypeData_Short_c76xGEptZqnF3GOW7YWLm2_type jpapbench_TypeData_Short_c7
 jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ_type jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ;
 static int8_t jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(27),
-   INT8_C(29),
+   INT8_C(26),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19533,14 +19533,14 @@ jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ_buckets,
-         (int8_t)29,
+         (int8_t)22,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackOverflowError_G40T7lVz16yyAfbi9zYGQ_buckets,
-         (int8_t)29,
+         (int8_t)22,
          (uint16_t)5,
       }
    },
@@ -19566,8 +19566,8 @@ fivmr_MethodRec jpapbench_MethodRec_StackOverflowError__init__YeKXRY5si2V7NHRj1b
 jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4_type jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4;
 static int8_t jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19620,14 +19620,14 @@ jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4_buckets,
-         (int8_t)11,
+         (int8_t)3,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StackTraceElement_GvY6edFccYsD6OgRehd6u4_buckets,
-         (int8_t)11,
+         (int8_t)3,
          (uint16_t)2,
       }
    },
@@ -19658,9 +19658,9 @@ fivmr_MethodRec jpapbench_MethodRec_StackTraceElement_hashCode_fUA3iXBPE4hLvd6Yq
 jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj_type jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj;
 static int8_t jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(42),
-   INT8_C(16),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19702,14 +19702,14 @@ jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj_type j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj_buckets,
-         (int8_t)16,
+         (int8_t)34,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_String_CaseInsensitiveComparator_RHO2xnWNS6qdS9IRUWbcj_buckets,
-         (int8_t)16,
+         (int8_t)34,
          (uint16_t)3,
       }
    },
@@ -19746,10 +19746,10 @@ fivmr_MethodRec jpapbench_MethodRec_String__init__YiY0nIgE4Jf1uDavB7SHH = { 1073
 jpapbench_TypeData_StringBuffer_IQsDfoTCPb3DngtQbC3863_type jpapbench_TypeData_StringBuffer_IQsDfoTCPb3DngtQbC3863;
 static int8_t jpapbench_TypeData_StringBuffer_IQsDfoTCPb3DngtQbC3863_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(48),
-   INT8_C(2),
-   INT8_C(17),
+   INT8_C(1),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19897,10 +19897,10 @@ fivmr_MethodRec jpapbench_MethodRec_StringBuffer_enlarge_unsynchronized_qrX5INJP
 jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4_type jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4;
 static int8_t jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(13),
-   INT8_C(2),
-   INT8_C(17),
+   INT8_C(46),
+   INT8_C(15),
+   INT8_C(1),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -19954,14 +19954,14 @@ jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4_buckets,
-         (int8_t)13,
+         (int8_t)15,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringBuilder_sbI8RndZKcdnt0GBOaxwW4_buckets,
-         (int8_t)13,
+         (int8_t)15,
          (uint16_t)2,
       }
    },
@@ -20003,12 +20003,12 @@ fivmr_MethodRec jpapbench_MethodRec_StringBuilder_toString_shKkUsJCDv4grFS4q934s
 jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8_type jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8;
 static int8_t jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(42),
-   INT8_C(18),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(21),
+   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20043,14 +20043,14 @@ jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8_type j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8_buckets,
-         (int8_t)18,
+         (int8_t)1,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringIndexOutOfBoundsException_0oMNMkf24eNcqAmoBu46U8_buckets,
-         (int8_t)18,
+         (int8_t)1,
          (uint16_t)6,
       }
    },
@@ -20080,7 +20080,7 @@ fivmr_MethodRec jpapbench_MethodRec_StringIndexOutOfBoundsException__init__GjFSP
 jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2_type jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2;
 static int8_t jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2_buckets[12] = {
    INT8_C(1),
-   INT8_C(69),
+   INT8_C(76),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20124,14 +20124,14 @@ jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2_type jpapbench_TypeData_System_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2_buckets,
-         (int8_t)69,
+         (int8_t)76,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_System_zr9mBoZcF4UF4Ov11NlhH2_buckets,
-         (int8_t)69,
+         (int8_t)76,
          (uint16_t)1,
       }
    },
@@ -20158,7 +20158,7 @@ jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237_type j
 static int8_t jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(38),
+   INT8_C(36),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20196,14 +20196,14 @@ jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237_type j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237_buckets,
-         (int8_t)38,
+         (int8_t)36,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237_buckets,
-         (int8_t)38,
+         (int8_t)36,
          (uint16_t)2,
       }
    },
@@ -20232,7 +20232,7 @@ fivmr_MethodRec jpapbench_MethodRec_Thread_UncaughtExceptionHandler_uncaughtExce
 jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_type jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2;
 static int8_t jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_buckets[12] = {
    INT8_C(1),
-   INT8_C(58),
+   INT8_C(66),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20298,14 +20298,14 @@ jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_type jpapbench_TypeData_VMThr
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_buckets,
-         (int8_t)58,
+         (int8_t)66,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_buckets,
-         (int8_t)58,
+         (int8_t)66,
          (uint16_t)1,
       }
    },
@@ -20330,8 +20330,8 @@ jpapbench_TypeData_VMThread_jWUM8MCPXuF8qFSgzkWiC2_type jpapbench_TypeData_VMThr
 jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_type jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3;
 static int8_t jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_buckets[12] = {
    INT8_C(1),
-   INT8_C(30),
-   INT8_C(38),
+   INT8_C(29),
+   INT8_C(36),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20349,8 +20349,8 @@ static fivmr_TypeData *jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_ili
    (fivmr_TypeData*)&jpapbench_TypeData_Thread_UncaughtExceptionHandler_1z3DO4PEIqyutadXFcc237
 };
 static fivmr_FieldRec jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_fields[7] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "root", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3), (uintptr_t)(UINT32_C(116)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "had_uncaught_exception", 195, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(28)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "root", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3), (uintptr_t)(UINT32_C(112)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "had_uncaught_exception", 195, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(36)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "name", 10, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)0 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "threads", 8, (fivmr_TypeStub*)(&jpapbench_TypeData_Vector_xtCi1jnSYXEa2ahH0npLC), (uintptr_t)4 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3, "groups", 0, (fivmr_TypeStub*)(&jpapbench_TypeData_Vector_xtCi1jnSYXEa2ahH0npLC), (uintptr_t)8 }
@@ -20390,14 +20390,14 @@ jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_type jpapbench_TypeData_Th
          (uint16_t)1,
          jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_itable-0,
          jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_buckets,
-         (int8_t)30,
+         (int8_t)29,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_itable-0,
          jpapbench_TypeData_ThreadGroup_TlUIFiOlf5yBtqsvF0Euz3_buckets,
-         (int8_t)30,
+         (int8_t)29,
          (uint16_t)1,
       }
    },
@@ -20449,10 +20449,10 @@ fivmr_MethodRec jpapbench_MethodRec_Thread_toString_CJ4shKLFsTw6FRZMOHEGX6 = { 1
 jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_type jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI;
 static int8_t jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(35),
+   INT8_C(13),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20485,14 +20485,14 @@ jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_type jpapbench_TypeData_Thr
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_buckets,
-         (int8_t)35,
+         (int8_t)13,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_buckets,
-         (int8_t)35,
+         (int8_t)13,
          (uint16_t)4,
       }
    },
@@ -20516,13 +20516,13 @@ jpapbench_TypeData_ThreadDeath_mncWY3cxJ5G1Ow8iVVCOI_type jpapbench_TypeData_Thr
 jpapbench_TypeData_Vector_xtCi1jnSYXEa2ahH0npLC_type jpapbench_TypeData_Vector_xtCi1jnSYXEa2ahH0npLC;
 static int8_t jpapbench_TypeData_Vector_xtCi1jnSYXEa2ahH0npLC_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(39),
-   INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
+   INT8_C(46),
    INT8_C(5),
+   INT8_C(39),
+   INT8_C(32),
+   INT8_C(30),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(3),
    INT8_C(4),
    INT8_C(0),
@@ -20631,7 +20631,7 @@ fivmr_MethodRec jpapbench_MethodRec_ThreadLocal_get_QiQyMfvbW4r5anIE6QxJ03 = { 1
 jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_type jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47;
 static int8_t jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_buckets[12] = {
    INT8_C(1),
-   INT8_C(59),
+   INT8_C(89),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20644,7 +20644,7 @@ static int8_t jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_buc
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47, "nl", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(108)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47, "nl", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)(UINT32_C(92)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_methods[1] = {
    &jpapbench_MethodRec_Throwable_StaticData__clinit__Z1u4qeW2i4N5ZX3RZiTmV
@@ -20673,14 +20673,14 @@ jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_buckets,
-         (int8_t)59,
+         (int8_t)89,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_buckets,
-         (int8_t)59,
+         (int8_t)89,
          (uint16_t)1,
       }
    },
@@ -20698,7 +20698,7 @@ jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_type jpapbench_Ty
    jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_methods,
    jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47_fields,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1193,
+   (int32_t)1192,
    (int32_t)0,
 };
 fivmr_MethodRec jpapbench_MethodRec_Throwable_StaticData__clinit__Z1u4qeW2i4N5ZX3RZiTmV = { 1073746507, (fivmr_TypeData*)&jpapbench_TypeData_Throwable_StaticData_Rocb49ZeQ36BL5G1MSyO47, "<clinit>", (fivmr_TypeStub*)(&jpapbench_TypeData_void_au552JrSiVdXJTpoUumvq7), 0, NULL, (uint16_t)1, (uint16_t)0, (int32_t)476, &jpapbench_upcall_OZQt3gbwDfmqg0PrA9CSr7, (uintptr_t)(intptr_t)-1
@@ -20744,11 +20744,11 @@ fivmr_MethodRec jpapbench_MethodRec_Throwable_getStackTrace_Jva2X9Bf9OxdojWaB2Bj
 jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4_type jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4;
 static int8_t jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(21),
-   INT8_C(41),
+   INT8_C(33),
+   INT8_C(42),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20783,14 +20783,14 @@ jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4_buckets,
-         (int8_t)41,
+         (int8_t)42,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsatisfiedLinkError_xxRn6Ys0A69BJFj7ErA1n4_buckets,
-         (int8_t)41,
+         (int8_t)42,
          (uint16_t)5,
       }
    },
@@ -20819,12 +20819,12 @@ fivmr_MethodRec jpapbench_MethodRec_UnsatisfiedLinkError__init__aKCRbYqnDKGYVyOb
 jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58_type jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58;
 static int8_t jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(10),
    INT8_C(0),
-   INT8_C(25),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20858,15 +20858,15 @@ jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58_type jpa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58_buckets,
-         (int8_t)25,
-         (uint16_t)6,
+         (int8_t)10,
+         (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedOperationException_sYmtdnpDXIaZiUT9yV0v58_buckets,
-         (int8_t)25,
-         (uint16_t)6,
+         (int8_t)10,
+         (uint16_t)5,
       }
    },
    NULL,
@@ -20957,7 +20957,7 @@ fivmr_MethodRec jpapbench_MethodRec_VirtualMachineError__init__vflhpMU7l1UHgr4e1
 jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_type jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8;
 static int8_t jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_buckets[12] = {
    INT8_C(1),
-   INT8_C(6),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -20996,14 +20996,14 @@ jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_type jpapbench_TypeData_Void_4wrY
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_buckets,
-         (int8_t)6,
+         (int8_t)5,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_buckets,
-         (int8_t)6,
+         (int8_t)5,
          (uint16_t)1,
       }
    },
@@ -21027,7 +21027,7 @@ jpapbench_TypeData_Void_4wrYpZpsjSewzYPv2sznT8_type jpapbench_TypeData_Void_4wrY
 jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7_type jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7;
 static int8_t jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7_buckets[12] = {
    INT8_C(1),
-   INT8_C(2),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21068,14 +21068,14 @@ jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7_type jpapbench_TypeData_fi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7_buckets,
-         (int8_t)2,
+         (int8_t)23,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_ZzCvGVbO9Suhw6LlZPFby7_buckets,
-         (int8_t)2,
+         (int8_t)23,
          (uint16_t)1,
       }
    },
@@ -21116,7 +21116,7 @@ jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_type jpapbench_TypeData_Refe
 static int8_t jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(28),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21130,7 +21130,7 @@ static int8_t jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_buckets[12] = 
 static fivmr_FieldRec jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_fields[3] = {
    { (fivmr_TypeData*)&jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5, "referent", 2, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)0 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5, "queue", 18, (fivmr_TypeStub*)(&jpapbench_TypeData_ReferenceQueue_Rkpzv4At19nL6JISa65bR7), (uintptr_t)4 }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5, "lock", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(320)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5, "lock", 3, (fivmr_TypeStub*)(&jpapbench_TypeData_Object_QdKWySJdodzDYbV6VD2VJ), (uintptr_t)(UINT32_C(316)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_methods[3] = {
    &jpapbench_MethodRec_Reference__clinit__tT80eyToahG1XvSLBI4mU7
@@ -21161,14 +21161,14 @@ jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_type jpapbench_TypeData_Refe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_buckets,
-         (int8_t)28,
+         (int8_t)26,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Reference_U3M8mnc4TIlINMFzARfEI5_buckets,
-         (int8_t)28,
+         (int8_t)26,
          (uint16_t)2,
       }
    },
@@ -21202,7 +21202,7 @@ fivmr_MethodRec jpapbench_MethodRec_ReferenceQueue_dequeue_HMoaO8fm894b9ldUbpymm
 jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8_type jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8;
 static int8_t jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8_buckets[12] = {
    INT8_C(1),
-   INT8_C(74),
+   INT8_C(93),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21241,14 +21241,14 @@ jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8_type jpapbench_TypeData_Array_Hs
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8_buckets,
-         (int8_t)74,
+         (int8_t)93,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Array_Hsv8aKaSQuVVYts5FW0Sx8_buckets,
-         (int8_t)74,
+         (int8_t)93,
          (uint16_t)1,
       }
    },
@@ -21278,7 +21278,7 @@ fivmr_MethodRec jpapbench_MethodRec_Array_newInstance_iKa8ViDKqo6dtrdVZbxvD4 = {
 jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5_type jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5;
 static int8_t jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5_buckets[12] = {
    INT8_C(1),
-   INT8_C(46),
+   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21317,14 +21317,14 @@ jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5_type jpapbench_TypeData_FCArra
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5_buckets,
-         (int8_t)46,
+         (int8_t)17,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FCArray_yPuLPkJDX5DuOckOI2eXR5_buckets,
-         (int8_t)46,
+         (int8_t)17,
          (uint16_t)1,
       }
    },
@@ -21354,7 +21354,7 @@ fivmr_MethodRec jpapbench_MethodRec_FCArray_createObjectArray_nKhWFKk1NZlA4c2lwS
 jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807_type jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807;
 static int8_t jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807_buckets[12] = {
    INT8_C(1),
-   INT8_C(91),
+   INT8_C(90),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21401,14 +21401,14 @@ jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807_type jpapbench_TypeData_Buffer_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807_buckets,
-         (int8_t)91,
+         (int8_t)90,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Buffer_OOLh3AFVNfjIN73NuVC807_buckets,
-         (int8_t)91,
+         (int8_t)90,
          (uint16_t)1,
       }
    },
@@ -21493,11 +21493,11 @@ fivmr_MethodRec jpapbench_MethodRec_Buffer__init__p9Xh5kLnswyXrgcxXHFpX5 = { 107
 jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb_type jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb;
 static int8_t jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(31),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(25),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21532,14 +21532,14 @@ jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb_type jpapbench_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb_buckets,
-         (int8_t)31,
+         (int8_t)25,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferOverflowException_zqibtVLVhUTaReDN6DBJb_buckets,
-         (int8_t)31,
+         (int8_t)25,
          (uint16_t)5,
       }
    },
@@ -21565,11 +21565,11 @@ fivmr_MethodRec jpapbench_MethodRec_BufferOverflowException__init__5xVzYVXzj09OA
 jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7_type jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7;
 static int8_t jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(19),
-   INT8_C(6),
-   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21604,14 +21604,14 @@ jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7_type jpapbenc
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7_buckets,
-         (int8_t)18,
+         (int8_t)19,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_BufferUnderflowException_vY6bRDHIUq2HxzcGMN4JH7_buckets,
-         (int8_t)18,
+         (int8_t)19,
          (uint16_t)5,
       }
    },
@@ -21663,7 +21663,7 @@ fivmr_MethodRec jpapbench_MethodRec_ByteBuffer_compareTo_eKSArmjyBpeRRHbisWPaJ5 
 jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_type jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8;
 static int8_t jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_buckets[12] = {
    INT8_C(1),
-   INT8_C(33),
+   INT8_C(47),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21699,14 +21699,14 @@ jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_buckets,
-         (int8_t)33,
+         (int8_t)47,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_buckets,
-         (int8_t)33,
+         (int8_t)47,
          (uint16_t)1,
       }
    },
@@ -21730,10 +21730,10 @@ jpapbench_TypeData_ByteBufferHelper_ndwwIBaxyXGRpbf4iAt4x8_type jpapbench_TypeDa
 jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_type jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07;
 static int8_t jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_buckets[12] = {
    INT8_C(1),
-   INT8_C(91),
-   INT8_C(37),
-   INT8_C(15),
-   INT8_C(22),
+   INT8_C(90),
+   INT8_C(34),
+   INT8_C(26),
+   INT8_C(27),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21775,15 +21775,15 @@ jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_type jpapbench_TypeData
          (uint16_t)1,
          jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_itable-0,
          jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_buckets,
-         (int8_t)15,
-         (uint16_t)3,
+         (int8_t)27,
+         (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_itable-0,
          jpapbench_TypeData_ByteBufferImpl_lLXPMT0nNnlHSW1l9HbE07_buckets,
-         (int8_t)15,
-         (uint16_t)3,
+         (int8_t)27,
+         (uint16_t)4,
       }
    },
    NULL,
@@ -21841,12 +21841,12 @@ fivmr_MethodRec jpapbench_MethodRec_CharBuffer_compareTo_HkNQZo59JD03dOjxvOFfz8 
 jpapbench_TypeData_CharBufferImpl_synMyu4XAexTlojbnafQo6_type jpapbench_TypeData_CharBufferImpl_synMyu4XAexTlojbnafQo6;
 static int8_t jpapbench_TypeData_CharBufferImpl_synMyu4XAexTlojbnafQo6_buckets[12] = {
    INT8_C(1),
-   INT8_C(91),
-   INT8_C(37),
-   INT8_C(2),
-   INT8_C(17),
-   INT8_C(7),
-   INT8_C(16),
+   INT8_C(90),
+   INT8_C(34),
+   INT8_C(1),
+   INT8_C(21),
+   INT8_C(5),
+   INT8_C(21),
    INT8_C(9),
    INT8_C(0),
    INT8_C(0),
@@ -21924,12 +21924,12 @@ fivmr_MethodRec jpapbench_MethodRec_CharBufferImpl_get_5s5hTzSoqvnLNBtYJxdw02 = 
 jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2_type jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2;
 static int8_t jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(6),
-   INT8_C(25),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(10),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -21963,15 +21963,15 @@ jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2_type jpapbench
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2_buckets,
-         (int8_t)6,
-         (uint16_t)5,
+         (int8_t)22,
+         (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReadOnlyBufferException_8wxQyTH73U7MOlPR860ra2_buckets,
-         (int8_t)6,
-         (uint16_t)5,
+         (int8_t)22,
+         (uint16_t)6,
       }
    },
    NULL,
@@ -21996,13 +21996,13 @@ fivmr_MethodRec jpapbench_MethodRec_ReadOnlyBufferException__init__hqyGdeCzZ0uqW
 jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_type jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3;
 static int8_t jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(0),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(2),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(1),
+   INT8_C(9),
+   INT8_C(0),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22040,14 +22040,14 @@ jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_type jpapbench_Typ
          NULL,
          jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_buckets,
          (int8_t)2,
-         (uint16_t)4,
+         (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_buckets,
          (int8_t)2,
-         (uint16_t)4,
+         (uint16_t)3,
       }
    },
    NULL,
@@ -22070,13 +22070,13 @@ jpapbench_TypeData_ReadableByteChannel_OYyI7lYvtvY0CPh6F2tnj3_type jpapbench_Typ
 jpapbench_TypeData_WritableByteChannel_ebhLG4AMxqU4I1jv6j26I8_type jpapbench_TypeData_WritableByteChannel_ebhLG4AMxqU4I1jv6j26I8;
 static int8_t jpapbench_TypeData_WritableByteChannel_ebhLG4AMxqU4I1jv6j26I8_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
+   INT8_C(9),
    INT8_C(0),
-   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(1),
@@ -22144,13 +22144,13 @@ jpapbench_TypeData_WritableByteChannel_ebhLG4AMxqU4I1jv6j26I8_type jpapbench_Typ
 jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_type jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI;
 static int8_t jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
+   INT8_C(9),
    INT8_C(0),
-   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22186,15 +22186,15 @@ jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_type jpapbench_TypeData_Channel
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_buckets,
-         (int8_t)1,
-         (uint16_t)7,
+         (int8_t)9,
+         (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_buckets,
-         (int8_t)1,
-         (uint16_t)7,
+         (int8_t)9,
+         (uint16_t)6,
       }
    },
    NULL,
@@ -22217,17 +22217,17 @@ jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI_type jpapbench_TypeData_Channel
 jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_type jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92;
 static int8_t jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(5),
+   INT8_C(6),
+   INT8_C(9),
    INT8_C(0),
-   INT8_C(1),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(0),
-   INT8_C(2)
+   INT8_C(0)
 };
 static fivmr_TypeData *jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_interfaces[2] = {
    (fivmr_TypeData*)&jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI,
@@ -22265,15 +22265,15 @@ jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_type jpap
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_buckets,
-         (int8_t)5,
-         (uint16_t)5,
+         (int8_t)2,
+         (uint16_t)8,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_buckets,
-         (int8_t)5,
-         (uint16_t)5,
+         (int8_t)2,
+         (uint16_t)8,
       }
    },
    NULL,
@@ -22290,24 +22290,24 @@ jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_type jpap
    NULL,
    jpapbench_TypeData_AbstractInterruptibleChannel_mxHoIkKm9dI9GX5eKKma92_fields,
    (uintptr_t)(UINT32_C(0)),
-   (int32_t)1202,
+   (int32_t)1203,
    (int32_t)4,
    { &jpapbench_Object_equals_1RFRuzN2AWE7PsH8oRnKz8, &jpapbench_Object_finalize_kim33uLtbHvAxoSuhu37U2, &jpapbench_Object_hashCode_Sdnm3iTZgbtq0j3l6xWJ88, &jpapbench_Object_toString_b4R4MeGtFD2TacNEWZYo14 }
 };
 jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_type jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7;
 static int8_t jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(0),
+   INT8_C(0),
+   INT8_C(0),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
    INT8_C(1),
-   INT8_C(0),
-   INT8_C(3),
-   INT8_C(1),
-   INT8_C(0)
+   INT8_C(2)
 };
 static fivmr_TypeData *jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_interfaces[1] = {
    (fivmr_TypeData*)&jpapbench_TypeData_WritableByteChannel_ebhLG4AMxqU4I1jv6j26I8
@@ -22341,15 +22341,15 @@ jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_buckets,
-         (int8_t)3,
-         (uint16_t)9,
+         (int8_t)2,
+         (uint16_t)11,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_buckets,
-         (int8_t)3,
-         (uint16_t)9,
+         (int8_t)2,
+         (uint16_t)11,
       }
    },
    NULL,
@@ -22372,12 +22372,12 @@ jpapbench_TypeData_GatheringByteChannel_8vvQbYrdzYcCPvGMaj5gK7_type jpapbench_Ty
 jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_type jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3;
 static int8_t jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
-   INT8_C(1),
+   INT8_C(39),
    INT8_C(0),
    INT8_C(2),
    INT8_C(0),
    INT8_C(0),
+   INT8_C(9),
    INT8_C(1),
    INT8_C(0),
    INT8_C(0),
@@ -22417,14 +22417,14 @@ jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_type jpapbench_T
          NULL,
          jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_buckets,
          (int8_t)1,
-         (uint16_t)2,
+         (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_buckets,
          (int8_t)1,
-         (uint16_t)2,
+         (uint16_t)7,
       }
    },
    NULL,
@@ -22447,17 +22447,17 @@ jpapbench_TypeData_ScatteringByteChannel_I6Xiw39Mo0THe1FZiQmBm3_type jpapbench_T
 jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_type jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7;
 static int8_t jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_buckets[12] = {
    INT8_C(1),
-   INT8_C(64),
+   INT8_C(39),
+   INT8_C(0),
+   INT8_C(0),
+   INT8_C(0),
+   INT8_C(6),
+   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(0),
-   INT8_C(1),
-   INT8_C(0),
-   INT8_C(0),
-   INT8_C(0),
-   INT8_C(2)
+   INT8_C(0)
 };
 static fivmr_TypeData *jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_interfaces[1] = {
    (fivmr_TypeData*)&jpapbench_TypeData_Channel_PD87JBG2D2x7ScyI9YfvI
@@ -22490,15 +22490,15 @@ jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_type jpapbench_Ty
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_buckets,
-         (int8_t)2,
-         (uint16_t)11,
+         (int8_t)6,
+         (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_buckets,
-         (int8_t)2,
-         (uint16_t)11,
+         (int8_t)6,
+         (uint16_t)5,
       }
    },
    NULL,
@@ -22521,11 +22521,11 @@ jpapbench_TypeData_InterruptibleChannel_a2AZlCRCsKVj5IbzslA3c7_type jpapbench_Ty
 jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR_type jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR;
 static int8_t jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(36),
-   INT8_C(28),
+   INT8_C(1),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22560,14 +22560,14 @@ jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR_type jpapbench
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR_buckets,
-         (int8_t)28,
+         (int8_t)1,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharacterCodingException_Jrf1C6vOrrbQtRZ7z0BwR_buckets,
-         (int8_t)28,
+         (int8_t)1,
          (uint16_t)5,
       }
    },
@@ -22623,7 +22623,7 @@ static int8_t jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3_bucket
 };
 static fivmr_FieldRec jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3_fields[4] = {
    { (fivmr_TypeData*)&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3, "IGNORE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3), (uintptr_t)(UINT32_C(216)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3, "REPLACE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3), (uintptr_t)(UINT32_C(100)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3, "REPLACE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3), (uintptr_t)(UINT32_C(104)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3, "REPORT", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3), (uintptr_t)(UINT32_C(220)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_CodingErrorAction_9Mwx7fZ6QluJQTXveYYvN3, "name", 8, (fivmr_TypeStub*)(&jpapbench_TypeData_String_WHsiOUfdh3VfAocbciMXp7), (uintptr_t)0 }
 };
@@ -22711,10 +22711,10 @@ fivmr_MethodRec jpapbench_MethodRec_CharsetEncoder_encodeLoop_0jX77fEPhCoSulCUyL
 jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4_type jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4;
 static int8_t jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(33),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22751,14 +22751,14 @@ jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4_type jpapbench_T
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4_buckets,
-         (int8_t)33,
+         (int8_t)5,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderMalfunctionError_GxEsAYnwiIVEjZ4eON2VY4_buckets,
-         (int8_t)33,
+         (int8_t)5,
          (uint16_t)4,
       }
    },
@@ -22791,8 +22791,8 @@ fivmr_MethodRec jpapbench_MethodRec_CoderMalfunctionError__init__B0xLt6QN6CGNcOR
 jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_type jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953;
 static int8_t jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_buckets[12] = {
    INT8_C(1),
-   INT8_C(12),
-   INT8_C(16),
+   INT8_C(15),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22830,14 +22830,14 @@ jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_buckets,
-         (int8_t)16,
+         (int8_t)21,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_buckets,
-         (int8_t)16,
+         (int8_t)21,
          (uint16_t)2,
       }
    },
@@ -22862,7 +22862,7 @@ jpapbench_TypeData_CoderResult_1_Flu51g4848F9wU6qXJS953_type jpapbench_TypeData_
 jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5_type jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5;
 static int8_t jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5_buckets[12] = {
    INT8_C(1),
-   INT8_C(12),
+   INT8_C(15),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22907,14 +22907,14 @@ jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5_buckets,
-         (int8_t)12,
+         (int8_t)15,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_Cache_USvPbM6CayZ7lnY4Du0Uf5_buckets,
-         (int8_t)12,
+         (int8_t)15,
          (uint16_t)1,
       }
    },
@@ -22943,8 +22943,8 @@ fivmr_MethodRec jpapbench_MethodRec_CoderResult_1_make_WjlbYehEwOZD9wVBezSPL7 = 
 jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2_type jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2;
 static int8_t jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2_buckets[12] = {
    INT8_C(1),
+   INT8_C(15),
    INT8_C(12),
-   INT8_C(9),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -22982,14 +22982,14 @@ jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2_buckets,
-         (int8_t)9,
+         (int8_t)12,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResult_2_PVgHjSk53JnaTLf7csCeF2_buckets,
-         (int8_t)9,
+         (int8_t)12,
          (uint16_t)2,
       }
    },
@@ -23018,10 +23018,10 @@ fivmr_MethodRec jpapbench_MethodRec_CoderResult_2_make_GxP5MeAUfmaXetysaYaHS6 = 
 jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_type jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4;
 static int8_t jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(18),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23054,14 +23054,14 @@ jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_type jpapbench_TypeData
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_buckets,
-         (int8_t)18,
+         (int8_t)22,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_buckets,
-         (int8_t)18,
+         (int8_t)22,
          (uint16_t)4,
       }
    },
@@ -23086,13 +23086,13 @@ jpapbench_TypeData_CoderResultArr_tFcuxVSwHXW0u9wrRHJby4_type jpapbench_TypeData
 jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_type jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24;
 static int8_t jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(32),
-   INT8_C(19),
-   INT8_C(19),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(23),
+   INT8_C(20),
+   INT8_C(25),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23160,14 +23160,14 @@ jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_type jpapbench_TypeData_TreeMa
          (uint16_t)4,
          jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_itable-0,
          jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_buckets,
-         (int8_t)19,
+         (int8_t)25,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_itable-0,
          jpapbench_TypeData_TreeMap_bAPuUFvqIznymjpvbqBC24_buckets,
-         (int8_t)19,
+         (int8_t)25,
          (uint16_t)6,
       }
    },
@@ -23208,12 +23208,12 @@ fivmr_MethodRec jpapbench_MethodRec_CodingErrorAction_toString_J1ybdkkhwbGGNMV9D
 jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x_type jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x;
 static int8_t jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
+   INT8_C(14),
+   INT8_C(9),
    INT8_C(36),
-   INT8_C(20),
+   INT8_C(12),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23250,14 +23250,14 @@ jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x_buckets,
-         (int8_t)20,
+         (int8_t)12,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalCharsetNameException_dzCeS80ZqSMkbyo9NHe3x_buckets,
-         (int8_t)20,
+         (int8_t)12,
          (uint16_t)6,
       }
    },
@@ -23286,12 +23286,12 @@ fivmr_MethodRec jpapbench_MethodRec_IllegalCharsetNameException__init__yKh5hSQP6
 jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83_type jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83;
 static int8_t jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(36),
-   INT8_C(28),
    INT8_C(1),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23329,14 +23329,14 @@ jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83_type jpapbench
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83_buckets,
-         (int8_t)1,
+         (int8_t)5,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_MalformedInputException_uhaBcmRoBhgkpHQ1WisN83_buckets,
-         (int8_t)1,
+         (int8_t)5,
          (uint16_t)6,
       }
    },
@@ -23366,12 +23366,12 @@ fivmr_MethodRec jpapbench_MethodRec_MalformedInputException_getMessage_G4zwafCRz
 jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7_type jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7;
 static int8_t jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
+   INT8_C(14),
    INT8_C(36),
-   INT8_C(28),
-   INT8_C(26),
+   INT8_C(1),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23409,14 +23409,14 @@ jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7_type jpap
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7_buckets,
-         (int8_t)26,
+         (int8_t)14,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnmappableCharacterException_EcvutxWKrLwmKIxLZB0KH7_buckets,
-         (int8_t)26,
+         (int8_t)14,
          (uint16_t)6,
       }
    },
@@ -23446,12 +23446,12 @@ fivmr_MethodRec jpapbench_MethodRec_UnmappableCharacterException_getMessage_nRWo
 jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW_type jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW;
 static int8_t jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(36),
+   INT8_C(14),
    INT8_C(9),
+   INT8_C(36),
+   INT8_C(11),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23488,14 +23488,14 @@ jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW_type jpapbe
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW_buckets,
-         (int8_t)9,
+         (int8_t)11,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_UnsupportedCharsetException_FGtD7Z2UvKGNyahUgeCJW_buckets,
-         (int8_t)9,
+         (int8_t)11,
          (uint16_t)6,
       }
    },
@@ -23524,10 +23524,10 @@ fivmr_MethodRec jpapbench_MethodRec_UnsupportedCharsetException__init__ibNcNWN1M
 jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_type jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915;
 static int8_t jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(34),
    INT8_C(50),
-   INT8_C(29),
+   INT8_C(31),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23537,9 +23537,9 @@ static int8_t jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlN
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_fields[3] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "LIMITED_SIZE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915), (uintptr_t)(UINT32_C(340)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "UNLIMITED_SIZE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915), (uintptr_t)(UINT32_C(344)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "ENUM$VALUES", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4), (uintptr_t)(UINT32_C(348)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "LIMITED_SIZE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915), (uintptr_t)(UINT32_C(324)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "UNLIMITED_SIZE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915), (uintptr_t)(UINT32_C(328)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915, "ENUM$VALUES", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4), (uintptr_t)(UINT32_C(332)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_methods[1] = {
    &jpapbench_MethodRec_fivmSupport_MakeVMBufferMode__clinit__ePjCITgUWefZ0iftPVk67
@@ -23571,14 +23571,14 @@ jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_type jpap
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_itable-0,
          jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_buckets,
-         (int8_t)29,
+         (int8_t)31,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_itable-0,
          jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_buckets,
-         (int8_t)29,
+         (int8_t)31,
          (uint16_t)4,
       }
    },
@@ -23603,13 +23603,13 @@ jpapbench_TypeData_fivmSupport_MakeVMBufferMode_9TgfrujEC9Uxuw4NlNN915_type jpap
 jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4_type jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4;
 static int8_t jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
+   INT8_C(32),
    INT8_C(3),
-   INT8_C(2),
+   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23639,14 +23639,14 @@ jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4_type j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4_buckets,
-         (int8_t)2,
+         (int8_t)3,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_MakeVMBufferModeArr_atiVSoQrNgjV3BwgmjHdP4_buckets,
-         (int8_t)2,
+         (int8_t)3,
          (uint16_t)7,
       }
    },
@@ -23673,11 +23673,11 @@ fivmr_MethodRec jpapbench_MethodRec_fivmSupport_MakeVMBufferMode__clinit__ePjCIT
 jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_type jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7;
 static int8_t jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(34),
    INT8_C(50),
-   INT8_C(5),
-   INT8_C(13),
+   INT8_C(7),
+   INT8_C(8),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23712,14 +23712,14 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_type jpapb
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_buckets,
-         (int8_t)13,
+         (int8_t)8,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_buckets,
-         (int8_t)13,
+         (int8_t)8,
          (uint16_t)5,
       }
    },
@@ -23744,10 +23744,10 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_1_k7vmYSdVNmENGKIJa7mka7_type jpapb
 jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_type jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq;
 static int8_t jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(34),
    INT8_C(50),
-   INT8_C(5),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23757,10 +23757,10 @@ static int8_t jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_fields[4] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "READ_ONLY", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(324)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "WRITE_ONLY", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(328)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "READ_WRITE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(332)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "ENUM$VALUES", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC), (uintptr_t)(UINT32_C(336)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "READ_ONLY", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(336)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "WRITE_ONLY", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(340)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "READ_WRITE", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq), (uintptr_t)(UINT32_C(344)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq, "ENUM$VALUES", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC), (uintptr_t)(UINT32_C(348)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_methods[1] = {
    &jpapbench_MethodRec_fivmSupport_ReadWriteMode__clinit__uVC37dmtlaeewUobaPCkX2
@@ -23792,14 +23792,14 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_type jpapbenc
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_buckets,
-         (int8_t)5,
+         (int8_t)7,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_buckets,
-         (int8_t)5,
+         (int8_t)7,
          (uint16_t)4,
       }
    },
@@ -23824,11 +23824,11 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_naP73QUmgxa6nNMyqEBXq_type jpapbenc
 jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_type jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3;
 static int8_t jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(34),
    INT8_C(50),
-   INT8_C(5),
-   INT8_C(17),
+   INT8_C(7),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23863,14 +23863,14 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_type jpapb
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_buckets,
-         (int8_t)17,
+         (int8_t)2,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_itable-0,
          jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_buckets,
-         (int8_t)17,
+         (int8_t)2,
          (uint16_t)5,
       }
    },
@@ -23895,13 +23895,13 @@ jpapbench_TypeData_fivmSupport_ReadWriteMode_2_kLXneAol5guKAjM7BZcSE3_type jpapb
 jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC_type jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC;
 static int8_t jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
+   INT8_C(32),
+   INT8_C(3),
    INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
-   INT8_C(3),
-   INT8_C(3),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -23931,14 +23931,14 @@ jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC_type jpapb
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC_buckets,
-         (int8_t)3,
+         (int8_t)4,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_ReadWriteModeArr_MBGX9eAIlOPrqn0ULvZQC_buckets,
-         (int8_t)3,
+         (int8_t)4,
          (uint16_t)7,
       }
    },
@@ -23965,7 +23965,7 @@ fivmr_MethodRec jpapbench_MethodRec_fivmSupport_ReadWriteMode__clinit__uVC37dmtl
 jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7_type jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7;
 static int8_t jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7_buckets[12] = {
    INT8_C(1),
-   INT8_C(45),
+   INT8_C(73),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24006,14 +24006,14 @@ jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7_type jpapbench_TypeData_fi
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7_buckets,
-         (int8_t)45,
+         (int8_t)73,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_fivmSupport_jkRT3doNVOYinz1jhUFXe7_buckets,
-         (int8_t)45,
+         (int8_t)73,
          (uint16_t)1,
       }
    },
@@ -24058,8 +24058,8 @@ static int8_t jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_bucket
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24114,14 +24114,14 @@ jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_type jpapbench_TypeD
          (uint16_t)4,
          jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_itable-0,
          jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_buckets,
-         (int8_t)24,
+         (int8_t)30,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_itable-0,
          jpapbench_TypeData_AbstractCollection_Awh3YusrYAiXH7rJjDXOF_buckets,
-         (int8_t)24,
+         (int8_t)30,
          (uint16_t)5,
       }
    },
@@ -24149,7 +24149,7 @@ static int8_t jpapbench_TypeData_Collection_s0WYT1cbRLgoAjzThMs2R8_buckets[12] =
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24194,14 +24194,14 @@ jpapbench_TypeData_Collection_s0WYT1cbRLgoAjzThMs2R8_type jpapbench_TypeData_Col
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Collection_s0WYT1cbRLgoAjzThMs2R8_buckets,
-         (int8_t)30,
+         (int8_t)32,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Collection_s0WYT1cbRLgoAjzThMs2R8_buckets,
-         (int8_t)30,
+         (int8_t)32,
          (uint16_t)4,
       }
    },
@@ -24242,7 +24242,7 @@ jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_type jpapbench_TypeData
 static int8_t jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(45),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24302,14 +24302,14 @@ jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_type jpapbench_TypeData
          (uint16_t)3,
          jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_itable-0,
          jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_buckets,
-         (int8_t)45,
+         (int8_t)18,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_itable-0,
          jpapbench_TypeData_AbstractList_1_6TQFspN4yGy6oBlTRYZob4_buckets,
-         (int8_t)45,
+         (int8_t)18,
          (uint16_t)2,
       }
    },
@@ -24337,10 +24337,10 @@ static int8_t jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_buckets[12] 
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
-   INT8_C(5),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24394,14 +24394,14 @@ jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_type jpapbench_TypeData_Ab
          (uint16_t)4,
          jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_itable-0,
          jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_buckets,
-         (int8_t)14,
+         (int8_t)19,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_itable-0,
          jpapbench_TypeData_AbstractList_HVnqnF2SPCZdQ0RiaHltS_buckets,
-         (int8_t)14,
+         (int8_t)19,
          (uint16_t)6,
       }
    },
@@ -24436,7 +24436,7 @@ static int8_t jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_buckets[1
    INT8_C(1),
    INT8_C(26),
    INT8_C(23),
-   INT8_C(23),
+   INT8_C(21),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24494,14 +24494,14 @@ jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_type jpapbench_TypeData
          (uint16_t)3,
          jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_itable-0,
          jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_buckets,
-         (int8_t)23,
+         (int8_t)21,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_itable-0,
          jpapbench_TypeData_AbstractList_2_AuCtAJxyCnunKrwv17aEb4_buckets,
-         (int8_t)23,
+         (int8_t)21,
          (uint16_t)3,
       }
    },
@@ -24626,7 +24626,7 @@ jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_type jpapbench_TypeDat
 static int8_t jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(40),
+   INT8_C(44),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24681,14 +24681,14 @@ jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_type jpapbench_TypeDat
          (uint16_t)3,
          jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_itable-0,
          jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_buckets,
-         (int8_t)40,
+         (int8_t)44,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_itable-0,
          jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_buckets,
-         (int8_t)40,
+         (int8_t)44,
          (uint16_t)2,
       }
    },
@@ -24713,13 +24713,13 @@ jpapbench_TypeData_AbstractMap_1_1_w4eUxKBLAThCipkfVhuld2_type jpapbench_TypeDat
 jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_type jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3;
 static int8_t jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_buckets[12] = {
    INT8_C(1),
-   INT8_C(43),
+   INT8_C(49),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24765,14 +24765,14 @@ jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_type jpapbench_TypeData_
          (uint16_t)5,
          jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_itable-0,
          jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_buckets,
-         (int8_t)43,
+         (int8_t)49,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_itable-0,
          jpapbench_TypeData_AbstractMap_1_xkLqc4NA4onE5bcHO7Sow3_buckets,
-         (int8_t)43,
+         (int8_t)49,
          (uint16_t)1,
       }
    },
@@ -24823,10 +24823,10 @@ static int8_t jpapbench_TypeData_AbstractSequentialList_9Flx5z6wlmdhL4FjG3fM77_b
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
-   INT8_C(5),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -24903,13 +24903,13 @@ fivmr_MethodRec jpapbench_MethodRec_AbstractSet_hashCode_wUmkwKlCuyJgFdYaFyDfq2 
 jpapbench_TypeData_ArrayList_BnCbNKx8ByN3tCyXVloNn5_type jpapbench_TypeData_ArrayList_BnCbNKx8ByN3tCyXVloNn5;
 static int8_t jpapbench_TypeData_ArrayList_BnCbNKx8ByN3tCyXVloNn5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(39),
-   INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
+   INT8_C(46),
    INT8_C(5),
+   INT8_C(39),
+   INT8_C(32),
+   INT8_C(30),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(3),
    INT8_C(1),
    INT8_C(0),
@@ -25097,7 +25097,7 @@ fivmr_MethodRec jpapbench_MethodRec_ArrayList_throwIOOBE_mcmc0ocBn9sBKhQIBUMms4 
 jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_type jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2;
 static int8_t jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_buckets[12] = {
    INT8_C(1),
-   INT8_C(86),
+   INT8_C(67),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25137,14 +25137,14 @@ jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_type jpapbench_TypeData_Arrays_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_buckets,
-         (int8_t)86,
+         (int8_t)67,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_buckets,
-         (int8_t)86,
+         (int8_t)67,
          (uint16_t)1,
       }
    },
@@ -25162,7 +25162,7 @@ jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_type jpapbench_TypeData_Arrays_
    jpapbench_TypeData_Arrays_ZP2UMG5fyjFZxuQ55Tbnh2_methods,
    NULL,
    (uintptr_t)(UINT32_C(1)),
-   (int32_t)1198,
+   (int32_t)1202,
    (int32_t)0,
 };
 static fivmr_TypeData *jpapbench_Arrays_mergeSort_bdYQxyzyumXGE5ybeYKS72_params[5] = {
@@ -25195,7 +25195,7 @@ jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_type jpapben
 static int8_t jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(14),
+   INT8_C(16),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25213,7 +25213,7 @@ static fivmr_TypeData *jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROp
    (fivmr_TypeData*)&jpapbench_TypeData_Iterator_bBYHGH8OKi8jtxPFf07JT8
 };
 static fivmr_FieldRec jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_fields[1] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6, "EMPTY_ITERATOR", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6), (uintptr_t)(UINT32_C(280)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6, "EMPTY_ITERATOR", 11, (fivmr_TypeStub*)(&jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6), (uintptr_t)(UINT32_C(276)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_methods[4] = {
    &jpapbench_MethodRec_Collections_EmptyIterator__clinit__JTAADxkMUQrgamC7bdmYp4
@@ -25250,14 +25250,14 @@ jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_type jpapben
          (uint16_t)3,
          jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_itable-0,
          jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_buckets,
-         (int8_t)14,
+         (int8_t)16,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_itable-0,
          jpapbench_TypeData_Collections_EmptyIterator_3TksTccZYROpKBFsKC40A6_buckets,
-         (int8_t)14,
+         (int8_t)16,
          (uint16_t)2,
       }
    },
@@ -25287,13 +25287,13 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_EmptyIterator_remove_UmFFCEmjbrR
 jpapbench_TypeData_Collections_EmptyList_gEPgJI8bAh0SLCw59LrpO8_type jpapbench_TypeData_Collections_EmptyList_gEPgJI8bAh0SLCw59LrpO8;
 static int8_t jpapbench_TypeData_Collections_EmptyList_gEPgJI8bAh0SLCw59LrpO8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(30),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
-   INT8_C(5),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(3),
    INT8_C(0),
    INT8_C(0),
@@ -25389,10 +25389,10 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_EmptyList_hashCode_0yzSmeAXyqaeN
 jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_type jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5;
 static int8_t jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(3),
+   INT8_C(46),
+   INT8_C(2),
    INT8_C(32),
-   INT8_C(19),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25446,14 +25446,14 @@ jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_type jpapbench_Ty
          (uint16_t)4,
          jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_itable-0,
          jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_buckets,
-         (int8_t)3,
+         (int8_t)2,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_itable-0,
          jpapbench_TypeData_Collections_EmptyMap_NbpGtExwtidhmnq9KaPys5_buckets,
-         (int8_t)3,
+         (int8_t)2,
          (uint16_t)2,
       }
    },
@@ -25494,13 +25494,13 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_EmptyMap_hashCode_HjCUF4I8Vh9WOk
 jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_type jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8;
 static int8_t jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(6),
-   INT8_C(39),
-   INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
+   INT8_C(46),
    INT8_C(7),
+   INT8_C(39),
+   INT8_C(32),
+   INT8_C(30),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25550,14 +25550,14 @@ jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_type jpapbench_Ty
          (uint16_t)5,
          jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_itable-0,
          jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_buckets,
-         (int8_t)6,
+         (int8_t)7,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_itable-0,
          jpapbench_TypeData_Collections_EmptySet_swfHwFCmrKXB6TC0v0heb8_buckets,
-         (int8_t)6,
+         (int8_t)7,
          (uint16_t)2,
       }
    },
@@ -25594,7 +25594,7 @@ jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_t
 static int8_t jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(36),
+   INT8_C(46),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25649,14 +25649,14 @@ jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_t
          (uint16_t)3,
          jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_buckets,
-         (int8_t)36,
+         (int8_t)46,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_buckets,
-         (int8_t)36,
+         (int8_t)46,
          (uint16_t)2,
       }
    },
@@ -25681,11 +25681,11 @@ jpapbench_TypeData_Collections_UnmodifiableCollection_1_v9mFTLALMpkoKq1uNSNQ75_t
 jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_type jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3;
 static int8_t jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
-   INT8_C(40),
+   INT8_C(32),
+   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25741,14 +25741,14 @@ jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_typ
          (uint16_t)4,
          jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_buckets,
-         (int8_t)40,
+         (int8_t)43,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableCollection_sEwUD64vBZWWWXNWwU5lg3_buckets,
-         (int8_t)40,
+         (int8_t)43,
          (uint16_t)5,
       }
    },
@@ -25780,12 +25780,12 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_UnmodifiableCollection_iterator_
 jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_type jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25;
 static int8_t jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(32),
+   INT8_C(46),
+   INT8_C(31),
    INT8_C(39),
-   INT8_C(30),
-   INT8_C(40),
-   INT8_C(17),
+   INT8_C(32),
+   INT8_C(43),
+   INT8_C(23),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25833,14 +25833,14 @@ jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_type jpapbe
          (uint16_t)4,
          jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_buckets,
-         (int8_t)32,
+         (int8_t)31,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_itable-0,
          jpapbench_TypeData_Collections_UnmodifiableSet_yCgDnXJiXTX2EQi7Esc25_buckets,
-         (int8_t)32,
+         (int8_t)31,
          (uint16_t)2,
       }
    },
@@ -25870,7 +25870,7 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_UnmodifiableSet_hashCode_6iLxtyN
 jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_type jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5;
 static int8_t jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_buckets[12] = {
    INT8_C(1),
-   INT8_C(87),
+   INT8_C(91),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25883,9 +25883,9 @@ static int8_t jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_buckets[12] 
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_fields[3] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_SET", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4), (uintptr_t)(UINT32_C(244)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_LIST", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7), (uintptr_t)(UINT32_C(252)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_MAP", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Map_lnVnV8oTRQCRkabqzBjIn), (uintptr_t)(UINT32_C(256)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_SET", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Set_YMBKYQMpJpDGzMNdjQBTT4), (uintptr_t)(UINT32_C(248)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_LIST", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_List_2SPJdp2KW4GBPSe4GUqOb7), (uintptr_t)(UINT32_C(280)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5, "EMPTY_MAP", 15, (fivmr_TypeStub*)(&jpapbench_TypeData_Map_lnVnV8oTRQCRkabqzBjIn), (uintptr_t)(UINT32_C(284)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_methods[2] = {
    &jpapbench_MethodRec_Collections__clinit__pr7QrTDwaEjQoY7N5jFuH6
@@ -25915,14 +25915,14 @@ jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_type jpapbench_TypeData_Co
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_buckets,
-         (int8_t)87,
+         (int8_t)91,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Collections_cwy1BfthQkEwmda6ACnPb5_buckets,
-         (int8_t)87,
+         (int8_t)91,
          (uint16_t)1,
       }
    },
@@ -25954,11 +25954,11 @@ fivmr_MethodRec jpapbench_MethodRec_Collections_sort_5c39Sr0AWgn04k8rOmrD57 = { 
 jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2_type jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2;
 static int8_t jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(11),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(29),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -25994,14 +25994,14 @@ jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2_type j
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2_buckets,
-         (int8_t)11,
+         (int8_t)29,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ConcurrentModificationException_T820j6zYpz7u4ONU8BA9D2_buckets,
-         (int8_t)11,
+         (int8_t)29,
          (uint16_t)5,
       }
    },
@@ -26034,7 +26034,7 @@ static int8_t jpapbench_TypeData_Deque_BrpxJBikgoba7IL3Ql2sH6_buckets[12] = {
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26109,7 +26109,7 @@ static int8_t jpapbench_TypeData_Queue_iP4yDgfeOK8C1dArOflLk6_buckets[12] = {
    INT8_C(0),
    INT8_C(0),
    INT8_C(39),
-   INT8_C(30),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26184,8 +26184,8 @@ static int8_t jpapbench_TypeData_Dictionary_BuhDbnvQyyd3m650eDaz93_buckets[12] =
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(14),
    INT8_C(0),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26216,15 +26216,15 @@ jpapbench_TypeData_Dictionary_BuhDbnvQyyd3m650eDaz93_type jpapbench_TypeData_Dic
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Dictionary_BuhDbnvQyyd3m650eDaz93_buckets,
-         (int8_t)14,
-         (uint16_t)5,
+         (int8_t)24,
+         (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Dictionary_BuhDbnvQyyd3m650eDaz93_buckets,
-         (int8_t)14,
-         (uint16_t)5,
+         (int8_t)24,
+         (uint16_t)6,
       }
    },
    NULL,
@@ -26241,7 +26241,7 @@ jpapbench_TypeData_Dictionary_BuhDbnvQyyd3m650eDaz93_type jpapbench_TypeData_Dic
    NULL,
    NULL,
    (uintptr_t)(UINT32_C(0)),
-   (int32_t)1209,
+   (int32_t)1210,
    (int32_t)4,
    { &jpapbench_Object_equals_1RFRuzN2AWE7PsH8oRnKz8, &jpapbench_Object_finalize_kim33uLtbHvAxoSuhu37U2, &jpapbench_Object_hashCode_Sdnm3iTZgbtq0j3l6xWJ88, &jpapbench_Object_toString_b4R4MeGtFD2TacNEWZYo14 }
 };
@@ -26249,7 +26249,7 @@ jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_type jpapbench_TypeData_En
 static int8_t jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(5),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26284,14 +26284,14 @@ jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_type jpapbench_TypeData_En
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_buckets,
-         (int8_t)5,
+         (int8_t)6,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_buckets,
-         (int8_t)5,
+         (int8_t)6,
          (uint16_t)2,
       }
    },
@@ -26315,7 +26315,7 @@ jpapbench_TypeData_Enumeration_Ir2qgmTmxJdUfjdnIpA852_type jpapbench_TypeData_En
 jpapbench_TypeData_HashMap_Entry_9sg1kX66lLJaos8EdvH5d4_type jpapbench_TypeData_HashMap_Entry_9sg1kX66lLJaos8EdvH5d4;
 static int8_t jpapbench_TypeData_HashMap_Entry_9sg1kX66lLJaos8EdvH5d4_buckets[12] = {
    INT8_C(1),
-   INT8_C(62),
+   INT8_C(71),
    INT8_C(10),
    INT8_C(0),
    INT8_C(0),
@@ -26416,8 +26416,8 @@ jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_type jpapbench_Ty
 static int8_t jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(26),
-   INT8_C(14),
+   INT8_C(24),
+   INT8_C(12),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26462,14 +26462,14 @@ jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_type jpapbench_Ty
          (uint16_t)3,
          jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_itable-0,
          jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_buckets,
-         (int8_t)14,
+         (int8_t)12,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_itable-0,
          jpapbench_TypeData_HashMap_EntryIterator_fVPWrDxKkYNRLg5kET17C_buckets,
-         (int8_t)14,
+         (int8_t)12,
          (uint16_t)3,
       }
    },
@@ -26495,7 +26495,7 @@ jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_type jpapbench_Ty
 static int8_t jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(26),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26554,14 +26554,14 @@ jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_type jpapbench_Ty
          (uint16_t)3,
          jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_itable-0,
          jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_buckets,
-         (int8_t)26,
+         (int8_t)24,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_itable-0,
          jpapbench_TypeData_HashMap_HashIterator_dnc9EYbVB8KK3l4ESMnSn3_buckets,
-         (int8_t)26,
+         (int8_t)24,
          (uint16_t)2,
       }
    },
@@ -26587,13 +26587,13 @@ fivmr_MethodRec jpapbench_MethodRec_HashMap_EntryIterator_next_FneHhUtrOLpAotSlH
 jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_type jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3;
 static int8_t jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_buckets[12] = {
    INT8_C(1),
-   INT8_C(42),
+   INT8_C(48),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26638,14 +26638,14 @@ jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_type jpapbench_TypeDa
          (uint16_t)5,
          jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_itable-0,
          jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_buckets,
-         (int8_t)42,
+         (int8_t)48,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_itable-0,
          jpapbench_TypeData_HashMap_EntrySet_dlZEqUUuaM9zCiilAsPhU3_buckets,
-         (int8_t)42,
+         (int8_t)48,
          (uint16_t)1,
       }
    },
@@ -26684,7 +26684,7 @@ jpapbench_TypeData_HashMap_KeyIterator_GkTFfRkPOM3cp7tIRihQl6_type jpapbench_Typ
 static int8_t jpapbench_TypeData_HashMap_KeyIterator_GkTFfRkPOM3cp7tIRihQl6_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(26),
+   INT8_C(24),
    INT8_C(49),
    INT8_C(0),
    INT8_C(0),
@@ -26763,13 +26763,13 @@ fivmr_MethodRec jpapbench_MethodRec_HashMap_KeyIterator_next_7YPBnFWbSaBuMpOaXxL
 jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_type jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3;
 static int8_t jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_buckets[12] = {
    INT8_C(1),
-   INT8_C(31),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26814,14 +26814,14 @@ jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_type jpapbench_TypeData
          (uint16_t)5,
          jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_itable-0,
          jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_buckets,
-         (int8_t)31,
+         (int8_t)32,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_itable-0,
          jpapbench_TypeData_HashMap_KeySet_iC0bL4xqWnRcKRWqb9C7n3_buckets,
-         (int8_t)31,
+         (int8_t)32,
          (uint16_t)1,
       }
    },
@@ -26852,11 +26852,11 @@ fivmr_MethodRec jpapbench_MethodRec_HashMap_KeySet_contains_F9BGEyTcEJyad0NZa6wc
 jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2_type jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2;
 static int8_t jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(28),
-   INT8_C(30),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(6),
+   INT8_C(31),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -26891,14 +26891,14 @@ jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2_buckets,
-         (int8_t)30,
+         (int8_t)31,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_HashMap_EntryArr_353I0BBZXa3aV63uNRPTC2_buckets,
-         (int8_t)30,
+         (int8_t)31,
          (uint16_t)5,
       }
    },
@@ -26953,13 +26953,13 @@ fivmr_MethodRec jpapbench_MethodRec_HashMap_entrySet_dG2AdIG2HoCQGNDUuwMpg7 = { 
 jpapbench_TypeData_HashSet_WQaXHqMA16pa95rdZqDOz3_type jpapbench_TypeData_HashSet_WQaXHqMA16pa95rdZqDOz3;
 static int8_t jpapbench_TypeData_HashSet_WQaXHqMA16pa95rdZqDOz3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(4),
    INT8_C(0),
    INT8_C(0),
@@ -27057,8 +27057,8 @@ fivmr_MethodRec jpapbench_MethodRec_HashSet_contains_11JKFVa5sSA4ljTUdL4WJ7 = { 
 jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_type jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2;
 static int8_t jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_buckets[12] = {
    INT8_C(1),
-   INT8_C(62),
-   INT8_C(34),
+   INT8_C(71),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27118,14 +27118,14 @@ jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_type jpapbench_TypeDat
          (uint16_t)3,
          jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_itable-0,
          jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_buckets,
-         (int8_t)34,
+         (int8_t)32,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_itable-0,
          jpapbench_TypeData_Hashtable_Entry_U1uTYTu1A1dCxq1wqy8uR2_buckets,
-         (int8_t)34,
+         (int8_t)32,
          (uint16_t)2,
       }
    },
@@ -27162,10 +27162,10 @@ static int8_t jpapbench_TypeData_Hashtable_EntrySet_grvhg3OBtTdDzoYb2VE793_bucke
    INT8_C(92),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27242,12 +27242,12 @@ jpapbench_TypeData_Hashtable_EntrySet_grvhg3OBtTdDzoYb2VE793_type jpapbench_Type
 jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_type jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF;
 static int8_t jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
    INT8_C(32),
    INT8_C(0),
-   INT8_C(14),
-   INT8_C(13),
+   INT8_C(24),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27315,15 +27315,15 @@ jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_type jpapbench_TypeData_Hasht
          (uint16_t)4,
          jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_itable-0,
          jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_buckets,
-         (int8_t)13,
-         (uint16_t)6,
+         (int8_t)24,
+         (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)4,
          jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_itable-0,
          jpapbench_TypeData_Hashtable_GrN9y7rKRP6ppdKHWUrcF_buckets,
-         (int8_t)13,
-         (uint16_t)6,
+         (int8_t)24,
+         (uint16_t)5,
       }
    },
    NULL,
@@ -27354,8 +27354,8 @@ jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_type jpapbench_Typ
 static int8_t jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(5),
-   INT8_C(27),
+   INT8_C(6),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27418,14 +27418,14 @@ jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_type jpapbench_Typ
          (uint16_t)3,
          jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_itable-0,
          jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_buckets,
-         (int8_t)27,
+         (int8_t)22,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_itable-0,
          jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_buckets,
-         (int8_t)27,
+         (int8_t)22,
          (uint16_t)3,
       }
    },
@@ -27450,11 +27450,11 @@ jpapbench_TypeData_Hashtable_Enumerator_CcUXK72GD191Jlg2dRb2X_type jpapbench_Typ
 jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8_type jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8;
 static int8_t jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(28),
-   INT8_C(33),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(6),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27489,14 +27489,14 @@ jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8_buckets,
-         (int8_t)33,
+         (int8_t)34,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Hashtable_EntryArr_ytbp5QnLlWwW6Acni4YSs8_buckets,
-         (int8_t)33,
+         (int8_t)34,
          (uint16_t)5,
       }
    },
@@ -27556,7 +27556,7 @@ fivmr_MethodRec jpapbench_MethodRec_Iterator_remove_3BLvh5ozyugqQbaC0fJ3w5 = { 1
 jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6_type jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6;
 static int8_t jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6_buckets[12] = {
    INT8_C(1),
-   INT8_C(78),
+   INT8_C(82),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27597,14 +27597,14 @@ jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6_buckets,
-         (int8_t)78,
+         (int8_t)82,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_LinkedList_Entry_81DQinfHRJfKfoT4BHXvk6_buckets,
-         (int8_t)78,
+         (int8_t)82,
          (uint16_t)1,
       }
    },
@@ -27631,7 +27631,7 @@ static int8_t jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32
    INT8_C(1),
    INT8_C(26),
    INT8_C(23),
-   INT8_C(7),
+   INT8_C(28),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27692,14 +27692,14 @@ jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_type jpapbenc
          (uint16_t)3,
          jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_itable-0,
          jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_buckets,
-         (int8_t)7,
+         (int8_t)28,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_itable-0,
          jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_buckets,
-         (int8_t)7,
+         (int8_t)28,
          (uint16_t)3,
       }
    },
@@ -27724,13 +27724,13 @@ jpapbench_TypeData_LinkedList_LinkedListItr_8enALkvGINTz2mPgLZKt32_type jpapbenc
 jpapbench_TypeData_LinkedList_tb2N6WTyl9suMTCgq2AA52_type jpapbench_TypeData_LinkedList_tb2N6WTyl9suMTCgq2AA52;
 static int8_t jpapbench_TypeData_LinkedList_tb2N6WTyl9suMTCgq2AA52_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(39),
-   INT8_C(30),
-   INT8_C(24),
-   INT8_C(14),
+   INT8_C(46),
    INT8_C(5),
+   INT8_C(39),
+   INT8_C(32),
+   INT8_C(30),
+   INT8_C(19),
+   INT8_C(6),
    INT8_C(1),
    INT8_C(2),
    INT8_C(2),
@@ -27891,9 +27891,9 @@ static int8_t jpapbench_TypeData_NavigableMap_F4vutRDaqHPefrGnLBe6W5_buckets[12]
    INT8_C(0),
    INT8_C(32),
    INT8_C(0),
-   INT8_C(19),
+   INT8_C(20),
    INT8_C(0),
-   INT8_C(6),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -27930,14 +27930,14 @@ jpapbench_TypeData_NavigableMap_F4vutRDaqHPefrGnLBe6W5_type jpapbench_TypeData_N
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NavigableMap_F4vutRDaqHPefrGnLBe6W5_buckets,
-         (int8_t)6,
+         (int8_t)7,
          (uint16_t)7,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NavigableMap_F4vutRDaqHPefrGnLBe6W5_buckets,
-         (int8_t)6,
+         (int8_t)7,
          (uint16_t)7,
       }
    },
@@ -27965,7 +27965,7 @@ static int8_t jpapbench_TypeData_SortedMap_lYBqaKriM4Eg7zamTu6FM5_buckets[12] = 
    INT8_C(0),
    INT8_C(32),
    INT8_C(0),
-   INT8_C(19),
+   INT8_C(20),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28003,14 +28003,14 @@ jpapbench_TypeData_SortedMap_lYBqaKriM4Eg7zamTu6FM5_type jpapbench_TypeData_Sort
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SortedMap_lYBqaKriM4Eg7zamTu6FM5_buckets,
-         (int8_t)19,
+         (int8_t)20,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SortedMap_lYBqaKriM4Eg7zamTu6FM5_buckets,
-         (int8_t)19,
+         (int8_t)20,
          (uint16_t)5,
       }
    },
@@ -28034,11 +28034,11 @@ jpapbench_TypeData_SortedMap_lYBqaKriM4Eg7zamTu6FM5_type jpapbench_TypeData_Sort
 jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2_type jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2;
 static int8_t jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
-   INT8_C(19),
-   INT8_C(6),
-   INT8_C(34),
+   INT8_C(14),
+   INT8_C(9),
+   INT8_C(12),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28074,14 +28074,14 @@ jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2_type jpapbench_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2_buckets,
-         (int8_t)34,
+         (int8_t)12,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NoSuchElementException_eYQGS1TBzvwR8DtDWKGwU2_buckets,
-         (int8_t)34,
+         (int8_t)12,
          (uint16_t)5,
       }
    },
@@ -28116,8 +28116,8 @@ fivmr_MethodRec jpapbench_MethodRec_Set_toArray_srgPDb0VgZPcVayCFScTS4 = { 10737
 jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6_type jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6;
 static int8_t jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6_buckets[12] = {
    INT8_C(1),
-   INT8_C(41),
-   INT8_C(5),
+   INT8_C(96),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28169,14 +28169,14 @@ jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6_buckets,
-         (int8_t)41,
+         (int8_t)96,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_StringTokenizer_2WPRKkM1o6bL1Mvxi2xYx6_buckets,
-         (int8_t)41,
+         (int8_t)96,
          (uint16_t)1,
       }
    },
@@ -28203,7 +28203,7 @@ fivmr_MethodRec jpapbench_MethodRec_StringTokenizer_countTokens_CwJpNjWZCm0VqwQ2
 jpapbench_TypeData_TreeMap_Entry_B84EqoGurohNk68raPika6_type jpapbench_TypeData_TreeMap_Entry_B84EqoGurohNk68raPika6;
 static int8_t jpapbench_TypeData_TreeMap_Entry_B84EqoGurohNk68raPika6_buckets[12] = {
    INT8_C(1),
-   INT8_C(62),
+   INT8_C(71),
    INT8_C(47),
    INT8_C(0),
    INT8_C(0),
@@ -28306,8 +28306,8 @@ jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_type jpapbench_T
 static int8_t jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_buckets[12] = {
    INT8_C(1),
    INT8_C(26),
-   INT8_C(31),
-   INT8_C(42),
+   INT8_C(17),
+   INT8_C(47),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28352,14 +28352,14 @@ jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_type jpapbench_T
          (uint16_t)3,
          jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_itable-0,
          jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_buckets,
-         (int8_t)31,
+         (int8_t)17,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_itable-0,
          jpapbench_TypeData_TreeMap_EntryIterator_M9dIaO7bdWOWCFSfItUnn6_buckets,
-         (int8_t)31,
+         (int8_t)17,
          (uint16_t)2,
       }
    },
@@ -28386,7 +28386,7 @@ static int8_t jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SU
    INT8_C(1),
    INT8_C(26),
    INT8_C(0),
-   INT8_C(42),
+   INT8_C(47),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28442,14 +28442,14 @@ jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_type jpap
          (uint16_t)3,
          jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_itable-0,
          jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_buckets,
-         (int8_t)42,
+         (int8_t)47,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)3,
          jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_itable-0,
          jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_buckets,
-         (int8_t)42,
+         (int8_t)47,
          (uint16_t)3,
       }
    },
@@ -28467,7 +28467,7 @@ jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_type jpap
    jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_methods,
    jpapbench_TypeData_TreeMap_PrivateEntryIterator_prFDU69GCXUyORf2SUGJl4_fields,
    (uintptr_t)(UINT32_C(0)),
-   (int32_t)1228,
+   (int32_t)1233,
    (int32_t)7,
    { &jpapbench_Object_equals_1RFRuzN2AWE7PsH8oRnKz8, &jpapbench_Object_finalize_kim33uLtbHvAxoSuhu37U2, &jpapbench_Object_hashCode_Sdnm3iTZgbtq0j3l6xWJ88, &jpapbench_Object_toString_b4R4MeGtFD2TacNEWZYo14, &jpapbench_TreeMap_PrivateEntryIterator_remove_UwwNErFZI3tJIxlcMwdf, NULL, &jpapbench_TreeMap_PrivateEntryIterator_hasNext_jvgXsEoH5UkKfhnePnrNY7 }
 };
@@ -28475,13 +28475,13 @@ fivmr_MethodRec jpapbench_MethodRec_TreeMap_EntryIterator_next_KfSVjscW3lmzdXEqt
 jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_type jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g;
 static int8_t jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_buckets[12] = {
    INT8_C(1),
-   INT8_C(11),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(39),
+   INT8_C(32),
    INT8_C(30),
-   INT8_C(24),
-   INT8_C(17),
-   INT8_C(7),
+   INT8_C(23),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28526,14 +28526,14 @@ jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_type jpapbench_TypeDat
          (uint16_t)5,
          jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_itable-0,
          jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_buckets,
-         (int8_t)11,
+         (int8_t)14,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)5,
          jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_itable-0,
          jpapbench_TypeData_TreeMap_EntrySet_Em4i5cCSruIqOHPJX6w4g_buckets,
-         (int8_t)11,
+         (int8_t)14,
          (uint16_t)1,
       }
    },
@@ -28641,8 +28641,8 @@ fivmr_MethodRec jpapbench_MethodRec_Vector_checkBoundExclusiveSlow_vnG7yfTsFnBcF
 jpapbench_TypeData_AbsoluteTime_zdoO7UPionNrKylpSKi2O6_type jpapbench_TypeData_AbsoluteTime_zdoO7UPionNrKylpSKi2O6;
 static int8_t jpapbench_TypeData_AbsoluteTime_zdoO7UPionNrKylpSKi2O6_buckets[12] = {
    INT8_C(1),
-   INT8_C(10),
-   INT8_C(4),
+   INT8_C(11),
+   INT8_C(5),
    INT8_C(36),
    INT8_C(0),
    INT8_C(0),
@@ -28708,8 +28708,8 @@ jpapbench_TypeData_AbsoluteTime_zdoO7UPionNrKylpSKi2O6_type jpapbench_TypeData_A
 jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_type jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2;
 static int8_t jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_buckets[12] = {
    INT8_C(1),
-   INT8_C(10),
-   INT8_C(4),
+   INT8_C(11),
+   INT8_C(5),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28750,14 +28750,14 @@ jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_buckets,
-         (int8_t)10,
+         (int8_t)11,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_buckets,
-         (int8_t)10,
+         (int8_t)11,
          (uint16_t)1,
       }
    },
@@ -28781,10 +28781,10 @@ jpapbench_TypeData_HighResolutionTime_zGcM5IyofOWLNsthxeAUb2_type jpapbench_Type
 jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4_type jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4;
 static int8_t jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(15),
+   INT8_C(25),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28820,14 +28820,14 @@ jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4_type jpapbench_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4_buckets,
-         (int8_t)15,
+         (int8_t)25,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_IllegalAssignmentError_aMAn8Qor3GBEtm6WRDSEz4_buckets,
-         (int8_t)15,
+         (int8_t)25,
          (uint16_t)4,
       }
    },
@@ -28854,8 +28854,8 @@ jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_type jpapbench_TypeData_
 static int8_t jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(4),
-   INT8_C(29),
+   INT8_C(5),
+   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28895,14 +28895,14 @@ jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_buckets,
-         (int8_t)29,
+         (int8_t)43,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_buckets,
-         (int8_t)29,
+         (int8_t)43,
          (uint16_t)3,
       }
    },
@@ -28920,16 +28920,16 @@ jpapbench_TypeData_ParameterBase_mzNPSZqRLNhLtKwPnyxmh3_type jpapbench_TypeData_
    NULL,
    NULL,
    (uintptr_t)(UINT32_C(0)),
-   (int32_t)1225,
+   (int32_t)1226,
    (int32_t)0,
 };
 jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI_type jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI;
 static int8_t jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI_buckets[12] = {
    INT8_C(1),
-   INT8_C(4),
-   INT8_C(4),
-   INT8_C(29),
-   INT8_C(31),
+   INT8_C(68),
+   INT8_C(5),
+   INT8_C(43),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -28962,14 +28962,14 @@ jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI_buckets,
-         (int8_t)4,
+         (int8_t)68,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PeriodicParameters_XpMJWT9HBUYw55FCyvZVI_buckets,
-         (int8_t)4,
+         (int8_t)68,
          (uint16_t)1,
       }
    },
@@ -28994,9 +28994,9 @@ jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_type jpapbench_TypeD
 static int8_t jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(4),
-   INT8_C(29),
-   INT8_C(31),
+   INT8_C(5),
+   INT8_C(43),
+   INT8_C(34),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29029,14 +29029,14 @@ jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_buckets,
-         (int8_t)31,
+         (int8_t)34,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_buckets,
-         (int8_t)31,
+         (int8_t)34,
          (uint16_t)4,
       }
    },
@@ -29060,8 +29060,8 @@ jpapbench_TypeData_ReleaseParameters_A4rzqVOQVyfcJzYZj6Kgk3_type jpapbench_TypeD
 jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8_type jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8;
 static int8_t jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8_buckets[12] = {
    INT8_C(1),
-   INT8_C(54),
-   INT8_C(25),
+   INT8_C(38),
+   INT8_C(22),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29102,15 +29102,15 @@ jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8_type jpapbench_TypeDa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8_buckets,
-         (int8_t)25,
-         (uint16_t)2,
+         (int8_t)38,
+         (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RealtimeThread_1_QySiusZsoiTWykHCQ8Lmf8_buckets,
-         (int8_t)25,
-         (uint16_t)2,
+         (int8_t)38,
+         (uint16_t)1,
       }
    },
    NULL,
@@ -29135,9 +29135,9 @@ jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_type jpapbench_TypeData_
 static int8_t jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_buckets[12] = {
    INT8_C(1),
    INT8_C(1),
-   INT8_C(12),
-   INT8_C(11),
-   INT8_C(20),
+   INT8_C(14),
+   INT8_C(8),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29153,7 +29153,7 @@ static fivmr_TypeData *jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_i
    (fivmr_TypeData*)&jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6
 };
 static fivmr_FieldRec jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_fields[2] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq, "tsh", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2), (uintptr_t)(UINT32_C(112)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq, "tsh", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadStartHook_Oa2K8cC30Cz6oC4NURLqQ2), (uintptr_t)(UINT32_C(116)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq, "initialRelease", 192, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)56 }
 };
 static fivmr_MethodRec *jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_methods[3] = {
@@ -29188,14 +29188,14 @@ jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_type jpapbench_TypeData_
          (uint16_t)1,
          jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_itable-0,
          jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_buckets,
-         (int8_t)11,
+         (int8_t)8,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)1,
          jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_itable-0,
          jpapbench_TypeData_RealtimeThread_vOwLccw57Bq6vFJp3UIJq_buckets,
-         (int8_t)11,
+         (int8_t)8,
          (uint16_t)3,
       }
    },
@@ -29221,9 +29221,9 @@ jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6_type jpapbench_TypeData_Sc
 static int8_t jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6_buckets[12] = {
    INT8_C(1),
    INT8_C(0),
-   INT8_C(12),
+   INT8_C(14),
    INT8_C(0),
-   INT8_C(20),
+   INT8_C(24),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29262,14 +29262,14 @@ jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6_type jpapbench_TypeData_Sc
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6_buckets,
-         (int8_t)20,
+         (int8_t)24,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Schedulable_nxkvqpR4PIkP4D9h5Yq5C6_buckets,
-         (int8_t)20,
+         (int8_t)24,
          (uint16_t)4,
       }
    },
@@ -29297,9 +29297,9 @@ fivmr_MethodRec jpapbench_MethodRec_RealtimeThread_start_UE6hMuBTAzuIkEr3wf4uZ6 
 jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_type jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev;
 static int8_t jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_buckets[12] = {
    INT8_C(1),
-   INT8_C(10),
-   INT8_C(4),
-   INT8_C(21),
+   INT8_C(11),
+   INT8_C(5),
+   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29333,14 +29333,14 @@ jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_type jpapbench_TypeData_Re
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_buckets,
-         (int8_t)21,
+         (int8_t)17,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_buckets,
-         (int8_t)21,
+         (int8_t)17,
          (uint16_t)3,
       }
    },
@@ -29364,10 +29364,10 @@ jpapbench_TypeData_RelativeTime_5MtDqnitwVCp3WOlsZiev_type jpapbench_TypeData_Re
 jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6_type jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6;
 static int8_t jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
    INT8_C(41),
    INT8_C(37),
-   INT8_C(26),
+   INT8_C(14),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29406,14 +29406,14 @@ jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6_type jpapbench_Type
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6_buckets,
-         (int8_t)26,
+         (int8_t)14,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThrowBoundaryError_MH6yi19YIT8dPL1QT2f1Z6_buckets,
-         (int8_t)26,
+         (int8_t)14,
          (uint16_t)4,
       }
    },
@@ -29439,7 +29439,7 @@ fivmr_MethodRec jpapbench_MethodRec_ThrowBoundaryError__init__6W4fLDMtQiI5KfOFHi
 jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53_type jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53;
 static int8_t jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53_buckets[12] = {
    INT8_C(1),
-   INT8_C(14),
+   INT8_C(18),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29491,14 +29491,14 @@ jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53_type jpapbench_TypeData_FDBig
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53_buckets,
-         (int8_t)14,
+         (int8_t)18,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FDBigInt_CUUSmZcbMsm6HGiOOI9T53_buckets,
-         (int8_t)14,
+         (int8_t)18,
          (uint16_t)1,
       }
    },
@@ -29551,8 +29551,8 @@ fivmr_MethodRec jpapbench_MethodRec_FDBigInt_toString_PKZh2zsIfsCmN2qVvBarh7 = {
 jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_type jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67;
 static int8_t jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_buckets[12] = {
    INT8_C(1),
-   INT8_C(60),
-   INT8_C(33),
+   INT8_C(69),
+   INT8_C(37),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29587,14 +29587,14 @@ jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_buckets,
-         (int8_t)33,
+         (int8_t)37,
          (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_buckets,
-         (int8_t)33,
+         (int8_t)37,
          (uint16_t)2,
       }
    },
@@ -29619,7 +29619,7 @@ jpapbench_TypeData_FloatingDecimal_1_Y3OLo1XpGp9Uc47Qoobw67_type jpapbench_TypeD
 jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_type jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2;
 static int8_t jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_buckets[12] = {
    INT8_C(1),
-   INT8_C(15),
+   INT8_C(19),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29641,7 +29641,7 @@ static fivmr_FieldRec jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "fromHex", 194, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)17 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "roundDir", 194, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)20 }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "b5p", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_FDBigIntArr_zqt1kHT5xWafWaBV0rq8l), (uintptr_t)(UINT32_C(404)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "perThreadBuffer", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13), (uintptr_t)(UINT32_C(276)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "perThreadBuffer", 1, (fivmr_TypeStub*)(&jpapbench_TypeData_ThreadLocal_LRcjOtSUPub6fdJJZZli13), (uintptr_t)(UINT32_C(256)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "small10pow", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3), (uintptr_t)(UINT32_C(364)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "singleSmall10pow", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_floatArr_5YlNatn3OVHrdzH9hfwKk5), (uintptr_t)(UINT32_C(368)) }
 ,  { (fivmr_TypeData*)&jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2, "big10pow", 9, (fivmr_TypeStub*)(&jpapbench_TypeData_doubleArr_mjlqzFmth2EYGUJjMUzYX3), (uintptr_t)(UINT32_C(372)) }
@@ -29689,14 +29689,14 @@ jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_buckets,
-         (int8_t)15,
+         (int8_t)19,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_buckets,
-         (int8_t)15,
+         (int8_t)19,
          (uint16_t)1,
       }
    },
@@ -29721,9 +29721,9 @@ jpapbench_TypeData_FloatingDecimal_BltIV5bmGVg5F1br5ZalI2_type jpapbench_TypeDat
 jpapbench_TypeData_FDBigIntArr_zqt1kHT5xWafWaBV0rq8l_type jpapbench_TypeData_FDBigIntArr_zqt1kHT5xWafWaBV0rq8l;
 static int8_t jpapbench_TypeData_FDBigIntArr_zqt1kHT5xWafWaBV0rq8l_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(3),
    INT8_C(0),
    INT8_C(0),
@@ -29817,7 +29817,7 @@ fivmr_MethodRec jpapbench_MethodRec_FloatingDecimal_getChars_UTme9fGrRcuTx2oWGXf
 jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_type jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5;
 static int8_t jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_buckets[12] = {
    INT8_C(1),
-   INT8_C(40),
+   INT8_C(37),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29830,13 +29830,13 @@ static int8_t jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_buckets[12] = {
    INT8_C(0)
 };
 static fivmr_FieldRec jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_fields[7] = {
-   { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "suspended", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(1)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "booted", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(2)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "directMemory", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)(UINT32_C(8)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "defaultAllowArraySyntax", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(16)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "allowArraySyntax", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(17)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "finalRefCount", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(20)) }
-,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "peakFinalRefCount", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(24)) }
+   { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "suspended", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(8)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "booted", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(9)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "directMemory", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_long_ODGjCjLuSmdgk1yysabXl), (uintptr_t)(UINT32_C(16)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "defaultAllowArraySyntax", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(24)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "allowArraySyntax", 193, (fivmr_TypeStub*)(&jpapbench_TypeData_boolean_sY8z6fx1V8ILNqgtWTEA35), (uintptr_t)(UINT32_C(25)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "finalRefCount", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(28)) }
+,  { (fivmr_TypeData*)&jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5, "peakFinalRefCount", 209, (fivmr_TypeStub*)(&jpapbench_TypeData_int_gv1gSVUGP0dW3cdLM7LmE8), (uintptr_t)(UINT32_C(32)) }
 };
 static fivmr_MethodRec *jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_methods[1] = {
    &jpapbench_MethodRec_VM__clinit__8fRUtbz9FmFYaTKA8OE7B6
@@ -29865,14 +29865,14 @@ jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_type jpapbench_TypeData_VM_iL0GvoTP
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_buckets,
-         (int8_t)40,
+         (int8_t)37,
          (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_VM_iL0GvoTPGclYPHKjI5Epx5_buckets,
-         (int8_t)40,
+         (int8_t)37,
          (uint16_t)1,
       }
    },
@@ -29898,12 +29898,12 @@ fivmr_MethodRec jpapbench_MethodRec_VM__clinit__8fRUtbz9FmFYaTKA8OE7B6 = { 10737
 jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_type jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A;
 static int8_t jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(1),
-   INT8_C(4),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(2),
    INT8_C(0),
+   INT8_C(26),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -29934,15 +29934,15 @@ jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_buckets,
-         (int8_t)4,
-         (uint16_t)5,
+         (int8_t)26,
+         (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_buckets,
-         (int8_t)4,
-         (uint16_t)5,
+         (int8_t)26,
+         (uint16_t)6,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_WeakReference_aIuqrQ3Ad6912mgziklPD2,
@@ -29966,10 +29966,10 @@ jpapbench_TypeData_WeakReferenceArr_8ZcvZCZGEvv3tjdsypv8A_type jpapbench_TypeDat
 jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_type jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56;
 static int8_t jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30002,14 +30002,14 @@ jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_buckets,
-         (int8_t)11,
+         (int8_t)15,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_buckets,
-         (int8_t)11,
+         (int8_t)15,
          (uint16_t)4,
       }
    },
@@ -30034,13 +30034,13 @@ jpapbench_TypeData_SerializableArr_WMgMNgCfkGADGGr1ccHs56_type jpapbench_TypeDat
 jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_type jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3;
 static int8_t jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(0),
+   INT8_C(0),
    INT8_C(4),
-   INT8_C(10),
    INT8_C(0),
-   INT8_C(0),
-   INT8_C(0),
-   INT8_C(8),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30070,15 +30070,15 @@ jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_type jpapbench_TypeDat
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_buckets,
-         (int8_t)8,
-         (uint16_t)7,
+         (int8_t)4,
+         (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_buckets,
-         (int8_t)8,
-         (uint16_t)7,
+         (int8_t)4,
+         (uint16_t)6,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_CharSequence_GV8aE8tNB5ljRZej2sNFA6,
@@ -30102,12 +30102,12 @@ jpapbench_TypeData_CharSequenceArr_WnYSC7RFrdRuV2s5Tv6Sz3_type jpapbench_TypeDat
 jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_type jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8;
 static int8_t jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
-   INT8_C(23),
+   INT8_C(17),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30138,14 +30138,14 @@ jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_type jpapbench_TypeData_C
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_buckets,
-         (int8_t)23,
+         (int8_t)17,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_buckets,
-         (int8_t)23,
+         (int8_t)17,
          (uint16_t)6,
       }
    },
@@ -30170,11 +30170,11 @@ jpapbench_TypeData_CloneableArr_FxEvjY1GDEX1LpUKSc4Bh8_type jpapbench_TypeData_C
 jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_type jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8;
 static int8_t jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(0),
-   INT8_C(22),
+   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30206,14 +30206,14 @@ jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_buckets,
-         (int8_t)22,
+         (int8_t)32,
          (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_buckets,
-         (int8_t)22,
+         (int8_t)32,
          (uint16_t)5,
       }
    },
@@ -30238,11 +30238,11 @@ jpapbench_TypeData_ComparableArr_ARQb7wuxE4yQuY5uzykSh8_type jpapbench_TypeData_
 jpapbench_TypeData_EnumArr_7s2lQuaJXsZq66i8bucYq3_type jpapbench_TypeData_EnumArr_7s2lQuaJXsZq66i8bucYq3;
 static int8_t jpapbench_TypeData_EnumArr_7s2lQuaJXsZq66i8bucYq3_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(22),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(15),
+   INT8_C(32),
    INT8_C(3),
    INT8_C(0),
    INT8_C(0),
@@ -30310,12 +30310,12 @@ jpapbench_TypeData_EnumArr_7s2lQuaJXsZq66i8bucYq3_type jpapbench_TypeData_EnumAr
 jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_type jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8;
 static int8_t jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(11),
-   INT8_C(0),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
    INT8_C(15),
+   INT8_C(0),
+   INT8_C(7),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30349,14 +30349,14 @@ jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_type jpapbench_TypeData_Numb
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_buckets,
-         (int8_t)15,
+         (int8_t)7,
          (uint16_t)6,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_buckets,
-         (int8_t)15,
+         (int8_t)7,
          (uint16_t)6,
       }
    },
@@ -30381,11 +30381,11 @@ jpapbench_TypeData_NumberArr_6rADGqBRbAp4E6y0g1ibp8_type jpapbench_TypeData_Numb
 jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_type jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2;
 static int8_t jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(17),
    INT8_C(0),
-   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30417,15 +30417,15 @@ jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_type jpapbench_TypeData_Ru
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_buckets,
-         (int8_t)43,
-         (uint16_t)5,
+         (int8_t)17,
+         (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_buckets,
-         (int8_t)43,
-         (uint16_t)5,
+         (int8_t)17,
+         (uint16_t)4,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_Runnable_xquw5VcvBMfKeNuO1OtCI4,
@@ -30449,11 +30449,11 @@ jpapbench_TypeData_RunnableArr_yViFsVbT4OBR8EzhWmSJK2_type jpapbench_TypeData_Ru
 jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_type jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6;
 static int8_t jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(23),
-   INT8_C(43),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(17),
+   INT8_C(28),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30488,15 +30488,15 @@ jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_type jpapbench_TypeData_Thre
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_buckets,
-         (int8_t)23,
-         (uint16_t)4,
+         (int8_t)28,
+         (uint16_t)5,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_buckets,
-         (int8_t)23,
-         (uint16_t)4,
+         (int8_t)28,
+         (uint16_t)5,
       }
    },
    (fivmr_TypeData*)&jpapbench_TypeData_Thread_ldx1h8DAGJ2QGMRIhJAma8,
@@ -30520,10 +30520,10 @@ jpapbench_TypeData_ThreadArr_YxYaHNd4EjKdWu3DWVr5z6_type jpapbench_TypeData_Thre
 jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_type jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4;
 static int8_t jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(1),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(2),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30556,14 +30556,14 @@ jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_type jpapbench_TypeData_R
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_buckets,
-         (int8_t)1,
+         (int8_t)2,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_buckets,
-         (int8_t)1,
+         (int8_t)2,
          (uint16_t)4,
       }
    },
@@ -30588,10 +30588,10 @@ jpapbench_TypeData_ReferenceArr_hXiEhxZDKcaF8DSWKhVvd4_type jpapbench_TypeData_R
 jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_type jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8;
 static int8_t jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(10),
-   INT8_C(28),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(7),
+   INT8_C(6),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30624,14 +30624,14 @@ jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_type jpapbench_TypeData_M
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_buckets,
-         (int8_t)28,
+         (int8_t)6,
          (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_buckets,
-         (int8_t)28,
+         (int8_t)6,
          (uint16_t)4,
       }
    },
@@ -30656,9 +30656,9 @@ jpapbench_TypeData_Map_EntryArr_5QCjxOpOkv9EeWzRqkH8t8_type jpapbench_TypeData_M
 jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_type jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7;
 static int8_t jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_buckets[12] = {
    INT8_C(1),
-   INT8_C(37),
-   INT8_C(4),
-   INT8_C(26),
+   INT8_C(46),
+   INT8_C(5),
+   INT8_C(25),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30696,14 +30696,14 @@ jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_type jpapbench_TypeData_vm
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_buckets,
-         (int8_t)26,
+         (int8_t)25,
          (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_buckets,
-         (int8_t)26,
+         (int8_t)25,
          (uint16_t)3,
       }
    },
@@ -30728,8 +30728,8 @@ jpapbench_TypeData_vm_FCPtrArr_0jAH6IfIHGlY2R2kAFpWf7_type jpapbench_TypeData_vm
 jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_type jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42;
 static int8_t jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_buckets[12] = {
    INT8_C(1),
+   INT8_C(13),
    INT8_C(0),
-   INT8_C(43),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30764,15 +30764,15 @@ jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_type jpap
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_buckets,
-         (int8_t)43,
-         (uint16_t)2,
+         (int8_t)13,
+         (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_buckets,
-         (int8_t)43,
-         (uint16_t)2,
+         (int8_t)13,
+         (uint16_t)1,
       }
    },
    NULL,
@@ -30795,9 +30795,9 @@ jpapbench_TypeData_AbstractPapaBenchApplication_SaPiTXQlco486Ke3gokB42_type jpap
 jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_type jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7;
 static int8_t jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_buckets[12] = {
    INT8_C(1),
-   INT8_C(72),
-   INT8_C(35),
+   INT8_C(10),
    INT8_C(0),
+   INT8_C(29),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30837,15 +30837,15 @@ jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_type jpapbench_TypeData_Papa
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_buckets,
-         (int8_t)72,
-         (uint16_t)1,
+         (int8_t)29,
+         (uint16_t)3,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_buckets,
-         (int8_t)72,
-         (uint16_t)1,
+         (int8_t)29,
+         (uint16_t)3,
       }
    },
    NULL,
@@ -30868,8 +30868,8 @@ jpapbench_TypeData_PapaBench_gP1TfX1X2LmBz9mFU4T4z7_type jpapbench_TypeData_Papa
 jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_type jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7;
 static int8_t jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_buckets[12] = {
    INT8_C(1),
+   INT8_C(10),
    INT8_C(0),
-   INT8_C(35),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30904,15 +30904,15 @@ jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_type jpapbench_TypeData_Module_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_buckets,
-         (int8_t)35,
-         (uint16_t)2,
+         (int8_t)10,
+         (uint16_t)1,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_buckets,
-         (int8_t)35,
-         (uint16_t)2,
+         (int8_t)10,
+         (uint16_t)1,
       }
    },
    NULL,
@@ -30935,8 +30935,8 @@ jpapbench_TypeData_Module_gNMAqdwl9usSVVMwdbb8y7_type jpapbench_TypeData_Module_
 jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6_type jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6;
 static int8_t jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6_buckets[12] = {
    INT8_C(1),
-   INT8_C(75),
-   INT8_C(43),
+   INT8_C(13),
+   INT8_C(27),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -30974,15 +30974,15 @@ jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6_type jpapbenc
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6_buckets,
-         (int8_t)75,
-         (uint16_t)1,
+         (int8_t)27,
+         (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBenchRTSJApplication_q7uBtX8ak0BLYSd2bCQcz6_buckets,
-         (int8_t)75,
-         (uint16_t)1,
+         (int8_t)27,
+         (uint16_t)2,
       }
    },
    NULL,
@@ -31010,10 +31010,10 @@ fivmr_MethodRec jpapbench_MethodRec_PapaBenchRTSJApplication_main_sw420Vl2zVQ5hP
 jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_type jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4;
 static int8_t jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_buckets[12] = {
    INT8_C(1),
-   INT8_C(72),
-   INT8_C(35),
-   INT8_C(35),
-   INT8_C(32),
+   INT8_C(10),
+   INT8_C(20),
+   INT8_C(29),
+   INT8_C(29),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -31060,15 +31060,15 @@ jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_type jpapbench_TypeD
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_buckets,
-         (int8_t)35,
-         (uint16_t)3,
+         (int8_t)29,
+         (uint16_t)4,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_buckets,
-         (int8_t)35,
-         (uint16_t)3,
+         (int8_t)29,
+         (uint16_t)4,
       }
    },
    NULL,
@@ -31092,10 +31092,10 @@ jpapbench_TypeData_PapaBenchRTSJImpl_g4bsM94KQYstoiRM62oNg4_type jpapbench_TypeD
 jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052_type jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052;
 static int8_t jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052_buckets[12] = {
    INT8_C(1),
-   INT8_C(72),
-   INT8_C(35),
+   INT8_C(10),
+   INT8_C(20),
+   INT8_C(29),
    INT8_C(0),
-   INT8_C(32),
    INT8_C(0),
    INT8_C(0),
    INT8_C(0),
@@ -31135,15 +31135,15 @@ jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052_type jpapbench_TypeData_
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052_buckets,
-         (int8_t)32,
-         (uint16_t)4,
+         (int8_t)20,
+         (uint16_t)2,
       }, {
          (uint16_t)0,
          (uint16_t)0,
          NULL,
          jpapbench_TypeData_RTSJPapaBench_PZuQao2wTiTkAMSodAd052_buckets,
-         (int8_t)32,
-         (uint16_t)4,
+         (int8_t)20,
+         (uint16_t)2,
       }
    },
    NULL,
