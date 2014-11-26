@@ -13,8 +13,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import java.io.ObjectInputStream;
-
 public class CommChannelPJ implements CommChannel {
 	private final String remoteIP = "127.0.0.1";
 	private final int remotePort = 8081;
@@ -36,7 +34,7 @@ public class CommChannelPJ implements CommChannel {
 			while (inputConn.size() < numInput) {
 				System.out.println("Waiting for client request");
 				Socket socket = serverSocket.accept();
-				socket.setSoTimeout(100000);
+				socket.setSoTimeout(10);
 				System.out.println("Get connection...");
 				BufferedReader reader = new BufferedReader(
 						new InputStreamReader(socket.getInputStream()));
@@ -44,7 +42,6 @@ public class CommChannelPJ implements CommChannel {
 				String line = reader.readLine();
 				inputConn.put(line, socket);
 				System.out.println("Establish connection for " + line);
-				socket.close();
 			}
 			System.out.println("Finish input connections init");
 
