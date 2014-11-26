@@ -188,13 +188,16 @@
     	<jar destfile="${output.jar.dir}/jpapabench-core-flightplans.jar" basedir="${output.jpapabench.core.flightplans.dir}" />
 	</target>
 	
-    
-    <target name="jar.pj" depends="jar.core, jar.flightplans, compile.jpapabench.core, compile.jpapabench.pj">
+	<target name="jar.juav">
+	    	<jar destfile="${output.jar.dir}/jpapabench-core-messaging.jar" basedir="${output.jpapabench.juav.dir}" />
+		</target>
+	
+    <target name="jar.pj" depends="jar.core, jar.flightplans,jar.juav, compile.jpapabench.core, compile.jpapabench.pj">
     	<jar destfile="${output.jar.dir}/jpapabench-pj.jar" >
        	    <fileset dir="${output.jpapabench.pj.dir}" />
             <fileset dir="${output.jpapabench.core.flightplans.dir}"/>
     	    <fileset dir="${output.jpapabench.core.dir}"/>
-			
+    		<fileset dir="${output.jpapabench.juav.dir}"/>
             <manifest>
 			<attribute name="Main-Class" value="papabench.pj.PapaBenchPlainJavaApplication"/>
 			<attribute name="classpath" value="${build.rtsj.api}" />
