@@ -206,7 +206,7 @@
 	</target>
 	
     
-    <target name="jar.rtsj" depends="jar.core, jar.flightplans, compile.jpapabench.core,compile.jpapabench.rtsj">
+    <target name="jar.rtsj" depends="jar.core, jar.flightplans,jar.juav, compile.jpapabench.core,compile.jpapabench.rtsj">
     	<jar destfile="${output.jar.dir}/jpapabench-rtsj.jar" >
 	        <fileset dir="${output.jpapabench.rtsj.dir}" />
             <fileset dir="${output.jpapabench.core.flightplans.dir}"/>
