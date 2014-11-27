@@ -44,7 +44,6 @@ public class CommChannelPJ implements CommChannel {
 				String line = reader.readLine();
 				inputConn.put(line, socket);
 				System.out.println("Establish connection for " + line);
-				socket.close();
 			}
 			System.out.println("Finish input connections init");
 
