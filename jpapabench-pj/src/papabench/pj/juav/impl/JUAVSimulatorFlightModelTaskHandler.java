@@ -24,6 +24,10 @@ package papabench.pj.juav.impl;
 import static papabench.core.commons.conf.RadioConf.MAX_THRUST;
 import static papabench.core.commons.conf.RadioConf.MIN_THRUST;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Arrays;
 
 import javax.realtime.RealtimeThread;
@@ -149,13 +153,18 @@ public class JUAVSimulatorFlightModelTaskHandler implements Runnable {
 				Position3D p = new Position3D(x, y, z);
 				System.out.println(p.toString());
 				System.out.println(p1.toString());
-
+				try {
+				    PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("log.txt", true)));
+				    out.println(" position.x " + p.toString() + " Speed " + sensorVectorGPS[4]  );
+				    out.close();
+				} catch (IOException e) {
+				    //exception handling left as an exercise for the reader
+				}
 				flightModel.getState().setPosition(p);
 				float time = (float) sensorVectorGPS[6];
 				flightModel.getState().setTime(time);
 				flightModel.getState().setAirSpeed((float) sensorVectorGPS[4]);
 				flightModel.getState().setTime((float) sensorVectorGPS[6]);
-
 				// Allow the GPS data to be internally calculated with a minimal
 				// set of input data
 				// In this case, we will update the flightmodel position, and
