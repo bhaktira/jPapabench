@@ -1,0 +1,3 @@
+#!/bin/sh
+set -e
+/home/abhinav/Juav/Fiji/fivm-rtdroid/bin/fivmc --max-threads=110 --r-max-os-threads=110 --more-opt --r-nanos-per-tick=100000 --r-thr-stack-size=300000 --gc CMR --rt-library=RTSJ -o jpapbench /home/abhinav/jPapabench/jpapabench-build/output/jar/jpapabench-rtsj.jar /home/abhinav/jPapabench/jpapabench-build/output/jar/jpapabench-core.jar /home/abhinav/jPapabench/jpapabench-build/output/jar/jpapabench-core-flightplans.jar -v 1 --no-regen --no-scripts "$@"

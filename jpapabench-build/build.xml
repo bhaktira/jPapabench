@@ -211,6 +211,7 @@
 	        <fileset dir="${output.jpapabench.rtsj.dir}" />
             <fileset dir="${output.jpapabench.core.flightplans.dir}"/>
     	    <fileset dir="${output.jpapabench.core.dir}"/>
+<fileset dir="${output.jpapabench.juav.dir}"/>
             
             <manifest>
 			<attribute name="Main-Class" value="papabench.rtsj.PapaBenchRTSJApplication"/>

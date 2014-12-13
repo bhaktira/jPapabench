@@ -60,6 +60,7 @@ import papabench.core.simulator.tasks.handlers.SimulatorFlightModelTaskHandler;
 import papabench.core.simulator.tasks.handlers.SimulatorGPSTaskHandler;
 import papabench.core.simulator.tasks.handlers.SimulatorIRTaskHandler;
 import papabench.rtsj.commons.tasks.RealtimePeriodicTask;
+import papabench.messaging.juav.*;
 
 /**
  * RTSJ-based implementation of PapaBench.
@@ -131,8 +132,17 @@ public class PapaBenchRTSJImpl implements RTSJPapaBench {
 		flightModel.init();
 		
 		// Register simulator tasks
-		createSimulatorTasks(flightModel, autopilotModule, fbwModule);			
+		createSimulatorTasks(flightModel, autopilotModule, fbwModule);	
+		
+		MessageHelper.getInstance().init(autopilotModule, fbwModule,
+				flightPlan, flightModel);
+		createConnection();
 	}
+
+	private void createConnection() {
+		MessageHelper.getInstance();
+	}
+
 	
 	protected void createAutopilotTasks(AutopilotModule autopilotModule) {
 		autopilotTasks = new RealtimePeriodicTask[AUTOPILOT_TASKS_COUNT];
