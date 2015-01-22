@@ -2,6 +2,8 @@ package papabench.messaging.juav;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -22,6 +24,14 @@ public class CommChannelPJ implements CommChannel {
 	private final int[] OutputPeriodic = new int[] { 100, 50 };
 	private Map<String, Socket> inputConn;
 	private Map<String, Socket> outputConn;
+	
+	File fRead = new File("Read.txt");
+	FileOutputStream fos = new FileOutputStream(fRead);
+	BufferedWriter bRead = new BufferedWriter(new OutputStreamWriter(fos));
+	
+	File fWrite = new File("Write.txt");
+	FileOutputStream fos1 = new FileOutputStream(fWrite);
+	BufferedWriter bWrite = new BufferedWriter(new OutputStreamWriter(fos1));
 
 	public CommChannelPJ() {
 		this.inputConn = new HashMap<String, Socket>();
@@ -40,6 +50,8 @@ public class CommChannelPJ implements CommChannel {
 						new InputStreamReader(socket.getInputStream()));
 				System.out.println("Created Buffered reader...");
 				String line = reader.readLine();
+				bRead.write(line);
+				bRead.newLine();
 				inputConn.put(line, socket);
 				System.out.println("Establish connection for " + line);
 			}
@@ -57,6 +69,8 @@ public class CommChannelPJ implements CommChannel {
 							new OutputStreamWriter(socket.getOutputStream()));
 					writer.write("TEST\n");
 					writer.flush();
+					bWrite.write("TEST\n");
+					bWrite.newLine();
 				}
 			}
 
@@ -69,6 +83,7 @@ public class CommChannelPJ implements CommChannel {
 						new OutputStreamWriter(socket.getOutputStream()));
 				writer.write(OutputName[i] + "\n");
 				writer.flush();
+				bWrite.write(OutputName[i] + "\n");
 				outputConn.put(OutputName[i], socket);
 
 				// Thread st = new Thread(new SendingThread(socket,
@@ -100,6 +115,7 @@ public class CommChannelPJ implements CommChannel {
 			for (String msg : msgList) {
 				//System.out.println("Sending other msg back " + msg);
 				writer.write(msg + "\n");
+				bWrite.write(msg + "\n");
 				writer.flush();
 			}
 		} catch (IOException e) {
@@ -114,6 +130,7 @@ public class CommChannelPJ implements CommChannel {
 
 			//System.out.println("Sending other msg back " + msg);
 			writer.write(msg + "\n");
+			bWrite.write(msg + "\n");
 			writer.flush();
 
 		} catch (IOException e) {
@@ -127,6 +144,7 @@ public class CommChannelPJ implements CommChannel {
 					outputConn.get("COMMAND").getOutputStream()));
 			//System.out.println("Sending command msg back " + msg);
 			writer.write(msg + "\n");
+			bWrite.write(msg + "\n");
 			writer.flush();
 			// writer.close();
 		} catch (IOException e) {
@@ -140,6 +158,7 @@ public class CommChannelPJ implements CommChannel {
 			BufferedReader reader = new BufferedReader(new InputStreamReader(
 					inputConn.get(key).getInputStream()));
 			line = reader.readLine();
+			bRead.write(line + "\n");
 		} catch (SocketTimeoutException e) {
 			// TODO Auto-generated catch block
 			// e.printStackTrace();
