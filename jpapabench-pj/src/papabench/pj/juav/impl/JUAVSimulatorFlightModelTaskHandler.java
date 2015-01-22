@@ -147,10 +147,10 @@ public class JUAVSimulatorFlightModelTaskHandler implements Runnable {
 
 				Position3D p1 = GPSConversion.ecef_of_lla_f(lat, lon, z);
 				Position3D p = new Position3D(x, y, z);
-				System.out.println(p.toString());
-				System.out.println(p1.toString());
+				System.out.println("ECEF to LLA" + p1.toString());
+				System.out.println("Position3d values " + p.toString());
 
-				flightModel.getState().setPosition(p);
+				flightModel.getState().setPosition(p1);
 				float time = (float) sensorVectorGPS[6];
 				flightModel.getState().setTime(time);
 				flightModel.getState().setAirSpeed((float) sensorVectorGPS[4]);

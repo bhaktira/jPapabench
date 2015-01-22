@@ -45,7 +45,7 @@ public class CommChannels implements CommChannel {
 			int length = fivmRuntime.lengthOfCString(p);
 			ethernet_write(p, length, 1);
 
-			// System.out.println(">> " + msg);
+			System.out.println("Sending back  " + msg);
 
 			// Free the buffer here
 			fivmRuntime.returnBuffer(p);

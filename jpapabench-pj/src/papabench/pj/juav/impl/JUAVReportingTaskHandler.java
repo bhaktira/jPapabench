@@ -89,6 +89,7 @@ public class JUAVReportingTaskHandler implements Runnable {
 		OutputMsgInfo outInfo = OutputMsgInfo.getInstance();
 		List<String> msgList = outInfo.getOutputMsg();
 
+		//Reply back to paparazzi
 		channels.sendOtherMsg(msgList);
 
 		// send attitude (500ms)

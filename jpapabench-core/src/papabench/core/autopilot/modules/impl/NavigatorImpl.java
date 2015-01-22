@@ -140,7 +140,7 @@ public class NavigatorImpl implements Navigator {
 
 	public void setDesiredGaz(int desiredGaz) {
 		this.desiredGaz = desiredGaz;
-		System.out.println("desiredGaz set to " + this.desiredGaz);
+		//System.out.println("desiredGaz set to " + this.desiredGaz);
 	}
 
 	public void setAutopilotModule(AutopilotModule autopilotModule) {

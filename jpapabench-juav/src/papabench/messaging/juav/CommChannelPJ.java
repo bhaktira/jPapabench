@@ -98,7 +98,7 @@ public class CommChannelPJ implements CommChannel {
 			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
 					outputConn.get("OTHERS").getOutputStream()));
 			for (String msg : msgList) {
-				// System.out.println(msg);
+				//System.out.println("Sending other msg back " + msg);
 				writer.write(msg + "\n");
 				writer.flush();
 			}
@@ -112,7 +112,7 @@ public class CommChannelPJ implements CommChannel {
 			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
 					outputConn.get("OTHERS").getOutputStream()));
 
-			// System.out.println(msg);
+			//System.out.println("Sending other msg back " + msg);
 			writer.write(msg + "\n");
 			writer.flush();
 
@@ -125,6 +125,7 @@ public class CommChannelPJ implements CommChannel {
 		try {
 			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
 					outputConn.get("COMMAND").getOutputStream()));
+			//System.out.println("Sending command msg back " + msg);
 			writer.write(msg + "\n");
 			writer.flush();
 			// writer.close();

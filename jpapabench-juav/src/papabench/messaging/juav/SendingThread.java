@@ -23,7 +23,7 @@ public class SendingThread implements Runnable {
 			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(s.getOutputStream()));
 			while (true) {
 				writer.write(name + " " + counter+"\n");
-				//System.out.println("out ===>" + name + " " + counter);
+				System.out.println("Sending back  ===>" + name + " " + counter);
 				writer.flush();
 				counter++;
 				Thread.sleep(periodic);

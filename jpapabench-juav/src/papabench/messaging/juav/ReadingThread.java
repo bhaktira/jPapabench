@@ -18,7 +18,7 @@ public class ReadingThread implements Runnable {
 			while (true) {
 				String line = reader.readLine();
 				if(line != null){
-					System.out.println(line);
+					System.out.println(" Read " + line);
 				} 
 				
 				Thread.sleep(100);

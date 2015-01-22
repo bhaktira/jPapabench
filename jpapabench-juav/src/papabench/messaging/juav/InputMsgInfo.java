@@ -222,7 +222,7 @@ public class InputMsgInfo {
 		val[6] = time;
 		val[7] = 3.0;
 
-		System.out.print("GPS { ");
+		System.out.print("GPS from InputMsgInfo class { ");
 		for (int i = 0; i < val.length; i++) {
 			System.out.print(val[i] + ", ");
 		}
